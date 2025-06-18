@@ -7,14 +7,14 @@
             "runtime": "vercel-php@0.6.0"
         }
     },
-    "routes": [
+    "rewrites": [
         {
-            "src": "/contact-form",
-            "dest": "/email-templates/contact-form.php"
+            "source": "/contact-form",
+            "destination": "/email-templates/contact-form.php"
         },
         {
-            "src": "/subscribe",
-            "dest": "/email-templates/subscribe-newsletter.php"
+            "source": "/subscribe",
+            "destination": "/email-templates/subscribe-newsletter.php"
         }
     ],
     "cleanUrls": true
