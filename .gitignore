@@ -1,0 +1,22 @@
+# Vercel
+.vercel
+
+# macOS
+.DS_Store
+*/.DS_Store
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp 
