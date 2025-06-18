@@ -1,21 +1,3 @@
 {
-    "functions": {
-        "email-templates/contact-form.php": {
-            "runtime": "vercel-php@0.6.0"
-        },
-        "email-templates/subscribe-newsletter.php": {
-            "runtime": "vercel-php@0.6.0"
-        }
-    },
-    "rewrites": [
-        {
-            "source": "/contact-form",
-            "destination": "/email-templates/contact-form.php"
-        },
-        {
-            "source": "/subscribe",
-            "destination": "/email-templates/subscribe-newsletter.php"
-        }
-    ],
     "cleanUrls": true
 }

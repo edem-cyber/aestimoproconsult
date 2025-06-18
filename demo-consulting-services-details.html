@@ -472,7 +472,7 @@
                         <div class="p-14 lg-p-11 border-radius-6px bg-dark-gray h-100"> 
                             <h3 class="fw-500 alt-font text-white mb-30px md-mb-15px ls-minus-1px">Get a free quote?</h3> 
                             <!-- start contact form -->
-                            <form action="email-templates/contact-form.php" method="post">
+                            <form action="api/contact-form" method="post">
                                 <div class="position-relative form-group mb-20px">
                                     <span class="form-icon"><i class="bi bi-person icon-extra-medium"></i></span>
                                     <input class="ps-0 border-radius-0px fs-17 bg-transparent border-color-transparent-white-light placeholder-medium-gray form-control required" type="text" name="name" placeholder="Enter your name*">
@@ -596,7 +596,7 @@
                         <span class="alt-font d-block text-dark-gray fw-600 mb-10px fs-19">Newsletter</span>
                         <p class="sm-mb-20px">Subscribe our newsletter to get the latest news and updates.</p>
                         <div class="d-inline-block w-100 newsletter-style-02 position-relative">
-                            <form action="email-templates/subscribe-newsletter.php" method="post" class="position-relative w-100">
+                            <form action="api/subscribe" method="post" class="position-relative w-100">
                                 <input class="bg-transparent border-color-extra-medium-gray w-100 form-control required" type="email" name="email" placeholder="Enter email address...">
                                 <input type="hidden" name="redirect" value="">
                                 <button class="btn submit" aria-label="submit"><i class="icon feather icon-feather-mail icon-small text-base-color"></i></button>
