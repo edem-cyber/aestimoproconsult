@@ -7,10 +7,11 @@
         <div class="row justify-content-center pt-7 sm-pt-50px">
             <!-- start footer column -->
             <div class="col-7 col-lg-3 col-md-12 col-sm-6 text-md-center text-lg-start md-mb-30px">
-                <a href="demo-consulting.html" class="footer-logo mb-15px md-mb-20px d-inline-block"><img
+                <a href="demo-consulting.php" class="footer-logo mb-15px md-mb-20px d-inline-block"><img
                         src="images/demo-consulting-logo-black.png" data-at2x="images/demo-consulting-logo-black@2x.png"
                         alt=""></a>
-                <p class="mb-20px">Lorem ipsum dolor consectetur adipiscing eiusmod tempor.</p>
+                <p class="mb-20px">Aestimo Pro Consult - Professional accounting, tax and business advisory services
+                    across Africa. Licensed by CITG (CTPF D/00013).</p>
                 <div class="elements-social social-icon-style-02">
                     <ul class="medium-icon dark icon-with-animation">
                         <li><a class="facebook" href="https://www.facebook.com/" target="_blank"><i
@@ -29,29 +30,29 @@
             <div class="col-5 col-lg-2 offset-xl-1 col-md-3 col-sm-6 md-mb-30px">
                 <span class="alt-font d-block text-dark-gray fw-600 mb-10px fs-19">Company</span>
                 <ul>
-                    <li><a href="demo-consulting-company.html">Company</a></li>
-                    <li><a href="demo-consulting-services.html">Services</a></li>
-                    <li><a href="demo-consulting-process.html">Process</a></li>
-                    <li><a href="demo-consulting-contact.html">Contact</a></li>
+                    <li><a href="demo-consulting-company.php">Company</a></li>
+                    <li><a href="demo-consulting-services.php">Services</a></li>
+                    <li><a href="demo-consulting-process.php">Process</a></li>
+                    <li><a href="demo-consulting-contact.php">Contact</a></li>
                 </ul>
             </div>
             <!-- end footer column -->
             <!-- start footer column -->
             <div class="col-lg-3 col-md-4 col-sm-6 xs-mb-30px">
                 <span class="alt-font d-block text-dark-gray fw-600 mb-10px fs-19">Get in touch</span>
-                <p class="mb-15px w-75 lg-w-85 sm-w-100">Broadway, 24th Floor New York, NY, 10013</p>
+                <p class="mb-15px w-75 lg-w-85 sm-w-100">P.O. Box 1923, Osu<br>Dzorwulu, Accra, Ghana</p>
                 <p class="m-0"><span class="fw-600"><i
                             class="feather icon-feather-phone-call text-dark-gray icon-small me-10px"></i></span><a
-                        href="tel:1800222000">1-800-222-000</a></p>
+                        href="tel:+233545648343">+233 54 564 8343</a></p>
                 <p class="m-0"><span class="fw-600"><i
                             class="feather icon-feather-mail text-dark-gray icon-small me-10px"></i></span><a
-                        href="mailto:info@domain.com">info@domain.com</a></p>
+                        href="mailto:avonomanprince@gmail.com">avonomanprince@gmail.com</a></p>
             </div>
             <!-- end footer column -->
             <!-- start footer column -->
             <div class="col-xl-3 col-lg-4 col-md-5 col-sm-6">
                 <span class="alt-font d-block text-dark-gray fw-600 mb-10px fs-19">Newsletter</span>
-                <p class="sm-mb-20px">Subscribe our newsletter to get the latest news and updates.</p>
+                <p class="sm-mb-20px">Subscribe to get timely updates on tax, accounting and advisory matters.</p>
                 <div class="d-inline-block w-100 newsletter-style-02 position-relative">
                     <form action="api/subscribe" method="post" class="position-relative w-100">
                         <input class="bg-transparent border-color-extra-medium-gray w-100 form-control required"
@@ -76,8 +77,7 @@
             <!-- start copyright -->
             <div
                 class="col-lg-6 pt-25px pb-25px md-pt-0 fs-16 last-paragraph-no-margin order-2 order-lg-1 text-center text-lg-start">
-                <p>&copy; 2024 Crafto is Proudly Powered by <a href="https://www.themezaa.com/" target="_blank"
-                        class="text-decoration-line-bottom text-dark-gray fw-500">ThemeZaa</a></p>
+                <p>&copy; 2024 Aestimo Pro Consult. All rights reserved. Licensed by CITG (CTPF D/00013)</p>
             </div>
             <!-- end copyright -->
             <!-- start footer menu -->

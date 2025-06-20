@@ -2,13 +2,13 @@
 <html class="no-js" lang="en">
 
 <head>
-    <title>Crafto - The Multipurpose HTML5 Template</title>
+    <title>Contact Aestimo Pro Consult - Professional Accounting & Tax Advisory Services</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="author" content="ThemeZaa">
+    <meta name="author" content="Aestimo Pro Consult">
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta name="description"
-        content="Elevate your online presence with Crafto - a modern, versatile, multipurpose Bootstrap 5 responsive HTML5, SCSS template using highly creative 52+ ready demos.">
+        content="Contact Aestimo Pro Consult for professional accounting, tax advisory, and business consulting services. Licensed by CITG (CTPF D/00013). Call +233 54 564 8343 or email avonomanprince@gmail.com">
     <!-- favicon icon -->
     <link rel="shortcut icon" href="images/favicon.png">
     <link rel="apple-touch-icon" href="images/apple-touch-icon-57x57.png">
@@ -35,7 +35,8 @@
             <div class="row align-items-center justify-content-center small-screen">
                 <div class="col-lg-6 col-md-8 position-relative text-center page-title-extra-small"
                     data-anime='{ "el": "childs", "rotateX": [90, 0], "opacity": [0,1], "staggervalue": 150, "easing": "easeOutQuad" }'>
-                    <h1 class="mb-5px alt-font text-white fw-400"><span class="opacity-6">Love to hear from you</span>
+                    <h1 class="mb-5px alt-font text-white fw-400"><span class="opacity-6">Professional accounting & tax
+                            services</span>
                     </h1>
                     <h2 class="mb-0 text-white alt-font ls-minus-2px text-shadow-double-large fw-500">Contact us</h2>
                 </div>
@@ -63,9 +64,9 @@
                             <i class="line-icon-Geo2-Love icon-extra-large text-base-color mb-25px"></i>
                         </div>
                         <div class="feature-box-content last-paragraph-no-margin">
-                            <span class="d-inline-block alt-font fw-600 text-dark-gray mb-5px fs-20">Crafto
+                            <span class="d-inline-block alt-font fw-600 text-dark-gray mb-5px fs-20">Aestimo Pro Consult
                                 office</span>
-                            <p>401 Broadway, 24th Floor,<br> Orchard View, London, UK</p>
+                            <p>P.O. Box 1923, Osu<br> Dzorwulu, Accra, Ghana</p>
                         </div>
                     </div>
                 </div>
@@ -80,9 +81,10 @@
                             <span class="d-inline-block alt-font fw-600 text-dark-gray mb-5px fs-20">Call us
                                 directly</span>
                             <div class="w-100 d-block">
-                                <span class="d-block">Phone: <a href="tel:1800222000"
-                                        class="text-base-color-hover">1-800-222-000</a></span>
-                                <span class="d-block">Fax: 1-800-222-002</span>
+                                <span class="d-block">Prince: <a href="tel:+233545648343"
+                                        class="text-base-color-hover">+233 54 564 8343</a></span>
+                                <span class="d-block">Nathaniel: <a href="tel:+233549588298"
+                                        class="text-base-color-hover">+233 54 958 8298</a></span>
                             </div>
                         </div>
                     </div>
@@ -97,8 +99,9 @@
                         <div class="feature-box-content last-paragraph-no-margin">
                             <span class="d-inline-block alt-font fw-600 text-dark-gray mb-5px fs-20">E-mail us</span>
                             <div class="w-100 d-block">
-                                <a href="mailto:info@yourdomain.com" class="d-block">info@yourdomain.com</a>
-                                <a href="mailto:hr@yourdomain.com" class="d-block">hr@yourdomain.com</a>
+                                <a href="mailto:avonomanprince@gmail.com" class="d-block">avonomanprince@gmail.com</a>
+                                <a href="mailto:nathaniel.yankah@gmail.com"
+                                    class="d-block">nathaniel.yankah@gmail.com</a>
                             </div>
                         </div>
                     </div>
@@ -109,13 +112,24 @@
     </section>
     <!-- end section -->
     <!-- start section -->
-    <section class="p-0" id="location"
+    <section class="bg-dark-gray p-0" id="location"
         data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
         <div class="container-fluid">
             <div class="row justify-content-center">
                 <div class="col-12 p-0">
-                    <div id="map" class="map"
-                        data-map-options='{ "lat": -37.805688, "lng": 144.962312, "style": "Silver", "marker": { "type": "HTML", "color": "#dd6531" }, "popup": { "defaultOpen": true, "html": "<div class=infowindow><strong class=\"mb-3 d-inline-block alt-font\">Crafto Consulting</strong><p class=\"alt-font\">16122 Collins street, Melbourne, Australia</p></div><div class=\"google-maps-link alt-font\"> <a aria-label=\"View larger map\" target=\"_blank\" jstcache=\"31\" href=\"https://maps.google.com/maps?ll=-37.805688,144.962312&amp;z=17&amp;t=m&amp;hl=en-US&amp;gl=IN&amp;mapclient=embed&amp;cid=13153204942596594449\" jsaction=\"mouseup:placeCard.largerMap\">VIEW LARGER MAP</a></div>" } }'>
+                    <div class="bg-dark-gray text-center py-6">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <h3 class="alt-font text-white fw-600 mb-20px">Visit Our Office</h3>
+                                    <p class="text-white mb-25px fs-18">P.O. Box 1923, Osu<br>Dzorwulu, Accra, Ghana</p>
+                                    <a href="https://maps.google.com/maps?q=Dzorwulu,+Accra,+Ghana" target="_blank"
+                                        class="btn btn-medium btn-white btn-box-shadow btn-round-edge">
+                                        <i class="feather icon-feather-map-pin me-10px"></i>View on Google Maps
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -128,9 +142,51 @@
             <div class="row justify-content-center">
                 <div class="col-lg-7 text-center mb-2"
                     data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 100, "easing": "easeOutQuad" }'>
-                    <span class="fw-600 ls-1px fs-16 alt-font d-inline-block text-uppercase mb-5px text-base-color">Feel
-                        free to get in touch!</span>
-                    <h2 class="alt-font text-dark-gray fw-600 ls-minus-2px">How we can help you?</h2>
+                    <span
+                        class="fw-600 ls-1px fs-16 alt-font d-inline-block text-uppercase mb-5px text-base-color">Professional
+                        accounting & tax services</span>
+                    <h2 class="alt-font text-dark-gray fw-600 ls-minus-2px">How can we help your business grow?</h2>
+                </div>
+            </div>
+            <div class="row justify-content-center mb-6"
+                data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 100, "easing": "easeOutQuad" }'>
+                <div class="col-lg-4 col-md-6 mb-30px">
+                    <div class="feature-box text-start">
+                        <div class="feature-box-icon">
+                            <i class="line-icon-Bar-Chart icon-medium text-base-color mb-20px"></i>
+                        </div>
+                        <div class="feature-box-content">
+                            <span class="d-block alt-font fw-600 text-dark-gray mb-10px fs-18">Accounting &
+                                Bookkeeping</span>
+                            <p class="mb-0">Monthly financial statements, cash book preparation, and regulatory
+                                reporting to help you maintain accurate financial records.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 mb-30px">
+                    <div class="feature-box text-start">
+                        <div class="feature-box-icon">
+                            <i class="line-icon-Receipt icon-medium text-base-color mb-20px"></i>
+                        </div>
+                        <div class="feature-box-content">
+                            <span class="d-block alt-font fw-600 text-dark-gray mb-10px fs-18">Tax Compliance &
+                                Advisory</span>
+                            <p class="mb-0">Comprehensive tax planning, VAT returns, withholding tax management, and
+                                representation with Ghana Revenue Authority.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 mb-30px">
+                    <div class="feature-box text-start">
+                        <div class="feature-box-icon">
+                            <i class="line-icon-Business-ManWoman icon-medium text-base-color mb-20px"></i>
+                        </div>
+                        <div class="feature-box-content">
+                            <span class="d-block alt-font fw-600 text-dark-gray mb-10px fs-18">Business Advisory</span>
+                            <p class="mb-0">Strategic planning, financial modeling, due diligence, and business
+                                restructuring to drive growth and efficiency.</p>
+                        </div>
+                    </div>
                 </div>
             </div>
             <div class="row row-cols-md-1 justify-content-center"
@@ -156,16 +212,17 @@
                         </div>
                         <div class="col-md-12 mb-30px">
                             <textarea class="box-shadow-quadruple-large form-control" cols="40" rows="4" name="comment"
-                                placeholder="Your message"></textarea>
+                                placeholder="Tell us about your accounting, tax or business advisory needs"></textarea>
                         </div>
                         <div class="col-md-7 last-paragraph-no-margin">
-                            <p class="text-center text-md-start fs-16">We are committed to protecting your privacy. We
-                                will never collect information about you without your explicit consent.</p>
+                            <p class="text-center text-md-start fs-16">We are committed to protecting your privacy and
+                                providing professional, confidential accounting and tax advisory services. Licensed by
+                                CITG (CTPF D/00013).</p>
                         </div>
                         <div class="col-md-5 text-center text-md-end sm-mt-20px">
                             <input type="hidden" name="redirect" value="">
                             <button class="btn btn-medium btn-dark-gray btn-box-shadow btn-round-edge submit"
-                                type="submit">send message</button>
+                                type="submit">Get consultation</button>
                         </div>
                         <div class="col-12">
                             <div class="form-results mt-20px d-none"></div>
@@ -181,8 +238,7 @@
     <!-- javascript libraries -->
     <script type="text/javascript" src="js/jquery.js"></script>
     <script type="text/javascript" src="js/vendors.min.js"></script>
-    <script async defer
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCA56KqSJ11nQUw_tXgXyNMiPmQeM7EaSA&callback=initMap"></script>
+
     <script type="text/javascript" src="js/main.js"></script>
 </body>
 

@@ -2,13 +2,13 @@
 <html class="no-js" lang="en">
 
 <head>
-    <title>Crafto - The Multipurpose HTML5 Template</title>
+    <title>Aestimo Pro Consult - Professional Accounting & Tax Advisory Services</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="author" content="ThemeZaa">
+    <meta name="author" content="Aestimo Pro Consult">
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta name="description"
-        content="Elevate your online presence with Crafto - a modern, versatile, multipurpose Bootstrap 5 responsive HTML5, SCSS template using highly creative 52+ ready demos.">
+        content="Aestimo Pro Consult provides professional accounting, tax advisory, business consulting and financial management services. Licensed by CITG with over a decade of experience.">
     <!-- favicon icon -->
     <link rel="shortcut icon" href="images/favicon.png">
     <link rel="apple-touch-icon" href="images/apple-touch-icon-57x57.png">
@@ -45,19 +45,19 @@
                                     <div class="alt-font fs-110 xs-fs-80 lh-100 mb-5 xs-mb-35px ls-minus-4px xs-ls-minus-2px text-shadow-double-large transform-origin-right"
                                         data-anime='{ "el": "childs", "rotateX": [90, 0], "opacity": [0,1], "staggervalue": 150, "easing": "easeOutQuad" }'>
                                         <span class="d-inline-block">Professional</span>
-                                        <span class="d-inline-block fw-600">consulting</span>
+                                        <span class="d-inline-block fw-600">accounting</span>
                                     </div>
                                     <div
                                         data-anime='{  "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 300, "staggervalue": 300, "easing": "easeOutQuad" }'>
                                         <a href="demo-consulting-contact.html"
-                                            class="btn btn-base-color btn-box-shadow btn-large btn-round-edge">Let's
-                                            work together</a>
+                                            class="btn btn-base-color btn-box-shadow btn-large btn-round-edge">Get
+                                            started today</a>
                                     </div>
                                     <div data-anime='{ "opacity": [0, 1], "duration": 500, "delay": 1000, "easing": "easeOutQuad" }'
                                         class="fs-20 alt-font position-absolute lg-position-relative left-0px right-0px bottom-0 mb-8 lg-mt-40px lg-mb-0 sm-mt-25px w-100 text-shadow-double-large">
                                         Request a free <a href="demo-consulting-contact.html"
                                             class="text-decoration-line-bottom text-white fw-500">business
-                                            consulting!</a></div>
+                                            consultation!</a></div>
                                 </div>
                             </div>
                         </div>
@@ -75,19 +75,19 @@
                                     class="col-md-10 position-relative text-white d-flex flex-column justify-content-center h-100 text-center">
                                     <div class="alt-font fs-110 xs-fs-80 lh-100 mb-5 xs-mb-35px ls-minus-4px xs-ls-minus-2px text-shadow-double-large"
                                         data-anime='{ "el": "childs", "rotateX": [90, 0], "opacity": [0,1], "staggervalue": 150, "easing": "easeOutQuad" }'>
-                                        <span class="d-inline-block">Contribute</span><br>
-                                        <span class="fw-600 d-inline-block">guidance</span>
+                                        <span class="d-inline-block">Expert</span><br>
+                                        <span class="fw-600 d-inline-block">tax advisory</span>
                                     </div>
                                     <div
                                         data-anime='{  "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 300, "staggervalue": 300, "easing": "easeOutQuad" }'>
                                         <a href="demo-consulting-contact.html"
-                                            class="btn btn-base-color btn-box-shadow btn-large btn-round-edge">Let's
-                                            work together</a>
+                                            class="btn btn-base-color btn-box-shadow btn-large btn-round-edge">Get
+                                            started today</a>
                                     </div>
                                     <div data-anime='{ "opacity": [0, 1], "duration": 500, "delay": 1000, "easing": "easeOutQuad" }'
                                         class="fs-20 alt-font position-absolute lg-position-relative left-0px right-0px bottom-0 mb-8 lg-mt-40px lg-mb-0 sm-mt-25px w-100 text-shadow-double-large">
                                         Discover our <a href="demo-consulting-process.html"
-                                            class="text-decoration-line-bottom text-white fw-500">business process!</a>
+                                            class="text-decoration-line-bottom text-white fw-500">service offerings!</a>
                                     </div>
                                 </div>
                             </div>
@@ -107,18 +107,18 @@
                                     <div class="alt-font fs-110 xs-fs-80 lh-100 mb-5 xs-mb-35px ls-minus-4px xs-ls-minus-2px text-shadow-double-large"
                                         data-anime='{ "el": "childs", "rotateX": [90, 0], "opacity": [0,1], "staggervalue": 150, "easing": "easeOutQuad" }'>
                                         <span class="d-inline-block">Business</span><br>
-                                        <span class="fw-600 d-inline-block">strategies</span>
+                                        <span class="fw-600 d-inline-block">growth solutions</span>
                                     </div>
                                     <div
                                         data-anime='{  "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 300, "staggervalue": 300, "easing": "easeOutQuad" }'>
                                         <a href="demo-consulting-contact.html"
-                                            class="btn btn-base-color btn-box-shadow btn-large btn-round-edge">Let's
-                                            work together</a>
+                                            class="btn btn-base-color btn-box-shadow btn-large btn-round-edge">Get
+                                            started today</a>
                                     </div>
                                     <div data-anime='{ "opacity": [0, 1], "duration": 500, "delay": 1000, "easing": "easeOutQuad" }'
                                         class="fs-20 alt-font position-absolute lg-position-relative left-0px right-0px bottom-0 mb-8 lg-mt-40px lg-mb-0 sm-mt-25px w-100 text-shadow-double-large">
                                         Become a part of <a href="demo-consulting-company.html"
-                                            class="text-decoration-line-bottom text-white fw-500">business venture!</a>
+                                            class="text-decoration-line-bottom text-white fw-500">our success story!</a>
                                     </div>
                                 </div>
                             </div>
@@ -150,37 +150,40 @@
                             <img src="https://placehold.co/64x64" alt="" />
                         </div>
                         <div class="feature-box-content">
-                            <span class="d-inline-block alt-font text-dark-gray fw-600 mb-5px fs-20">Innovative
-                                ideas</span>
-                            <p class="w-90 md-w-100">Lorem ipsum simply dummy text printing typesetting.</p>
-                        </div>
-                    </div>
-                </div>
-                <!-- end features box item -->
-                <!-- start features box item -->
-                <div class="col icon-with-text-style-01 mb-50px sm-mb-40px">
-                    <div class="feature-box feature-box-left-icon last-paragraph-no-margin">
-                        <div class="feature-box-icon">
-                            <img src="https://placehold.co/64x64" alt="" />
-                        </div>
-                        <div class="feature-box-content">
-                            <span class="d-inline-block alt-font text-dark-gray fw-600 mb-5px fs-20">Expertise
-                                strategy</span>
-                            <p class="w-90 md-w-100">Lorem ipsum simply dummy text printing typesetting.</p>
-                        </div>
-                    </div>
-                </div>
-                <!-- end features box item -->
-                <!-- start features box item -->
-                <div class="col icon-with-text-style-01 mb-50px sm-mb-40px">
-                    <div class="feature-box feature-box-left-icon last-paragraph-no-margin">
-                        <div class="feature-box-icon">
-                            <img src="https://placehold.co/64x64" alt="" />
-                        </div>
-                        <div class="feature-box-content">
                             <span class="d-inline-block alt-font text-dark-gray fw-600 mb-5px fs-20">Financial
-                                planning</span>
-                            <p class="w-90 md-w-100">Lorem ipsum simply dummy text printing typesetting.</p>
+                                Excellence</span>
+                            <p class="w-90 md-w-100">Professional accounting and financial reporting services with
+                                modern technology solutions.</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- end features box item -->
+                <!-- start features box item -->
+                <div class="col icon-with-text-style-01 mb-50px sm-mb-40px">
+                    <div class="feature-box feature-box-left-icon last-paragraph-no-margin">
+                        <div class="feature-box-icon">
+                            <img src="https://placehold.co/64x64" alt="" />
+                        </div>
+                        <div class="feature-box-content">
+                            <span class="d-inline-block alt-font text-dark-gray fw-600 mb-5px fs-20">Tax
+                                Expertise</span>
+                            <p class="w-90 md-w-100">Comprehensive tax compliance and advisory services with deep local
+                                expertise.</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- end features box item -->
+                <!-- start features box item -->
+                <div class="col icon-with-text-style-01 mb-50px sm-mb-40px">
+                    <div class="feature-box feature-box-left-icon last-paragraph-no-margin">
+                        <div class="feature-box-icon">
+                            <img src="https://placehold.co/64x64" alt="" />
+                        </div>
+                        <div class="feature-box-content">
+                            <span class="d-inline-block alt-font text-dark-gray fw-600 mb-5px fs-20">Business
+                                Growth</span>
+                            <p class="w-90 md-w-100">Strategic business advisory and consulting services to drive
+                                sustainable growth.</p>
                         </div>
                     </div>
                 </div>
@@ -200,19 +203,22 @@
                 </div>
                 <div class="col-lg-5 offset-lg-1 md-mt-30px"
                     data-anime='{ "opacity": [0, 1], "duration": 600, "delay": 0, "staggervalue": 150, "easing": "easeOutCirc" }'>
-                    <span class="fs-20 mb-15px text-dark-gray fw-600 d-inline-block">Company's vision</span>
-                    <h2 class="alt-font fw-600 text-dark-gray ls-minus-2px mb-25px">Scalable business for startups.</h2>
-                    <p class="w-80 lg-w-100 mb-35px sm-mb-25px">Lorem ipsum dolor sit amet consectetur elit adipiscing
-                        elit do eiusmod tempor incididunt ut labore et dolore magna ut enim.</p>
+                    <span class="fs-20 mb-15px text-dark-gray fw-600 d-inline-block">Our Mission</span>
+                    <h2 class="alt-font fw-600 text-dark-gray ls-minus-2px mb-25px">Building trusted partnerships for
+                        financial excellence.</h2>
+                    <p class="w-80 lg-w-100 mb-35px sm-mb-25px">Aestimo Pro Consult is a registered partnership licensed
+                        by the Chartered Institute of Taxation Ghana (CITG License: CTPF D/00013). We specialize in
+                        management, IT, accounting, tax, financial control and business advisory, providing innovative,
+                        integrated solutions across Africa with over a decade of experience.</p>
                     <div class="d-inline-block">
-                        <a href="demo-consulting-company.html"
+                        <a href="demo-consulting-company.php"
                             class="btn btn-medium btn-dark-gray btn-box-shadow me-25px btn-round-edge">About company</a>
-                        <a href="demo-consulting-process.html"
-                            class="btn btn-link btn-large text-dark-gray xs-mt-15px xs-mb-15px">How we work</a>
+                        <a href="demo-consulting-process.php"
+                            class="btn btn-link btn-large text-dark-gray xs-mt-15px xs-mb-15px">Our services</a>
                     </div>
                     <div class="row align-items-center mt-50px sm-mt-40px">
                         <div class="col-auto col-lg-4 border-end border-color-extra-medium-gray text-center">
-                            <h1 class="text-dark-gray fw-700 mb-0">4.9</h1>
+                            <h1 class="text-dark-gray fw-700 mb-0">10+</h1>
                         </div>
                         <div class="col-7 ms-15px md-ms-0">
                             <div class="review-star-icon fs-18">
@@ -220,7 +226,7 @@
                                     class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
                                     class="bi bi-star-fill"></i>
                             </div>
-                            <span class="text-dark-gray d-block fw-500 fs-18">2,488 Genuine rating</span>
+                            <span class="text-dark-gray d-block fw-500 fs-18">Years of expertise</span>
                         </div>
                     </div>
                 </div>
@@ -235,9 +241,9 @@
                 <div class="col-xl-5 col-lg-7 col-md-8 text-center"
                     data-anime='{ "opacity": [0,1], "duration": 800, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <span
-                        class="fw-600 ls-1px fs-16 alt-font d-inline-block text-uppercase mb-5px text-base-color">Innovative
-                        solutions</span>
-                    <h2 class="alt-font text-dark-gray fw-600 ls-minus-2px">Consulting services</h2>
+                        class="fw-600 ls-1px fs-16 alt-font d-inline-block text-uppercase mb-5px text-base-color">Professional
+                        expertise</span>
+                    <h2 class="alt-font text-dark-gray fw-600 ls-minus-2px">Our services</h2>
                 </div>
             </div>
             <div class="row row-cols-1 row-cols-xl-4 row-cols-md-2 row-cols-sm-2 justify-content-center"
@@ -252,16 +258,18 @@
                                 <div class="atropos-inner">
                                     <figure class="m-0 hover-box border-radius-4px overflow-hidden position-relative"
                                         data-atropos-offset="3">
-                                        <img class="w-100" src="https://placehold.co/600x815" alt="" />
+                                        <img class="w-100"
+                                            src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=815&fit=crop&crop=face"
+                                            alt="Professional Accounting Services" />
                                         <figcaption
                                             class="d-flex flex-column align-items-start justify-content-center position-absolute left-0px top-0px w-100 h-100 z-index-1 p-15 xl-p-12 last-paragraph-no-margin">
                                             <div
                                                 class="mb-auto bg-base-color fw-500 text-white text-uppercase border-radius-30px ps-20px pe-20px fs-13">
-                                                Flexible</div>
+                                                Essential</div>
                                             <span
-                                                class="alt-font text-white fw-500 fs-26 sm-lh-26 xs-lh-28 sm-mb-5px">Audit
-                                                assurance</span>
-                                            <p class="text-white opacity-6 fs-18">Innovative solutions</p>
+                                                class="alt-font text-white fw-500 fs-26 sm-lh-26 xs-lh-28 sm-mb-5px">Accounting
+                                                & Bookkeeping</span>
+                                            <p class="text-white opacity-6 fs-18">Financial reporting & analysis</p>
                                             <div
                                                 class="position-absolute left-0px top-0px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9">
                                             </div>
@@ -286,15 +294,17 @@
                                 <div class="atropos-inner">
                                     <figure class="m-0 hover-box border-radius-4px overflow-hidden position-relative"
                                         data-atropos-offset="3">
-                                        <img class="w-100" src="https://placehold.co/600x815" alt="" />
+                                        <img class="w-100"
+                                            src="https://images.unsplash.com/photo-1573497620053-ea5300f94f21?w=600&h=815&fit=crop&crop=face"
+                                            alt="Tax Compliance Services" />
                                         <figcaption
                                             class="d-flex flex-column align-items-start justify-content-center position-absolute left-0px top-0px w-100 h-100 z-index-1 p-15 xl-p-12 last-paragraph-no-margin">
                                             <div
                                                 class="mb-auto bg-base-color fw-500 text-white text-uppercase border-radius-30px ps-20px pe-20px fs-13">
-                                                Diversity</div>
-                                            <span class="alt-font text-white fw-500 fs-26 sm-lh-26 xs-lh-28">Financial
-                                                advisory</span>
-                                            <p class="text-white opacity-6 fs-18">Business consalting</p>
+                                                Expert</div>
+                                            <span class="alt-font text-white fw-500 fs-26 sm-lh-26 xs-lh-28">Tax
+                                                Compliance</span>
+                                            <p class="text-white opacity-6 fs-18">Advisory & planning</p>
                                             <div
                                                 class="position-absolute left-0px top-0px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9">
                                             </div>
@@ -319,15 +329,17 @@
                                 <div class="atropos-inner">
                                     <figure class="m-0 hover-box border-radius-4px overflow-hidden position-relative"
                                         data-atropos-offset="3">
-                                        <img class="w-100" src="https://placehold.co/600x815" alt="" />
+                                        <img class="w-100"
+                                            src="https://images.unsplash.com/photo-1556157382-97eda2d62296?w=600&h=815&fit=crop&crop=face"
+                                            alt="Business Advisory Services" />
                                         <figcaption
                                             class="d-flex flex-column align-items-start justify-content-center position-absolute left-0px top-0px w-100 h-100 z-index-1 p-15 xl-p-12 last-paragraph-no-margin">
                                             <div
                                                 class="mb-auto bg-base-color fw-500 text-white text-uppercase border-radius-30px ps-20px pe-20px fs-13">
-                                                Inclusion</div>
+                                                Strategic</div>
                                             <span class="alt-font text-white fw-500 fs-26 sm-lh-26 xs-lh-28">Business
-                                                analytics</span>
-                                            <p class="text-white opacity-6 fs-18">Driving sustainable</p>
+                                                Advisory</span>
+                                            <p class="text-white opacity-6 fs-18">Growth & strategy</p>
                                             <div
                                                 class="position-absolute left-0px top-0px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9">
                                             </div>
@@ -352,15 +364,17 @@
                                 <div class="atropos-inner">
                                     <figure class="m-0 hover-box border-radius-4px overflow-hidden position-relative"
                                         data-atropos-offset="3">
-                                        <img class="w-100" src="https://placehold.co/600x815" alt="" />
+                                        <img class="w-100"
+                                            src="https://images.unsplash.com/photo-1560472355-536de3962603?w=600&h=815&fit=crop&crop=face"
+                                            alt="Financial Modeling Services" />
                                         <figcaption
                                             class="d-flex flex-column align-items-start justify-content-center position-absolute left-0px top-0px w-100 h-100 z-index-1 p-15 xl-p-12 last-paragraph-no-margin">
                                             <div
                                                 class="mb-auto bg-base-color fw-500 text-white text-uppercase border-radius-30px ps-20px pe-20px fs-13">
-                                                Strategy</div>
-                                            <span class="alt-font text-white fw-500 fs-26 sm-lh-26 xs-lh-28">Middle
-                                                marketing</span>
-                                            <p class="text-white opacity-6 fs-18">Inclusive growth</p>
+                                                Professional</div>
+                                            <span class="alt-font text-white fw-500 fs-26 sm-lh-26 xs-lh-28">Financial
+                                                Modeling</span>
+                                            <p class="text-white opacity-6 fs-18">Valuation & analysis</p>
                                             <div
                                                 class="position-absolute left-0px top-0px w-100 h-100 bg-gradient-gray-light-dark-transparent z-index-minus-1 opacity-9">
                                             </div>
@@ -387,10 +401,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-5 md-mb-50px sm-mb-30px">
-                    <h2 class="alt-font fw-600 text-dark-gray ls-minus-2px">Highly flexible pricing options.</h2>
-                    <p class="w-80 lg-w-100 mb-30px sm-mb-25px">Lorem ipsum dolor sit amet consectetur adipiscing elit
-                        do eiusmod tempor.</p>
-                    <a href="#" class="btn btn-small btn-dark-gray btn-box-shadow btn-round-edge">All pricing plans</a>
+                    <h2 class="alt-font fw-600 text-dark-gray ls-minus-2px">Transparent pricing for professional
+                        services.</h2>
+                    <p class="w-80 lg-w-100 mb-30px sm-mb-25px">Our fees are based on the estimated time to be spent by
+                        our professional staff on an assignment at our standard charge-out rates, risk attached and our
+                        experience on similar engagements.</p>
+                    <a href="#" class="btn btn-small btn-dark-gray btn-box-shadow btn-round-edge">Contact for quote</a>
                 </div>
                 <div class="col-xl-5 col-lg-6 offset-xl-2 offset-lg-1"
                     data-anime='{"opacity": [0,1], "duration": 600, "delay":200, "staggervalue": 200, "easing": "easeOutQuad" }'>
@@ -402,8 +418,8 @@
                                 <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-01"
                                     aria-expanded="true" data-bs-parent="#accordion-style-02">
                                     <div class="accordion-title mb-0 position-relative text-dark-gray">
-                                        <i class="feather icon-feather-minus"></i><span class="fw-600 fs-20">Unique and
-                                            bold website design</span>
+                                        <i class="feather icon-feather-minus"></i><span class="fw-600 fs-20">Licensed &
+                                            Certified Excellence</span>
                                     </div>
                                 </a>
                             </div>
@@ -411,8 +427,9 @@
                                 data-bs-parent="#accordion-style-02">
                                 <div
                                     class="accordion-body last-paragraph-no-margin border-bottom border-color-light-medium-gray">
-                                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor
-                                        incididunt.</p>
+                                    <p>Licensed by CITG with over a decade of financial and tax expertise. Our team
+                                        includes Chartered Accountants and Tax Professionals with global experience from
+                                        leading institutions.</p>
                                 </div>
                             </div>
                         </div>
@@ -423,8 +440,9 @@
                                 <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-02"
                                     aria-expanded="false" data-bs-parent="#accordion-style-02">
                                     <div class="accordion-title mb-0 position-relative text-dark-gray">
-                                        <i class="feather icon-feather-plus"></i><span class="fw-600 fs-20">We're ready
-                                            to start now</span>
+                                        <i class="feather icon-feather-plus"></i><span class="fw-600 fs-20">One-Stop
+                                            Shop
+                                            Approach</span>
                                     </div>
                                 </a>
                             </div>
@@ -432,8 +450,9 @@
                                 data-bs-parent="#accordion-style-02">
                                 <div
                                     class="accordion-body last-paragraph-no-margin border-bottom border-color-light-medium-gray">
-                                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor
-                                        incididunt.</p>
+                                    <p>A unique integrated approach providing end-to-end accounting and tax solutions
+                                        across Africa. We combine accounting, tax, IT, and business advisory services
+                                        under one roof.</p>
                                 </div>
                             </div>
                         </div>
@@ -444,8 +463,8 @@
                                 <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-03"
                                     aria-expanded="false" data-bs-parent="#accordion-style-02">
                                     <div class="accordion-title mb-0 position-relative text-dark-gray">
-                                        <i class="feather icon-feather-plus"></i><span class="fw-600 fs-20">Something
-                                            for everyone</span>
+                                        <i class="feather icon-feather-plus"></i><span class="fw-600 fs-20">Passion for
+                                            Excellence</span>
                                     </div>
                                 </a>
                             </div>
@@ -453,8 +472,9 @@
                                 data-bs-parent="#accordion-style-02">
                                 <div
                                     class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent">
-                                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor
-                                        incididunt.</p>
+                                    <p>Our success-driven approach integrates emotions into decision-making, fostering
+                                        deep emotional connections. We exceed client expectations through innovation,
+                                        continuous learning, and creative problem-solving.</p>
                                 </div>
                             </div>
                         </div>
@@ -468,27 +488,27 @@
                 <div class="col-lg-4 col-md-8 md-mb-30px">
                     <div
                         class="bg-white box-shadow-quadruple-large border border-radius-6px p-15 ps-18 pe-18 xl-p-13 text-center">
-                        <span class="fs-26 lh-30 ls-minus-05px d-block text-dark-gray fw-600">Standard</span>
-                        <span class="fs-18 mb-25px d-inline-block">Unlimited users</span>
+                        <span class="fs-26 lh-30 ls-minus-05px d-block text-dark-gray fw-600">Basic</span>
+                        <span class="fs-18 mb-25px d-inline-block">Accounting Services</span>
                         <div class="row align-items-center">
                             <div class="col-sm-5 pe-sm-0">
                                 <h2 class="text-dark-gray mb-0 fw-700 ls-minus-2px text-center text-sm-end"><sup
-                                        class="fs-30">$</sup>20</h2>
+                                        class="fs-30">$</sup>800</h2>
                             </div>
                             <div
                                 class="col-lg-7 col-sm-5 text-center text-sm-start last-paragraph-no-margin fs-15 lh-24">
-                                <p>per user/month billed annually</p>
+                                <p>per month retainer fee</p>
                             </div>
                         </div>
                         <ul class="p-0 mt-20px mb-30px list-style-01 text-start lh-normal">
                             <li class="border-color-extra-medium-gray pt-20px pb-20px text-dark-gray fw-500 d-flex"><i
-                                    class="feather icon-feather-check fs-20 text-green me-10px"></i>Marketing strategy
+                                    class="feather icon-feather-check fs-20 text-green me-10px"></i>Monthly bookkeeping
                             </li>
                             <li class="border-color-extra-medium-gray pt-20px pb-20px d-flex"><i
-                                    class="feather icon-feather-x fs-20 text-red me-10px"></i>Competitive work analysis
+                                    class="feather icon-feather-x fs-20 text-red me-10px"></i>Tax compliance
                             </li>
                             <li class="border-color-extra-medium-gray pt-20px pb-20px d-flex"><i
-                                    class="feather icon-feather-x fs-20 text-red me-10px"></i>Social media share audit
+                                    class="feather icon-feather-x fs-20 text-red me-10px"></i>Business advisory
                             </li>
                         </ul>
                         <div class="pricing-footer w-100">
@@ -503,27 +523,27 @@
                 <div class="col-lg-4 col-md-8 md-mb-30px">
                     <div
                         class="bg-white box-shadow-quadruple-large border border-radius-6px p-15 ps-18 pe-18 xl-p-13 text-center">
-                        <span class="fs-26 lh-30 ls-minus-05px d-block text-dark-gray fw-600">Business</span>
-                        <span class="fs-18 mb-25px d-inline-block">Unlimited users</span>
+                        <span class="fs-26 lh-30 ls-minus-05px d-block text-dark-gray fw-600">Standard</span>
+                        <span class="fs-18 mb-25px d-inline-block">Most Popular</span>
                         <div class="row align-items-center">
                             <div class="col-sm-5 pe-sm-0">
                                 <h2 class="text-dark-gray mb-0 fw-700 ls-minus-2px text-center text-sm-end"><sup
-                                        class="fs-30">$</sup>24</h2>
+                                        class="fs-30">$</sup>1,200</h2>
                             </div>
                             <div
                                 class="col-lg-7 col-sm-5 text-center text-sm-start last-paragraph-no-margin fs-15 lh-24">
-                                <p>per user/month billed annually</p>
+                                <p>per month retainer fee</p>
                             </div>
                         </div>
                         <ul class="p-0 mt-20px mb-30px list-style-01 text-start lh-normal">
                             <li class="border-color-extra-medium-gray pt-20px pb-20px text-dark-gray fw-500 d-flex"><i
-                                    class="feather icon-feather-check fs-20 text-green me-10px"></i>Marketing strategy
+                                    class="feather icon-feather-check fs-20 text-green me-10px"></i>Monthly bookkeeping
                             </li>
                             <li class="border-color-extra-medium-gray pt-20px pb-20px text-dark-gray fw-500 d-flex"><i
-                                    class="feather icon-feather-check fs-20 text-green me-10px"></i>Competitive work
-                                analysis</li>
+                                    class="feather icon-feather-check fs-20 text-green me-10px"></i>Tax compliance
+                                & advisory</li>
                             <li class="border-color-extra-medium-gray pt-20px pb-20px d-flex"><i
-                                    class="feather icon-feather-x fs-20 text-red me-10px"></i>Social media share audit
+                                    class="feather icon-feather-x fs-20 text-red me-10px"></i>Business advisory
                             </li>
                         </ul>
                         <div class="pricing-footer w-100">
@@ -537,28 +557,28 @@
                 <div class="col-lg-4 col-md-8">
                     <div
                         class="bg-white box-shadow-quadruple-large border border-radius-6px p-15 ps-18 pe-18 xl-p-13 text-center">
-                        <span class="fs-26 lh-30 ls-minus-05px d-block text-dark-gray fw-600">Ultimate</span>
-                        <span class="fs-18 mb-25px d-inline-block">Unlimited users</span>
+                        <span class="fs-26 lh-30 ls-minus-05px d-block text-dark-gray fw-600">Premium</span>
+                        <span class="fs-18 mb-25px d-inline-block">Full Service</span>
                         <div class="row align-items-center">
                             <div class="col-sm-5 pe-sm-0">
                                 <h2 class="text-dark-gray mb-0 fw-700 ls-minus-2px text-center text-sm-end"><sup
-                                        class="fs-30">$</sup>30</h2>
+                                        class="fs-30">$</sup>1,800</h2>
                             </div>
                             <div
                                 class="col-lg-7 col-sm-5 text-center text-sm-start last-paragraph-no-margin fs-15 lh-24">
-                                <p>per user/month billed annually</p>
+                                <p>per month retainer fee</p>
                             </div>
                         </div>
                         <ul class="p-0 mt-20px mb-30px list-style-01 text-start lh-normal">
                             <li class="border-color-extra-medium-gray pt-20px pb-20px text-dark-gray fw-500 d-flex"><i
-                                    class="feather icon-feather-check fs-20 text-green me-10px"></i>Marketing strategy
+                                    class="feather icon-feather-check fs-20 text-green me-10px"></i>Monthly bookkeeping
                             </li>
                             <li class="border-color-extra-medium-gray pt-20px pb-20px text-dark-gray fw-500 d-flex"><i
-                                    class="feather icon-feather-check fs-20 text-green me-10px"></i>Competitive work
-                                analysis</li>
+                                    class="feather icon-feather-check fs-20 text-green me-10px"></i>Tax compliance
+                                & advisory</li>
                             <li class="border-color-extra-medium-gray pt-20px pb-20px text-dark-gray fw-500 d-flex"><i
-                                    class="feather icon-feather-check fs-20 text-green me-10px"></i>Social media share
-                                audit</li>
+                                    class="feather icon-feather-check fs-20 text-green me-10px"></i>Business advisory
+                                & consulting</li>
                         </ul>
                         <div class="pricing-footer w-100">
                             <a href="#"
@@ -629,10 +649,10 @@
                                 </span>
                             </span>
                         </a>
-                        <span class="opacity-6 ls-2px text-uppercase alt-font text-white d-block mb-2 fw-500">Supporting
-                            your business goal</span>
-                        <h1 class="text-white fw-500 alt-font ls-minus-2px text-shadow-double-large">Some of the
-                            worldwide clients we've helped.</h1>
+                        <span class="opacity-6 ls-2px text-uppercase alt-font text-white d-block mb-2 fw-500">Building
+                            trusted partnerships</span>
+                        <h1 class="text-white fw-500 alt-font ls-minus-2px text-shadow-double-large">We deliver
+                            excellence across Africa and beyond.</h1>
                     </div>
                 </div>
                 <div
@@ -680,16 +700,17 @@
                 <div class="col-lg-7 text-center"
                     data-anime='{  "opacity": [0,1], "duration": 800, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <span class="fw-600 ls-1px fs-16 alt-font mb-5px d-inline-block text-uppercase text-base-color">Meet
-                        our people</span>
-                    <h2 class="alt-font text-dark-gray fw-600 ls-minus-2px">Leading experts</h2>
+                        our team</span>
+                    <h2 class="alt-font text-dark-gray fw-600 ls-minus-2px">Expert professionals</h2>
                 </div>
             </div>
-            <div class="row row-cols-1 row-cols-lg-4 row-cols-sm-2 justify-content-center"
+            <div class="row row-cols-1 row-cols-lg-5 row-cols-md-3 row-cols-sm-2 justify-content-center"
                 data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 800, "delay":0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                 <!-- start team member item -->
                 <div class="col text-center team-style-05 md-mb-40px">
                     <div class="position-relative border-radius-4px overflow-hidden mb-30px last-paragraph-no-margin">
-                        <img src="https://placehold.co/600x756" alt="" />
+                        <img src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=600&h=756&fit=crop&crop=face"
+                            alt="Nathaniel Topp Yankah" />
                         <div
                             class="w-100 h-100 d-flex flex-column justify-content-center align-items-center p-40px lg-p-30px team-content bg-gradient-dark-orange-transparent">
                             <div class="social-icon fs-20">
@@ -702,14 +723,15 @@
                             </div>
                         </div>
                     </div>
-                    <div class="alt-font fw-600 text-dark-gray lh-22 fs-18">Bryan Jonhson</div>
-                    <span>Director</span>
+                    <div class="alt-font fw-600 text-dark-gray lh-22 fs-18">Nathaniel Topp Yankah</div>
+                    <span>Partner, Accounting</span>
                 </div>
                 <!-- end team member item -->
                 <!-- start team member item -->
                 <div class="col text-center team-style-05 md-mb-40px">
                     <div class="position-relative border-radius-4px overflow-hidden mb-30px last-paragraph-no-margin">
-                        <img src="https://placehold.co/600x756" alt="" />
+                        <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=756&fit=crop&crop=face"
+                            alt="Prince Avornorkadzi" />
                         <div
                             class="w-100 h-100 d-flex flex-column justify-content-center align-items-center p-40px team-content bg-gradient-dark-orange-transparent">
                             <div class="social-icon fs-20">
@@ -722,14 +744,15 @@
                             </div>
                         </div>
                     </div>
-                    <div class="alt-font fw-600 text-dark-gray lh-22 fs-18">Jeremy Dupont</div>
-                    <span>Specialist</span>
+                    <div class="alt-font fw-600 text-dark-gray lh-22 fs-18">Prince Avornorkadzi</div>
+                    <span>Partner, Tax</span>
                 </div>
                 <!-- end team member item -->
                 <!-- start team member item -->
                 <div class="col text-center team-style-05 xs-mb-40px">
                     <div class="position-relative border-radius-4px overflow-hidden mb-30px last-paragraph-no-margin">
-                        <img src="https://placehold.co/600x756" alt="" />
+                        <img src="https://images.unsplash.com/photo-1560250097-0b93528c311a?w=600&h=756&fit=crop&crop=face"
+                            alt="Emmanuel Komlan Tengue" />
                         <div
                             class="w-100 h-100 d-flex flex-column justify-content-center align-items-center p-40px team-content bg-gradient-dark-orange-transparent">
                             <div class="social-icon fs-20">
@@ -742,14 +765,15 @@
                             </div>
                         </div>
                     </div>
-                    <div class="alt-font fw-600 text-dark-gray lh-22 fs-18">Matthew Taylor</div>
-                    <span>Manager</span>
+                    <div class="alt-font fw-600 text-dark-gray lh-22 fs-18">Emmanuel Komlan Tengue</div>
+                    <span>Chartered Accountant</span>
                 </div>
                 <!-- end team member item -->
                 <!-- start team member item -->
                 <div class="col text-center team-style-05">
                     <div class="position-relative border-radius-4px overflow-hidden mb-30px last-paragraph-no-margin">
-                        <img src="https://placehold.co/600x756" alt="" />
+                        <img src="https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=600&h=756&fit=crop&crop=face"
+                            alt="Evans Kofi Adanya" />
                         <div
                             class="w-100 h-100 d-flex flex-column justify-content-center align-items-center p-40px team-content bg-gradient-dark-orange-transparent">
                             <div class="social-icon fs-20">
@@ -762,8 +786,29 @@
                             </div>
                         </div>
                     </div>
-                    <div class="alt-font fw-600 text-dark-gray lh-22 fs-18">Johncy Parker</div>
-                    <span>Consultant</span>
+                    <div class="alt-font fw-600 text-dark-gray lh-22 fs-18">Evans Kofi Adanya</div>
+                    <span>Finance Specialist</span>
+                </div>
+                <!-- end team member item -->
+                <!-- start team member item -->
+                <div class="col text-center team-style-05">
+                    <div class="position-relative border-radius-4px overflow-hidden mb-30px last-paragraph-no-margin">
+                        <img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=600&h=756&fit=crop&crop=face"
+                            alt="Joshua Yanzu Peterkin" />
+                        <div
+                            class="w-100 h-100 d-flex flex-column justify-content-center align-items-center p-40px team-content bg-gradient-dark-orange-transparent">
+                            <div class="social-icon fs-20">
+                                <a href="https://www.facebook.com/" target="_blank" class="text-white"><i
+                                        class="fa-brands fa-facebook-f"></i></a>
+                                <a href="http://www.dribbble.com" target="_blank" class="text-white"><i
+                                        class="fa-brands fa-dribbble"></i></a>
+                                <a href="https://www.twitter.com/" target="_blank" class="text-white"><i
+                                        class="fa-brands fa-twitter"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="alt-font fw-600 text-dark-gray lh-22 fs-18">Joshua Yanzu Peterkin</div>
+                    <span>Chartered Accountant & Tax Practitioner</span>
                 </div>
                 <!-- end team member item -->
             </div>
@@ -893,9 +938,9 @@
                 <div class="col-xl-5 col-lg-6 col-md-7 md-mb-25px">
                     <h2
                         class="alt-font text-white fw-500 mb-0 cd-headline zoom fancy-text-style-4 text-shadow-double-large ls-minus-1px">
-                        Let's discuss your now
+                        Let's discuss your
                         <span
-                            data-fancy-text='{ "effect": "rotate", "string": ["consulting!", "business!", "innovative!"] }'></span>
+                            data-fancy-text='{ "effect": "rotate", "string": ["accounting!", "tax needs!", "business!"] }'></span>
                     </h2>
                 </div>
                 <div class="col-xl-5 col-lg-6 col-md-8 col-sm-10 offset-xl-1 icon-with-text-style-08">
@@ -905,9 +950,9 @@
                             <i class="line-icon-Handshake icon-extra-large text-white lh-100"></i>
                         </div>
                         <div class="feature-box-content last-paragraph-no-margin xs-mt-15px xs-mb-15px">
-                            <span class="fs-24 lh-32 xs-fs-22 xs-lh-32 text-white">Looking for collaboration? <a
-                                    href="mailto:info@yourdomain.com"
-                                    class="text-decoration-line-bottom text-white fw-500">info@yourdomain.com</a></span>
+                            <span class="fs-24 lh-32 xs-fs-22 xs-lh-32 text-white">Ready to get started? <a
+                                    href="mailto:avonomanprince@gmail.com"
+                                    class="text-decoration-line-bottom text-white fw-500">avonomanprince@gmail.com</a></span>
                         </div>
                     </div>
                 </div>

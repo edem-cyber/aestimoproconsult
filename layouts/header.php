@@ -6,16 +6,16 @@
         <div class="container-fluid">
             <div class="row h-45px align-items-center m-0">
                 <div class="col-md-6 text-center text-md-start">
-                    <div class="fs-14 text-dark-gray">Our consulting experts waiting for you! <a
-                            href="demo-consulting-contact.html"
+                    <div class="fs-14 text-dark-gray">Our accounting and tax experts waiting for you! <a
+                            href="demo-consulting-contact.php"
                             class="text-base-color fw-500 text-decoration-line-bottom">Contact now</a></div>
                 </div>
                 <div class="col-6 text-end d-none d-md-flex">
-                    <div class="widget fs-14 me-30px md-me-0"><a href="tel:02228899900" class="text-dark-gray"><i
-                                class="feather icon-feather-phone-call text-base-color"></i> 0222 8899900</a></div>
+                    <div class="widget fs-14 me-30px md-me-0"><a href="tel:+233545648343" class="text-dark-gray"><i
+                                class="feather icon-feather-phone-call text-base-color"></i> +233 54 564 8343</a></div>
                     <div class="widget fs-14 text-dark-gray d-none d-lg-inline-block"><i
-                            class="feather icon-feather-map-pin text-base-color"></i> Broadway, 24th Floor, San
-                        Francisco</div>
+                            class="feather icon-feather-map-pin text-base-color"></i> P.O. Box 1923, Osu, Dzorwulu,
+                        Accra</div>
                 </div>
             </div>
         </div>
@@ -26,7 +26,7 @@
         class="navbar navbar-expand-lg header-transparent bg-transparent border-bottom border-color-transparent-white-light disable-fixed">
         <div class="container-fluid">
             <div class="col-auto col-lg-2 me-auto">
-                <a class="navbar-brand" href="demo-consulting.html">
+                <a class="navbar-brand" href="demo-consulting.php">
                     <img src="images/demo-consulting-logo-white.png"
                         data-at2x="images/demo-consulting-logo-white@2x.png" alt="" class="default-logo">
                     <img src="images/demo-consulting-logo-black.png"
@@ -45,25 +45,26 @@
                 </button>
                 <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
                     <ul class="navbar-nav alt-font">
-                        <li class="nav-item"><a href="demo-consulting.html" class="nav-link">Home</a></li>
-                        <li class="nav-item"><a href="demo-consulting-company.html" class="nav-link">Company</a></li>
+                        <li class="nav-item"><a href="demo-consulting.php" class="nav-link">Home</a></li>
+                        <li class="nav-item"><a href="demo-consulting-company.php" class="nav-link">Company</a></li>
                         <li class="nav-item dropdown simple-dropdown">
-                            <a href="demo-consulting-services.html" class="nav-link">Services</a>
+                            <a href="demo-consulting-services.php" class="nav-link">Services</a>
                             <i class="fa-solid fa-angle-down dropdown-toggle" id="navbarDropdownMenuLink" role="button"
                                 data-bs-toggle="dropdown" aria-expanded="false"></i>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                                <li><a href="demo-consulting-services-details.html">Audit assurance</a></li>
-                                <li><a href="demo-consulting-services-details.html">Financial advisory</a></li>
-                                <li><a href="demo-consulting-services-details.html">Business analytics</a></li>
-                                <li><a href="demo-consulting-services-details.html">Middle marketing</a></li>
-                                <li><a href="demo-consulting-services-details.html">Consumer markets</a></li>
-                                <li><a href="demo-consulting-services-details.html">Tax efficiency</a></li>
+                                <li><a href="demo-consulting-services-details.php">Accounting & Bookkeeping</a></li>
+                                <li><a href="demo-consulting-services-details.php">Tax Compliance & Advisory</a></li>
+                                <li><a href="demo-consulting-services-details.php">Business Advisory</a></li>
+                                <li><a href="demo-consulting-services-details.php">Financial Modeling & Valuation</a>
+                                </li>
+                                <li><a href="demo-consulting-services-details.php">Due Diligence</a></li>
+                                <li><a href="demo-consulting-services-details.php">Business Recovery</a></li>
                             </ul>
                         </li>
-                        <li class="nav-item"><a href="demo-consulting-process.html" class="nav-link">Process</a></li>
+                        <li class="nav-item"><a href="demo-consulting-process.php" class="nav-link">Process</a></li>
                         <li class="nav-item"><a href="demo-consulting-clients.html" class="nav-link">Clients</a></li>
                         <li class="nav-item"><a href="demo-consulting-news.html" class="nav-link">News</a></li>
-                        <li class="nav-item"><a href="demo-consulting-contact.html" class="nav-link">Contact</a></li>
+                        <li class="nav-item"><a href="demo-consulting-contact.php" class="nav-link">Contact</a></li>
                     </ul>
                 </div>
             </div>
@@ -106,8 +107,8 @@
         <span class="close-menu text-dark-gray bg-white"><i class="fa-solid fa-xmark"></i></span>
         <div class="push-menu-wrapper text-dark-gray" data-scroll-options='{ "theme": "light" }'>
             <div class="w-100">
-                <h4 class="alt-font text-white fw-400 mb-30px d-block w-90 lh-40">Scalable business for <span
-                        class="d-inline-block fw-600 border-3 border-bottom border-color-base-color">startups</span>
+                <h4 class="alt-font text-white fw-400 mb-30px d-block w-90 lh-40">Professional accounting for <span
+                        class="d-inline-block fw-600 border-3 border-bottom border-color-base-color">businesses</span>
                 </h4>
             </div>
             <div class="col-12">
@@ -126,8 +127,8 @@
                 </ul>
             </div>
             <div class="border-top border-color-transparent-white-light pt-30px w-100">
-                <span class="fs-24 fw-500 text-white"><a href="tel:12345678910">+1 234 567 8910</a></span>
-                <a href="mailto:info@domain.com">info@domain.com</a>
+                <span class="fs-24 fw-500 text-white"><a href="tel:+233545648343">+233 54 564 8343</a></span>
+                <a href="mailto:avonomanprince@gmail.com">avonomanprince@gmail.com</a>
             </div>
         </div>
     </div>
