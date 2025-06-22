@@ -76,13 +76,13 @@
                                     </div>
                                     <div
                                         data-anime='{  "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 300, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                                        <a href="demo-consulting-contact.php"
+                                        <a href="/demo-consulting-contact"
                                             class="btn btn-base-color btn-box-shadow btn-large btn-round-edge">Get
                                             started today</a>
                                     </div>
                                     <div data-anime='{ "opacity": [0, 1], "duration": 500, "delay": 1000, "easing": "easeOutQuad" }'
                                         class="fs-20 alt-font position-absolute lg-position-relative left-0px right-0px bottom-0 mb-8 lg-mt-40px lg-mb-0 sm-mt-25px w-100 text-shadow-double-large">
-                                        Request a free <a href="demo-consulting-contact.php"
+                                        Request a free <a href="/demo-consulting-contact"
                                             class="text-decoration-line-bottom text-white fw-500">business
                                             consultation!</a></div>
                                 </div>
@@ -107,13 +107,13 @@
                                     </div>
                                     <div
                                         data-anime='{  "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 300, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                                        <a href="demo-consulting-contact.php"
+                                        <a href="/demo-consulting-contact"
                                             class="btn btn-base-color btn-box-shadow btn-large btn-round-edge">Get
                                             started today</a>
                                     </div>
                                     <div data-anime='{ "opacity": [0, 1], "duration": 500, "delay": 1000, "easing": "easeOutQuad" }'
                                         class="fs-20 alt-font position-absolute lg-position-relative left-0px right-0px bottom-0 mb-8 lg-mt-40px lg-mb-0 sm-mt-25px w-100 text-shadow-double-large">
-                                        Discover our <a href="demo-consulting-process.php"
+                                        Discover our <a href="/demo-consulting-process"
                                             class="text-decoration-line-bottom text-white fw-500">service offerings!</a>
                                     </div>
                                 </div>
@@ -138,13 +138,13 @@
                                     </div>
                                     <div
                                         data-anime='{  "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 300, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                                        <a href="demo-consulting-contact.php"
+                                        <a href="/demo-consulting-contact"
                                             class="btn btn-base-color btn-box-shadow btn-large btn-round-edge">Get
                                             started today</a>
                                     </div>
                                     <div data-anime='{ "opacity": [0, 1], "duration": 500, "delay": 1000, "easing": "easeOutQuad" }'
                                         class="fs-20 alt-font position-absolute lg-position-relative left-0px right-0px bottom-0 mb-8 lg-mt-40px lg-mb-0 sm-mt-25px w-100 text-shadow-double-large">
-                                        Become a part of <a href="demo-consulting-company.php"
+                                        Become a part of <a href="/demo-consulting-company"
                                             class="text-decoration-line-bottom text-white fw-500">our success story!</a>
                                     </div>
                                 </div>
@@ -240,9 +240,9 @@
                         management, IT, accounting, tax, financial control and business advisory, providing innovative,
                         integrated solutions across Africa with over a decade of experience.</p>
                     <div class="d-inline-block">
-                        <a href="demo-consulting-company.php"
+                        <a href="/demo-consulting-company"
                             class="btn btn-medium btn-dark-gray btn-box-shadow me-25px btn-round-edge">About company</a>
-                        <a href="demo-consulting-process.php"
+                        <a href="/demo-consulting-process"
                             class="btn btn-link btn-large text-dark-gray xs-mt-15px xs-mb-15px">Our services</a>
                     </div>
                     <div class="row align-items-center mt-50px sm-mt-40px">
@@ -511,113 +511,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row align-items-center justify-content-center pricing-table-style-06 mt-8 mb-8"
-                data-anime='{ "el": "childs", "translateX": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                <!-- start pricing item -->
-                <div class="col-lg-4 col-md-8 md-mb-30px">
-                    <div
-                        class="bg-white box-shadow-quadruple-large border border-radius-6px p-15 ps-18 pe-18 xl-p-13 text-center">
-                        <span class="fs-26 lh-30 ls-minus-05px d-block text-dark-gray fw-600">Basic</span>
-                        <span class="fs-18 mb-25px d-inline-block">Accounting Services</span>
-                        <div class="row align-items-center">
-                            <div class="col-sm-5 pe-sm-0">
-                                <h2 class="text-dark-gray mb-0 fw-700 ls-minus-2px text-center text-sm-end"><sup
-                                        class="fs-30">$</sup>800</h2>
-                            </div>
-                            <div
-                                class="col-lg-7 col-sm-5 text-center text-sm-start last-paragraph-no-margin fs-15 lh-24">
-                                <p>per month retainer fee</p>
-                            </div>
-                        </div>
-                        <ul class="p-0 mt-20px mb-30px list-style-01 text-start lh-normal">
-                            <li class="border-color-extra-medium-gray pt-20px pb-20px text-dark-gray fw-500 d-flex"><i
-                                    class="feather icon-feather-check fs-20 text-green me-10px"></i>Monthly bookkeeping
-                            </li>
-                            <li class="border-color-extra-medium-gray pt-20px pb-20px d-flex"><i
-                                    class="feather icon-feather-x fs-20 text-red me-10px"></i>Tax compliance
-                            </li>
-                            <li class="border-color-extra-medium-gray pt-20px pb-20px d-flex"><i
-                                    class="feather icon-feather-x fs-20 text-red me-10px"></i>Business advisory
-                            </li>
-                        </ul>
-                        <div class="pricing-footer w-100">
-                            <a href="#"
-                                class="btn btn-small btn-dark-gray btn-box-shadow btn-round-edge border-1 w-100">Choose
-                                package</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- end pricing item -->
-                <!-- start pricing item -->
-                <div class="col-lg-4 col-md-8 md-mb-30px">
-                    <div
-                        class="bg-white box-shadow-quadruple-large border border-radius-6px p-15 ps-18 pe-18 xl-p-13 text-center">
-                        <span class="fs-26 lh-30 ls-minus-05px d-block text-dark-gray fw-600">Standard</span>
-                        <span class="fs-18 mb-25px d-inline-block">Most Popular</span>
-                        <div class="row align-items-center">
-                            <div class="col-sm-5 pe-sm-0">
-                                <h2 class="text-dark-gray mb-0 fw-700 ls-minus-2px text-center text-sm-end"><sup
-                                        class="fs-30">$</sup>1,200</h2>
-                            </div>
-                            <div
-                                class="col-lg-7 col-sm-5 text-center text-sm-start last-paragraph-no-margin fs-15 lh-24">
-                                <p>per month retainer fee</p>
-                            </div>
-                        </div>
-                        <ul class="p-0 mt-20px mb-30px list-style-01 text-start lh-normal">
-                            <li class="border-color-extra-medium-gray pt-20px pb-20px text-dark-gray fw-500 d-flex"><i
-                                    class="feather icon-feather-check fs-20 text-green me-10px"></i>Monthly bookkeeping
-                            </li>
-                            <li class="border-color-extra-medium-gray pt-20px pb-20px text-dark-gray fw-500 d-flex"><i
-                                    class="feather icon-feather-check fs-20 text-green me-10px"></i>Tax compliance
-                                & advisory</li>
-                            <li class="border-color-extra-medium-gray pt-20px pb-20px d-flex"><i
-                                    class="feather icon-feather-x fs-20 text-red me-10px"></i>Business advisory
-                            </li>
-                        </ul>
-                        <div class="pricing-footer w-100">
-                            <a href="#" class="btn btn-small btn-dark-gray btn-box-shadow btn-round-edge w-100">Choose
-                                package</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- end pricing item -->
-                <!-- start pricing item -->
-                <div class="col-lg-4 col-md-8">
-                    <div
-                        class="bg-white box-shadow-quadruple-large border border-radius-6px p-15 ps-18 pe-18 xl-p-13 text-center">
-                        <span class="fs-26 lh-30 ls-minus-05px d-block text-dark-gray fw-600">Premium</span>
-                        <span class="fs-18 mb-25px d-inline-block">Full Service</span>
-                        <div class="row align-items-center">
-                            <div class="col-sm-5 pe-sm-0">
-                                <h2 class="text-dark-gray mb-0 fw-700 ls-minus-2px text-center text-sm-end"><sup
-                                        class="fs-30">$</sup>1,800</h2>
-                            </div>
-                            <div
-                                class="col-lg-7 col-sm-5 text-center text-sm-start last-paragraph-no-margin fs-15 lh-24">
-                                <p>per month retainer fee</p>
-                            </div>
-                        </div>
-                        <ul class="p-0 mt-20px mb-30px list-style-01 text-start lh-normal">
-                            <li class="border-color-extra-medium-gray pt-20px pb-20px text-dark-gray fw-500 d-flex"><i
-                                    class="feather icon-feather-check fs-20 text-green me-10px"></i>Monthly bookkeeping
-                            </li>
-                            <li class="border-color-extra-medium-gray pt-20px pb-20px text-dark-gray fw-500 d-flex"><i
-                                    class="feather icon-feather-check fs-20 text-green me-10px"></i>Tax compliance
-                                & advisory</li>
-                            <li class="border-color-extra-medium-gray pt-20px pb-20px text-dark-gray fw-500 d-flex"><i
-                                    class="feather icon-feather-check fs-20 text-green me-10px"></i>Business advisory
-                                & consulting</li>
-                        </ul>
-                        <div class="pricing-footer w-100">
-                            <a href="#"
-                                class="btn btn-small btn-dark-gray btn-box-shadow btn-round-edge border-1 w-100">Choose
-                                package</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- end pricing item -->
-            </div>
+
             <div class="row row-cols-1 row-cols-xl-4 row-cols-md-3 row-cols-sm-2 justify-content-center align-items-center"
                 data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                 <!-- start features box item -->

@@ -74,7 +74,7 @@
                         leveraging extensive international experience to provide innovative, integrated, and customized
                         solutions across Africa.
                     </p>
-                    <a href="demo-consulting-services.php" class="btn btn-link btn-large text-dark-gray fw-600"
+                    <a href="/demo-consulting-services" class="btn btn-link btn-large text-dark-gray fw-600"
                         data-anime='{ "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 300, "staggervalue": 300, "easing": "easeOutQuad" }'>Explore
                         our services</a>
                 </div>
@@ -249,7 +249,7 @@
                         <strong>One-Stop Shop:</strong> A unique integrated approach for accounting and tax needs across
                         Africa, providing end-to-end strategic solutions.
                     </p>
-                    <a href="demo-consulting-contact.php"
+                    <a href="/demo-consulting-contact"
                         class="btn btn-large btn-dark-gray btn-box-shadow mt-10px btn-round-edge">Get started now!</a>
                 </div>
             </div>
