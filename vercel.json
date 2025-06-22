@@ -2,7 +2,27 @@
     "version": 2,
     "builds": [
         {
-            "src": "*.php",
+            "src": "index.php",
+            "use": "vercel-php@0.6.0"
+        },
+        {
+            "src": "demo-consulting-company.php",
+            "use": "vercel-php@0.6.0"
+        },
+        {
+            "src": "demo-consulting-contact.php",
+            "use": "vercel-php@0.6.0"
+        },
+        {
+            "src": "demo-consulting-process.php",
+            "use": "vercel-php@0.6.0"
+        },
+        {
+            "src": "demo-consulting-services.php",
+            "use": "vercel-php@0.6.0"
+        },
+        {
+            "src": "demo-consulting-services-details.php",
             "use": "vercel-php@0.6.0"
         },
         {
