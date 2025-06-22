@@ -220,12 +220,14 @@
                 <div class="col-lg-6 position-relative md-mb-70px">
                     <div class="w-75 overflow-hidden position-relative xs-w-80 border-radius-4px"
                         data-anime='{ "effect": "slide", "direction": "lr", "color": "#dd6531", "duration": 1000, "delay": 0 }'>
-                        <img class="w-100" src="https://placehold.co/430x553" alt="">
+                        <img class="w-100" src="https://images.pexels.com/photos/9489076/pexels-photo-9489076.jpeg"
+                            alt="">
                     </div>
                     <div class="border-radius-4px position-absolute right-minus-15px md-right-15px bottom-minus-50px w-55 md-w-50 overflow-hidden"
                         data-bottom-top="transform: translateY(50px)" data-top-bottom="transform: translateY(-50px)"
                         data-anime='{ "effect": "slide", "direction": "rl", "color": "#292d36", "duration": 1000, "delay": 500 }'>
-                        <img class="w-100" src="https://placehold.co/352x452" alt="">
+                        <img class="w-100" src="https://images.pexels.com/photos/9489084/pexels-photo-9489084.jpeg"
+                            alt="">
                     </div>
                 </div>
                 <div class="col-lg-5 offset-lg-1 md-mt-30px"
@@ -867,8 +869,8 @@
                                     href="mailto:avonomanprince@gmail.com"
                                     class="text-decoration-line-bottom text-white fw-500">avonomanprince@gmail.com</a></span>
                         </div>
-                    </div>   
-                    
+                    </div>
+
                 </div>
             </div>
         </div>
