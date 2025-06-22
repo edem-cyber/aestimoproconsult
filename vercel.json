@@ -6,8 +6,40 @@
     },
     "routes": [
         {
+            "src": "/css/(.*)",
+            "dest": "/css/$1"
+        },
+        {
+            "src": "/js/(.*)",
+            "dest": "/js/$1"
+        },
+        {
+            "src": "/images/(.*)",
+            "dest": "/images/$1"
+        },
+        {
+            "src": "/fonts/(.*)",
+            "dest": "/fonts/$1"
+        },
+        {
+            "src": "/demos/(.*)",
+            "dest": "/demos/$1"
+        },
+        {
+            "src": "/revolution/(.*)",
+            "dest": "/revolution/$1"
+        },
+        {
+            "src": "/api/(.*)",
+            "dest": "/api/$1"
+        },
+        {
             "src": "/",
             "dest": "/index.php"
+        },
+        {
+            "src": "/([^.]+)",
+            "dest": "/$1.php"
         },
         {
             "src": "/(.*)",
