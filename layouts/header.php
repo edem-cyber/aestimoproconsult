@@ -26,7 +26,7 @@
         class="navbar navbar-expand-lg header-transparent bg-transparent border-bottom border-color-transparent-white-light disable-fixed">
         <div class="container-fluid">
             <div class="col-auto col-lg-2 me-auto">
-                <a class="navbar-brand" href="demo-consulting.php">
+                <a class="navbar-brand" href="index.php">
                     <img src="images/demo-consulting-logo-white.png"
                         data-at2x="images/demo-consulting-logo-white@2x.png" alt="" class="default-logo">
                     <img src="images/demo-consulting-logo-black.png"
@@ -45,7 +45,7 @@
                 </button>
                 <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
                     <ul class="navbar-nav alt-font">
-                        <li class="nav-item"><a href="demo-consulting.php" class="nav-link">Home</a></li>
+                        <li class="nav-item"><a href="index.php" class="nav-link">Home</a></li>
                         <li class="nav-item"><a href="demo-consulting-company.php" class="nav-link">Company</a></li>
                         <li class="nav-item dropdown simple-dropdown">
                             <a href="demo-consulting-services.php" class="nav-link">Services</a>
