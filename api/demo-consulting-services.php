@@ -2,13 +2,30 @@
 <html class="no-js" lang="en">
 
 <head>
-    <title>Crafto - The Multipurpose HTML5 Template</title>
+    <title>Professional Accounting & Tax Services | Aestimo Pro Consult Ghana</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="author" content="ThemeZaa">
+    <meta name="author" content="Aestimo Pro Consult">
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta name="description"
-        content="Elevate your online presence with Crafto - a modern, versatile, multipurpose Bootstrap 5 responsive HTML5, SCSS template using highly creative 52+ ready demos.">
+        content="Comprehensive accounting, tax advisory, business consulting & financial services in Ghana. Licensed by CITG (CTPF D/00013). Expert chartered accountants serving businesses across Africa.">
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://aestimoproconsult.vercel.app/demo-consulting-services">
+    <meta property="og:title" content="Professional Accounting & Tax Services | Aestimo Pro Consult Ghana">
+    <meta property="og:description"
+        content="Comprehensive accounting, tax advisory, business consulting & financial services in Ghana. Licensed by CITG (CTPF D/00013). Expert chartered accountants serving businesses across Africa.">
+    <meta property="og:image" content="https://aestimoproconsult.vercel.app/images/demo-consulting.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="Aestimo Pro Consult - Professional Accounting & Tax Services in Ghana">
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://aestimoproconsult.vercel.app/demo-consulting-services">
+    <meta name="twitter:title" content="Professional Accounting & Tax Services | Aestimo Pro Consult Ghana">
+    <meta name="twitter:description"
+        content="Comprehensive accounting, tax advisory, business consulting & financial services in Ghana. Licensed by CITG (CTPF D/00013). Expert chartered accountants serving businesses across Africa.">
+    <meta name="twitter:image" content="https://aestimoproconsult.vercel.app/images/demo-consulting.jpg">
     <!-- favicon icon -->
     <link rel="shortcut icon" href="images/favicon.png">
     <link rel="apple-touch-icon" href="images/apple-touch-icon-57x57.png">

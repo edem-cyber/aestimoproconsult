@@ -11,9 +11,23 @@
         content="Learn about Aestimo Pro Consult's 4-step methodology: Accounting & Systems, Tax Compliance, Financial Reporting, and Business Advisory. CITG licensed professionals with 10+ years experience in Ghana.">
     <meta name="keywords"
         content="accounting methodology Ghana, tax compliance process, financial reporting services, business advisory methodology, CITG licensed process, accounting systems Ghana">
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://aestimoproconsult.vercel.app/demo-consulting-process">
     <meta property="og:title" content="Our Methodology - Professional Accounting & Tax Process">
     <meta property="og:description"
         content="Discover our proven 4-step methodology for accounting, tax compliance, and business advisory services in Ghana.">
+    <meta property="og:image" content="https://aestimoproconsult.vercel.app/images/demo-consulting.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="Aestimo Pro Consult - Professional Accounting & Tax Services in Ghana">
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://aestimoproconsult.vercel.app/demo-consulting-process">
+    <meta name="twitter:title" content="Our Methodology - Professional Accounting & Tax Process">
+    <meta name="twitter:description"
+        content="Discover our proven 4-step methodology for accounting, tax compliance, and business advisory services in Ghana.">
+    <meta name="twitter:image" content="https://aestimoproconsult.vercel.app/images/demo-consulting.jpg">
     <meta name="robots" content="index, follow">
     <!-- favicon icon -->
     <link rel="shortcut icon" href="images/favicon.png">

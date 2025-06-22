@@ -15,11 +15,16 @@
     <meta property="og:description"
         content="Licensed accounting and tax advisory services in Ghana. CITG registered with over 10 years of expertise in financial management and business consulting.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://aestimoproconsult.com">
+    <meta property="og:url" content="https://aestimoproconsult.vercel.app">
+    <meta property="og:image" content="https://aestimoproconsult.vercel.app/images/demo-consulting.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="Aestimo Pro Consult - Professional Accounting & Tax Services in Ghana">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Aestimo Pro Consult - Accounting & Tax Services Ghana">
     <meta name="twitter:description"
         content="Professional accounting, tax advisory and business consulting services in Ghana. Licensed by CITG (CTPF D/00013).">
+    <meta name="twitter:image" content="https://aestimoproconsult.vercel.app/images/demo-consulting.jpg">>
     <!-- favicon icon -->
     <link rel="shortcut icon" href="images/favicon.png">
     <link rel="apple-touch-icon" href="images/apple-touch-icon-57x57.png">

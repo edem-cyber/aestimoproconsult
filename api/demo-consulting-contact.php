@@ -11,9 +11,24 @@
         content="Contact Aestimo Pro Consult for accounting, tax & business advisory services in Ghana. CITG licensed (CTPF D/00013). Office: Dzorwulu, Accra. Call +233 54 564 8343 or email avonomanprince@gmail.com">
     <meta name="keywords"
         content="contact accountants Ghana, Accra accounting firm, CITG licensed contact, tax advisory contact Ghana, Dzorwulu accounting office, Prince Avornorkadzi, Nathaniel Yankah">
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://aestimoproconsult.vercel.app/demo-consulting-contact">
     <meta property="og:title" content="Contact Aestimo Pro Consult - Licensed Accounting Services Ghana">
     <meta property="og:description"
         content="Get in touch with our CITG licensed accounting and tax professionals in Accra, Ghana. Expert consultation available.">
+    <meta property="og:image" content="https://aestimoproconsult.vercel.app/images/demo-consulting.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="Aestimo Pro Consult - Professional Accounting & Tax Services in Ghana">
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://aestimoproconsult.vercel.app/demo-consulting-contact">
+    <meta name="twitter:title" content="Contact Aestimo Pro Consult - Licensed Accounting Services Ghana">
+    <meta name="twitter:description"
+        content="Get in touch with our CITG licensed accounting and tax professionals in Accra, Ghana. Expert consultation available.">
+    <meta name="twitter:image" content="https://aestimoproconsult.vercel.app/images/demo-consulting.jpg">
+    <!-- Location/geo tags -->
     <meta name="geo.region" content="GH-AA">
     <meta name="geo.placename" content="Accra, Ghana">
     <meta name="geo.position" content="5.614818;-0.205874">

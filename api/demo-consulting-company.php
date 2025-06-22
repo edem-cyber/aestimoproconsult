@@ -9,6 +9,23 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta name="description"
         content="Learn about Aestimo Pro Consult - a licensed accounting and tax advisory firm with over a decade of experience serving clients across Africa. CITG License: CTPF D/00013.">
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://aestimoproconsult.vercel.app/demo-consulting-company">
+    <meta property="og:title" content="About Aestimo Pro Consult - Professional Accounting & Tax Advisory Services">
+    <meta property="og:description"
+        content="Learn about Aestimo Pro Consult - a licensed accounting and tax advisory firm with over a decade of experience serving clients across Africa. CITG License: CTPF D/00013.">
+    <meta property="og:image" content="https://aestimoproconsult.vercel.app/images/demo-consulting.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="Aestimo Pro Consult - Professional Accounting & Tax Services in Ghana">
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://aestimoproconsult.vercel.app/demo-consulting-company">
+    <meta name="twitter:title" content="About Aestimo Pro Consult - Professional Accounting & Tax Advisory Services">
+    <meta name="twitter:description"
+        content="Learn about Aestimo Pro Consult - a licensed accounting and tax advisory firm with over a decade of experience serving clients across Africa. CITG License: CTPF D/00013.">
+    <meta name="twitter:image" content="https://aestimoproconsult.vercel.app/images/demo-consulting.jpg">
     <!-- favicon icon -->
     <link rel="shortcut icon" href="images/favicon.png">
     <link rel="apple-touch-icon" href="images/apple-touch-icon-57x57.png">
