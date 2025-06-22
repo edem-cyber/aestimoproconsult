@@ -117,12 +117,13 @@
         <div class="container-fluid">
             <div class="row justify-content-center">
                 <div class="col-12 p-0">
-                    <div class="bg-dark-gray text-center py-6">
+                    <div class="bg-dark-gray text-center py-8">
                         <div class="container">
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
-                                    <h3 class="alt-font text-white fw-600 mb-20px">Visit Our Office</h3>
-                                    <p class="text-white mb-25px fs-18">P.O. Box 1923, Osu<br>Dzorwulu, Accra, Ghana</p>
+                                    <h3 class="alt-font text-white fw-600 mb-30px">Visit Our Office</h3>
+                                    <p class="text-white mb-35px fs-18 lh-30">P.O. Box 1923, Osu<br>Dzorwulu, Accra,
+                                        Ghana</p>
                                     <a href="https://maps.google.com/maps?q=Dzorwulu,+Accra,+Ghana" target="_blank"
                                         class="btn btn-medium btn-white btn-box-shadow btn-round-edge">
                                         <i class="feather icon-feather-map-pin me-10px"></i>View on Google Maps
