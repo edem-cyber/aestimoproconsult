@@ -53,7 +53,7 @@
 </head>
 
 <body data-mobile-nav-style="classic">
-    <?php include 'layouts/header.php'; ?>
+    <?php include '../layouts/header.php'; ?>
     <!-- start section -->
     <section class="p-0 bg-dark-gray">
         <div class="swiper full-screen bg-dark-gray ipad-top-space-margin md-h-600px sm-h-500px swiper-number-pagination-style-02 magic-cursor light magic-cursor-vertical lg-no-parallax"
@@ -874,7 +874,7 @@
         </div>
     </section>
     <!-- end section -->
-    <?php include 'layouts/footer.php'; ?>
+    <?php include '../layouts/footer.php'; ?>
     <!-- javascript libraries -->
     <script type="text/javascript" src="js/jquery.js"></script>
     <script type="text/javascript" src="js/vendors.min.js"></script>

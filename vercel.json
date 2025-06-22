@@ -1,67 +1,35 @@
 {
-    "version": 2,
-    "builds": [
-        {
-            "src": "index.php",
-            "use": "vercel-php@0.6.0"
-        },
-        {
-            "src": "demo-consulting-company.php",
-            "use": "vercel-php@0.6.0"
-        },
-        {
-            "src": "demo-consulting-contact.php",
-            "use": "vercel-php@0.6.0"
-        },
-        {
-            "src": "demo-consulting-process.php",
-            "use": "vercel-php@0.6.0"
-        },
-        {
-            "src": "demo-consulting-services.php",
-            "use": "vercel-php@0.6.0"
-        },
-        {
-            "src": "demo-consulting-services-details.php",
-            "use": "vercel-php@0.6.0"
-        },
-        {
-            "src": "css/**",
-            "use": "@vercel/static"
-        },
-        {
-            "src": "js/**",
-            "use": "@vercel/static"
-        },
-        {
-            "src": "images/**",
-            "use": "@vercel/static"
-        },
-        {
-            "src": "fonts/**",
-            "use": "@vercel/static"
-        },
-        {
-            "src": "demos/**",
-            "use": "@vercel/static"
-        },
-        {
-            "src": "revolution/**",
-            "use": "@vercel/static"
-        }
-    ],
+    "functions": {
+        "api/**/*.php": { "runtime": "vercel-php@0.6.0" }
+    },
     "routes": [
         {
             "src": "/",
-            "dest": "/index.php"
+            "dest": "/api/index.php"
         },
         {
-            "src": "/(.*\\.(?:css|js|png|jpg|jpeg|gif|svg|ico|woff|woff2|ttf|eot))",
+            "src": "/demo-consulting-company",
+            "dest": "/api/demo-consulting-company.php"
+        },
+        {
+            "src": "/demo-consulting-contact",
+            "dest": "/api/demo-consulting-contact.php"
+        },
+        {
+            "src": "/demo-consulting-process",
+            "dest": "/api/demo-consulting-process.php"
+        },
+        {
+            "src": "/demo-consulting-services",
+            "dest": "/api/demo-consulting-services.php"
+        },
+        {
+            "src": "/demo-consulting-services-details",
+            "dest": "/api/demo-consulting-services-details.php"
+        },
+        {
+            "src": "/(.*\\.(css|js|png|jpg|jpeg|gif|svg|ico|woff|woff2|ttf|eot|mp4|webm|pdf))",
             "dest": "/$1"
-        },
-        {
-            "src": "/([^.]+)",
-            "dest": "/$1.php"
         }
     ]
 }
