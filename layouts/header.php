@@ -46,7 +46,7 @@
                 <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
                     <ul class="navbar-nav alt-font">
                         <li class="nav-item"><a href="/" class="nav-link">Home</a></li>
-                        <li class="nav-item"><a href="/demo-consulting-company" class="nav-link">Our Team</a></li>
+                        <li class="nav-item"><a href="/demo-consulting-company" class="nav-link">Team</a></li>
                         <li class="nav-item dropdown simple-dropdown">
                             <a href="/demo-consulting-services" class="nav-link">Services</a>
                             <i class="fa-solid fa-angle-down dropdown-toggle" id="navbarDropdownMenuLink" role="button"
