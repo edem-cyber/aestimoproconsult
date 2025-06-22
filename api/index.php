@@ -740,7 +740,7 @@
     <!-- end section -->
     <!-- start section -->
     <section class="pt-4 pb-4"
-        style="background-image:url('https://sdmntpritalynorth.oaiusercontent.com/files/00000000-b684-6246-b2d7-1fe691d67560/raw?se=2025-06-22T14%3A09%3A21Z&sp=r&sv=2024-08-04&sr=b&scid=9dde3ffa-66e8-5e21-b861-a5f0f6b03f8e&skoid=0a4a0f0c-99ac-4752-9d87-cfac036fa93f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-21T17%3A16%3A08Z&ske=2025-06-22T17%3A16%3A08Z&sks=b&skv=2024-08-04&sig=z0z2m/k1cYduFZ/WefSSK49ziypUSb0hIm6ik4NhiTs%3D'); background-position: center 40%; background-size: cover; background-repeat: no-repeat; background-attachment: fixed;">
+        style="background-image:url('https://i.ibb.co/yBhZk21P/Chat-GPT-Image-Jun-22-2025-01-14-01-PM.png'); background-position: center 40%; background-size: cover; background-repeat: no-repeat; background-attachment: fixed;">
         <div class="opacity-extra-medium bg-gradient-black-dark-orange"></div>
         <div class="container position-relative">
             <div class="row align-items-center justify-content-center text-start text-sm-center text-lg-start">
