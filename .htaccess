@@ -1,10 +1,24 @@
 RewriteEngine On
 
-# Handle Angular and AngularJS requests
+# Route root to api/index.php
+RewriteRule ^$ api/index.php [L]
+RewriteRule ^index/?$ api/index.php [L]
+
+# Route main pages to their API counterparts
+RewriteRule ^demo-consulting-company/?$ api/demo-consulting-company.php [L]
+RewriteRule ^demo-consulting-contact/?$ api/demo-consulting-contact.php [L]
+RewriteRule ^demo-consulting-process/?$ api/demo-consulting-process.php [L]
+RewriteRule ^demo-consulting-services/?$ api/demo-consulting-services.php [L]
+RewriteRule ^demo-consulting-services-details/?$ api/demo-consulting-services-details.php [L]
+
+# Allow direct access to static assets (CSS, JS, images, fonts, etc.)
+RewriteRule \.(css|js|png|jpg|jpeg|gif|svg|ico|woff|woff2|ttf|eot|mp4|webm|pdf)$ - [L]
+
+# Fallback to api directory for any other PHP requests
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_URI} !^/(css|js|images|fonts|demos|revolution)/
-RewriteRule ^([^.]+)$ $1.php [L]
+RewriteCond %{REQUEST_URI} !^/api/
+RewriteRule ^(.*)\.php$ api/$1.php [L]
 
 # Set default document
 DirectoryIndex index.php index.html
