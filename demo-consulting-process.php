@@ -2,13 +2,19 @@
 <html class="no-js" lang="en">
 
 <head>
-    <title>Our Methodology - Aestimo Pro Consult - Professional Accounting & Tax Advisory Services</title>
+    <title>Our Methodology - Accounting & Tax Services Process | Aestimo Pro Consult Ghana</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="author" content="Aestimo Pro Consult">
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta name="description"
-        content="Discover Aestimo Pro Consult's proven methodology for accounting, tax compliance, financial reporting and business advisory services using modern technology and deep local expertise.">
+        content="Learn about Aestimo Pro Consult's 4-step methodology: Accounting & Systems, Tax Compliance, Financial Reporting, and Business Advisory. CITG licensed professionals with 10+ years experience in Ghana.">
+    <meta name="keywords"
+        content="accounting methodology Ghana, tax compliance process, financial reporting services, business advisory methodology, CITG licensed process, accounting systems Ghana">
+    <meta property="og:title" content="Our Methodology - Professional Accounting & Tax Process">
+    <meta property="og:description"
+        content="Discover our proven 4-step methodology for accounting, tax compliance, and business advisory services in Ghana.">
+    <meta name="robots" content="index, follow">
     <!-- favicon icon -->
     <link rel="shortcut icon" href="images/favicon.png">
     <link rel="apple-touch-icon" href="images/apple-touch-icon-57x57.png">

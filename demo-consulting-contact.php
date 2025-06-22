@@ -2,13 +2,22 @@
 <html class="no-js" lang="en">
 
 <head>
-    <title>Contact Aestimo Pro Consult - Professional Accounting & Tax Advisory Services</title>
+    <title>Contact Us - Aestimo Pro Consult | Licensed Accountants Ghana | CITG CTPF D/00013</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="author" content="Aestimo Pro Consult">
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta name="description"
-        content="Contact Aestimo Pro Consult for professional accounting, tax advisory, and business consulting services. Licensed by CITG (CTPF D/00013). Call +233 54 564 8343 or email avonomanprince@gmail.com">
+        content="Contact Aestimo Pro Consult for accounting, tax & business advisory services in Ghana. CITG licensed (CTPF D/00013). Office: Dzorwulu, Accra. Call +233 54 564 8343 or email avonomanprince@gmail.com">
+    <meta name="keywords"
+        content="contact accountants Ghana, Accra accounting firm, CITG licensed contact, tax advisory contact Ghana, Dzorwulu accounting office, Prince Avornorkadzi, Nathaniel Yankah">
+    <meta property="og:title" content="Contact Aestimo Pro Consult - Licensed Accounting Services Ghana">
+    <meta property="og:description"
+        content="Get in touch with our CITG licensed accounting and tax professionals in Accra, Ghana. Expert consultation available.">
+    <meta name="geo.region" content="GH-AA">
+    <meta name="geo.placename" content="Accra, Ghana">
+    <meta name="geo.position" content="5.614818;-0.205874">
+    <meta name="ICBM" content="5.614818, -0.205874">
     <!-- favicon icon -->
     <link rel="shortcut icon" href="images/favicon.png">
     <link rel="apple-touch-icon" href="images/apple-touch-icon-57x57.png">
@@ -29,7 +38,8 @@
     <?php include 'layouts/header.php'; ?>
     <!-- start page title -->
     <section class="page-title-big-typography bg-dark-gray ipad-top-space-margin xs-py-0"
-        data-parallax-background-ratio="0.5" style="background-image: url(https://placehold.co/1925x1050)">
+        data-parallax-background-ratio="0.5"
+        style="background-image: url(https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1925&h=1050&fit=crop)">
         <div class="opacity-light bg-dark-gray"></div>
         <div class="container">
             <div class="row align-items-center justify-content-center small-screen">
@@ -117,10 +127,10 @@
         <div class="container-fluid">
             <div class="row justify-content-center">
                 <div class="col-12 p-0">
-                    <div class="bg-dark-gray text-center py-8">
+                    <div class="bg-dark-gray text-center">
                         <div class="container">
                             <div class="row justify-content-center">
-                                <div class="col-lg-8">
+                                <div class="col-lg-8 py-5">
                                     <h3 class="alt-font text-white fw-600 mb-30px">Visit Our Office</h3>
                                     <p class="text-white mb-35px fs-18 lh-30">P.O. Box 1923, Osu<br>Dzorwulu, Accra,
                                         Ghana</p>

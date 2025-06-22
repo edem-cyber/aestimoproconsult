@@ -2,13 +2,24 @@
 <html class="no-js" lang="en">
 
 <head>
-    <title>Aestimo Pro Consult - Professional Accounting & Tax Advisory Services</title>
+    <title>Aestimo Pro Consult - Licensed Accounting & Tax Advisory Services Ghana | CITG CTPF D/00013</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="author" content="Aestimo Pro Consult">
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta name="description"
-        content="Aestimo Pro Consult provides professional accounting, tax advisory, business consulting and financial management services. Licensed by CITG with over a decade of experience.">
+        content="Aestimo Pro Consult - Licensed accounting, tax advisory & business consulting in Ghana. CITG registered (CTPF D/00013) with 10+ years expertise. Chartered Accountants & Tax Professionals serving Accra and across Africa.">
+    <meta name="keywords"
+        content="accounting services Ghana, tax advisory Accra, CITG licensed accountants, business consulting Ghana, financial reporting, tax compliance, chartered accountants Ghana">
+    <meta property="og:title" content="Aestimo Pro Consult - Professional Accounting & Tax Services Ghana">
+    <meta property="og:description"
+        content="Licensed accounting and tax advisory services in Ghana. CITG registered with over 10 years of expertise in financial management and business consulting.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://aestimoproconsult.com">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Aestimo Pro Consult - Accounting & Tax Services Ghana">
+    <meta name="twitter:description"
+        content="Professional accounting, tax advisory and business consulting services in Ghana. Licensed by CITG (CTPF D/00013).">
     <!-- favicon icon -->
     <link rel="shortcut icon" href="images/favicon.png">
     <link rel="apple-touch-icon" href="images/apple-touch-icon-57x57.png">
@@ -36,7 +47,7 @@
                 <!-- start slider item -->
                 <div class="swiper-slide overflow-hidden">
                     <div class="cover-background position-absolute top-0 start-0 w-100 h-100" data-swiper-parallax="500"
-                        style="background-image:url('https://placehold.co/1920x1080');">
+                        style="background-image:url('https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1920&h=1080&fit=crop');">
                         <div class="opacity-light bg-dark-gray"></div>
                         <div class="container h-100">
                             <div class="row align-items-center h-100 justify-content-center">
@@ -67,7 +78,7 @@
                 <!-- start slider item -->
                 <div class="swiper-slide overflow-hidden">
                     <div class="cover-background position-absolute top-0 start-0 w-100 h-100" data-swiper-parallax="500"
-                        style="background-image:url('https://placehold.co/1920x1080');">
+                        style="background-image:url('https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1920&h=1080&fit=crop');">
                         <div class="opacity-light bg-dark-gray"></div>
                         <div class="container h-100">
                             <div class="row align-items-center h-100 justify-content-center">
@@ -98,7 +109,7 @@
                 <!-- start slider item -->
                 <div class="swiper-slide overflow-hidden">
                     <div class="cover-background position-absolute top-0 start-0 w-100 h-100" data-swiper-parallax="500"
-                        style="background-image:url('https://placehold.co/1920x1080');">
+                        style="background-image:url('https://images.unsplash.com/photo-1560472355-536de3962603?w=1920&h=1080&fit=crop');">
                         <div class="opacity-light bg-dark-gray"></div>
                         <div class="container h-100">
                             <div class="row align-items-center h-100 justify-content-center">
