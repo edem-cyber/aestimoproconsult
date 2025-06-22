@@ -26,7 +26,7 @@
 </head>
 
 <body data-mobile-nav-style="classic">
-    <?php include '../layouts/header.php'; ?>
+    <?php include dirname(__DIR__) . '/layouts/header.php'; ?>
     <!-- start page title -->
     <section class="page-title-big-typography bg-dark-gray ipad-top-space-margin xs-py-0"
         data-parallax-background-ratio="0.5" style="background-image: url(https://placehold.co/1925x1050)">
@@ -285,7 +285,7 @@
         </div>
     </section>
     <!-- end section -->
-    <?php include '../layouts/footer.php'; ?>
+    <?php include dirname(__DIR__) . '/layouts/footer.php'; ?>
     <!-- start scroll progress -->
     <div class="scroll-progress d-none d-xxl-block">
         <a href="#" class="scroll-top" aria-label="scroll">

@@ -5,7 +5,7 @@
 ?>
 
 
-<?php include_once('../layouts/header.php'); ?>
+<?php include_once dirname(__DIR__) . '/layouts/header.php'; ?>
 
        <!-- start section -->
        
@@ -14,4 +14,4 @@
 
 
 
-<?php include_once('../layouts/footer.php'); ?>
+<?php include_once dirname(__DIR__) . '/layouts/footer.php'; ?>

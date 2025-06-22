@@ -46,7 +46,7 @@
 </head>
 
 <body data-mobile-nav-style="classic">
-    <?php include '../layouts/header.php'; ?>
+    <?php include dirname(__DIR__) . '/layouts/header.php'; ?>
     <!-- start page title -->
     <section class="page-title-big-typography bg-dark-gray ipad-top-space-margin xs-py-0"
         data-parallax-background-ratio="0.5"
@@ -214,7 +214,7 @@
         </div>
     </section>
     <!-- end section -->
-    <?php include '../layouts/footer.php'; ?>
+    <?php include dirname(__DIR__) . '/layouts/footer.php'; ?>
     <!-- javascript libraries -->
     <script type="text/javascript" src="js/jquery.js"></script>
     <script type="text/javascript" src="js/vendors.min.js"></script>
