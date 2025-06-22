@@ -32,6 +32,17 @@
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/responsive.css" />
     <link rel="stylesheet" href="demos/consulting/consulting.css" />
+    <style>
+        /* Override parallax to maintain 60% positioning */
+        .page-title-big-typography[data-parallax-background-ratio] {
+            background-position: center 60% !important;
+        }
+
+        /* Ensure the parallax effect still works but starts from 60% */
+        .page-title-big-typography[data-parallax-background-ratio]:before {
+            background-position: center 60% !important;
+        }
+    </style>
 </head>
 
 <body data-mobile-nav-style="classic">
@@ -39,7 +50,7 @@
     <!-- start page title -->
     <section class="page-title-big-typography bg-dark-gray ipad-top-space-margin xs-py-0"
         data-parallax-background-ratio="0.5"
-        style="background-image: url(https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1925&h=1050&fit=crop)">
+        style="background-image: url(https://images.pexels.com/photos/7432492/pexels-photo-7432492.jpeg);">
         <div class="opacity-light bg-dark-gray"></div>
         <div class="container">
             <div class="row align-items-center justify-content-center small-screen">
@@ -153,51 +164,9 @@
             <div class="row justify-content-center">
                 <div class="col-lg-7 text-center mb-2"
                     data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 100, "easing": "easeOutQuad" }'>
-                    <span
-                        class="fw-600 ls-1px fs-16 alt-font d-inline-block text-uppercase mb-5px text-base-color">Professional
-                        accounting & tax services</span>
-                    <h2 class="alt-font text-dark-gray fw-600 ls-minus-2px">How can we help your business grow?</h2>
-                </div>
-            </div>
-            <div class="row justify-content-center mb-6"
-                data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 100, "easing": "easeOutQuad" }'>
-                <div class="col-lg-4 col-md-6 mb-30px">
-                    <div class="feature-box text-start">
-                        <div class="feature-box-icon">
-                            <i class="line-icon-Bar-Chart icon-medium text-base-color mb-20px"></i>
-                        </div>
-                        <div class="feature-box-content">
-                            <span class="d-block alt-font fw-600 text-dark-gray mb-10px fs-18">Accounting &
-                                Bookkeeping</span>
-                            <p class="mb-0">Monthly financial statements, cash book preparation, and regulatory
-                                reporting to help you maintain accurate financial records.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 mb-30px">
-                    <div class="feature-box text-start">
-                        <div class="feature-box-icon">
-                            <i class="line-icon-Receipt icon-medium text-base-color mb-20px"></i>
-                        </div>
-                        <div class="feature-box-content">
-                            <span class="d-block alt-font fw-600 text-dark-gray mb-10px fs-18">Tax Compliance &
-                                Advisory</span>
-                            <p class="mb-0">Comprehensive tax planning, VAT returns, withholding tax management, and
-                                representation with Ghana Revenue Authority.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 mb-30px">
-                    <div class="feature-box text-start">
-                        <div class="feature-box-icon">
-                            <i class="line-icon-Business-ManWoman icon-medium text-base-color mb-20px"></i>
-                        </div>
-                        <div class="feature-box-content">
-                            <span class="d-block alt-font fw-600 text-dark-gray mb-10px fs-18">Business Advisory</span>
-                            <p class="mb-0">Strategic planning, financial modeling, due diligence, and business
-                                restructuring to drive growth and efficiency.</p>
-                        </div>
-                    </div>
+                    <span class="fw-600 ls-1px fs-16 alt-font d-inline-block text-uppercase mb-5px text-base-color">
+                        Feel free to get in touch!</span>
+                    <h2 class="alt-font text-dark-gray fw-600 ls-minus-2px">How we can help you?</h2>
                 </div>
             </div>
             <div class="row row-cols-md-1 justify-content-center"
@@ -251,6 +220,33 @@
     <script type="text/javascript" src="js/vendors.min.js"></script>
 
     <script type="text/javascript" src="js/main.js"></script>
+    <script>
+        // Custom parallax override to maintain 60% positioning
+        $(document).ready(function () {
+            // Override the parallax function for this specific section
+            $('.page-title-big-typography[data-parallax-background-ratio]').each(function () {
+                var $this = $(this);
+                var ratio = parseFloat($this.attr('data-parallax-background-ratio')) || 0.5;
+
+                // Remove the standard parallax and apply custom
+                $this.css('background-attachment', 'fixed');
+
+                $(window).scroll(function () {
+                    var scrollTop = $(window).scrollTop();
+                    var elementTop = $this.offset().top;
+                    var elementHeight = $this.outerHeight();
+                    var windowHeight = $(window).height();
+
+                    // Calculate if element is in viewport
+                    if (scrollTop + windowHeight > elementTop && scrollTop < elementTop + elementHeight) {
+                        // Calculate parallax offset starting from 60%
+                        var yPos = 60 + (scrollTop - elementTop) * ratio * 0.1;
+                        $this.css('background-position', 'center ' + yPos + '%');
+                    }
+                });
+            });
+        });
+    </script>
 </body>
 
 </html>
