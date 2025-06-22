@@ -1,50 +1,47 @@
 {
-    "functions": {
-        "*.php": {
-            "runtime": "vercel-php@0.6.0"
+    "version": 2,
+    "builds": [
+        {
+            "src": "*.php",
+            "use": "vercel-php@0.6.0"
+        },
+        {
+            "src": "css/**",
+            "use": "@vercel/static"
+        },
+        {
+            "src": "js/**",
+            "use": "@vercel/static"
+        },
+        {
+            "src": "images/**",
+            "use": "@vercel/static"
+        },
+        {
+            "src": "fonts/**",
+            "use": "@vercel/static"
+        },
+        {
+            "src": "demos/**",
+            "use": "@vercel/static"
+        },
+        {
+            "src": "revolution/**",
+            "use": "@vercel/static"
         }
-    },
+    ],
     "routes": [
-        {
-            "src": "/css/(.*)",
-            "dest": "/css/$1"
-        },
-        {
-            "src": "/js/(.*)",
-            "dest": "/js/$1"
-        },
-        {
-            "src": "/images/(.*)",
-            "dest": "/images/$1"
-        },
-        {
-            "src": "/fonts/(.*)",
-            "dest": "/fonts/$1"
-        },
-        {
-            "src": "/demos/(.*)",
-            "dest": "/demos/$1"
-        },
-        {
-            "src": "/revolution/(.*)",
-            "dest": "/revolution/$1"
-        },
-        {
-            "src": "/api/(.*)",
-            "dest": "/api/$1"
-        },
         {
             "src": "/",
             "dest": "/index.php"
         },
         {
-            "src": "/([^.]+)",
-            "dest": "/$1.php"
+            "src": "/(.*\\.(?:css|js|png|jpg|jpeg|gif|svg|ico|woff|woff2|ttf|eot))",
+            "dest": "/$1"
         },
         {
-            "src": "/(.*)",
-            "dest": "/$1"
+            "src": "/([^.]+)",
+            "dest": "/$1.php"
         }
-    ],
-    "cleanUrls": true
+    ]
 }
