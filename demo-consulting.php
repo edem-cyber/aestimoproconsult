@@ -34,6 +34,22 @@
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/responsive.css" />
     <link rel="stylesheet" href="demos/consulting/consulting.css" />
+    <style>
+        /* Fixed height for service cards */
+        .interactive-banner-style-05 figure {
+            height: 400px !important;
+        }
+
+        .interactive-banner-style-05 figure img {
+            height: 100%;
+            object-fit: cover;
+            width: 100%;
+        }
+
+        .interactive-banner-style-05 .atropos-inner {
+            height: 400px;
+        }
+    </style>
 </head>
 
 <body data-mobile-nav-style="classic">
@@ -47,7 +63,7 @@
                 <!-- start slider item -->
                 <div class="swiper-slide overflow-hidden">
                     <div class="cover-background position-absolute top-0 start-0 w-100 h-100" data-swiper-parallax="500"
-                        style="background-image:url('https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1920&h=1080&fit=crop');">
+                        style="background-image:url('https://images.unsplash.com/photo-1587837431646-ef5bf7476353?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YWZyaWNhbiUyMGN1cnJlbmN5fGVufDB8fDB8fHww');">
                         <div class="opacity-light bg-dark-gray"></div>
                         <div class="container h-100">
                             <div class="row align-items-center h-100 justify-content-center">
@@ -60,13 +76,13 @@
                                     </div>
                                     <div
                                         data-anime='{  "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 300, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                                        <a href="demo-consulting-contact.html"
+                                        <a href="demo-consulting-contact.php"
                                             class="btn btn-base-color btn-box-shadow btn-large btn-round-edge">Get
                                             started today</a>
                                     </div>
                                     <div data-anime='{ "opacity": [0, 1], "duration": 500, "delay": 1000, "easing": "easeOutQuad" }'
                                         class="fs-20 alt-font position-absolute lg-position-relative left-0px right-0px bottom-0 mb-8 lg-mt-40px lg-mb-0 sm-mt-25px w-100 text-shadow-double-large">
-                                        Request a free <a href="demo-consulting-contact.html"
+                                        Request a free <a href="demo-consulting-contact.php"
                                             class="text-decoration-line-bottom text-white fw-500">business
                                             consultation!</a></div>
                                 </div>
@@ -78,7 +94,7 @@
                 <!-- start slider item -->
                 <div class="swiper-slide overflow-hidden">
                     <div class="cover-background position-absolute top-0 start-0 w-100 h-100" data-swiper-parallax="500"
-                        style="background-image:url('https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1920&h=1080&fit=crop');">
+                        style="background-image:url('https://images.pexels.com/photos/7841428/pexels-photo-7841428.jpeg'); background-position: center 60%;">
                         <div class="opacity-light bg-dark-gray"></div>
                         <div class="container h-100">
                             <div class="row align-items-center h-100 justify-content-center">
@@ -91,13 +107,13 @@
                                     </div>
                                     <div
                                         data-anime='{  "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 300, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                                        <a href="demo-consulting-contact.html"
+                                        <a href="demo-consulting-contact.php"
                                             class="btn btn-base-color btn-box-shadow btn-large btn-round-edge">Get
                                             started today</a>
                                     </div>
                                     <div data-anime='{ "opacity": [0, 1], "duration": 500, "delay": 1000, "easing": "easeOutQuad" }'
                                         class="fs-20 alt-font position-absolute lg-position-relative left-0px right-0px bottom-0 mb-8 lg-mt-40px lg-mb-0 sm-mt-25px w-100 text-shadow-double-large">
-                                        Discover our <a href="demo-consulting-process.html"
+                                        Discover our <a href="demo-consulting-process.php"
                                             class="text-decoration-line-bottom text-white fw-500">service offerings!</a>
                                     </div>
                                 </div>
@@ -122,13 +138,13 @@
                                     </div>
                                     <div
                                         data-anime='{  "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 300, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                                        <a href="demo-consulting-contact.html"
+                                        <a href="demo-consulting-contact.php"
                                             class="btn btn-base-color btn-box-shadow btn-large btn-round-edge">Get
                                             started today</a>
                                     </div>
                                     <div data-anime='{ "opacity": [0, 1], "duration": 500, "delay": 1000, "easing": "easeOutQuad" }'
                                         class="fs-20 alt-font position-absolute lg-position-relative left-0px right-0px bottom-0 mb-8 lg-mt-40px lg-mb-0 sm-mt-25px w-100 text-shadow-double-large">
-                                        Become a part of <a href="demo-consulting-company.html"
+                                        Become a part of <a href="demo-consulting-company.php"
                                             class="text-decoration-line-bottom text-white fw-500">our success story!</a>
                                     </div>
                                 </div>
@@ -270,7 +286,7 @@
                                     <figure class="m-0 hover-box border-radius-4px overflow-hidden position-relative"
                                         data-atropos-offset="3">
                                         <img class="w-100"
-                                            src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=815&fit=crop&crop=face"
+                                            src="https://images.unsplash.com/photo-1468779036391-52341f60b55d?q=80&w=2568&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                                             alt="Professional Accounting Services" />
                                         <figcaption
                                             class="d-flex flex-column align-items-start justify-content-center position-absolute left-0px top-0px w-100 h-100 z-index-1 p-15 xl-p-12 last-paragraph-no-margin">
@@ -306,7 +322,7 @@
                                     <figure class="m-0 hover-box border-radius-4px overflow-hidden position-relative"
                                         data-atropos-offset="3">
                                         <img class="w-100"
-                                            src="https://images.unsplash.com/photo-1573497620053-ea5300f94f21?w=600&h=815&fit=crop&crop=face"
+                                            src="https://images.pexels.com/photos/7821554/pexels-photo-7821554.jpeg"
                                             alt="Tax Compliance Services" />
                                         <figcaption
                                             class="d-flex flex-column align-items-start justify-content-center position-absolute left-0px top-0px w-100 h-100 z-index-1 p-15 xl-p-12 last-paragraph-no-margin">
@@ -341,7 +357,7 @@
                                     <figure class="m-0 hover-box border-radius-4px overflow-hidden position-relative"
                                         data-atropos-offset="3">
                                         <img class="w-100"
-                                            src="https://images.unsplash.com/photo-1556157382-97eda2d62296?w=600&h=815&fit=crop&crop=face"
+                                            src="https://images.pexels.com/photos/7841507/pexels-photo-7841507.jpeg"
                                             alt="Business Advisory Services" />
                                         <figcaption
                                             class="d-flex flex-column align-items-start justify-content-center position-absolute left-0px top-0px w-100 h-100 z-index-1 p-15 xl-p-12 last-paragraph-no-margin">
@@ -646,7 +662,7 @@
     <section class="position-relative overflow-hidden py-0">
         <div class="skrollr-parallax mx-auto pt-7 pb-7 md-pt-12 md-pb-12" data-bottom-top="width: 63%"
             data-center-top="width: 100%;" data-parallax-background-ratio="0.5"
-            style="background-image: url('https://placehold.co/1920x1100')">
+            style="background-image: url('https://images.pexels.com/photos/955395/pexels-photo-955395.jpeg')">
             <div class="opacity-extra-medium bg-gradient-black-dark-orange"></div>
             <div class="container">
                 <div class="row justify-content-center align-items-center mb-5">
