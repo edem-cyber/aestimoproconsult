@@ -867,7 +867,8 @@
                                     href="mailto:avonomanprince@gmail.com"
                                     class="text-decoration-line-bottom text-white fw-500">avonomanprince@gmail.com</a></span>
                         </div>
-                    </div>
+                    </div>   
+                    
                 </div>
             </div>
         </div>
