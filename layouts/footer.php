@@ -18,11 +18,11 @@
             <div class="col-6 col-lg-2 col-md-3 col-sm-6 md-mb-30px">
                 <span class="alt-font d-block text-dark-gray fw-600 mb-10px fs-19">Company</span>
                 <ul>
-                    <li><a href="/">Home</a></li>
+                    <!-- <li><a href="/">Home</a></li> -->
                     <li><a href="/demo-consulting-company">Team</a></li>
                     <li><a href="/demo-consulting-services">Services</a></li>
-                    <li><a href="/demo-consulting-process">Process</a></li>
-                    <li><a href="demo-consulting-clients.html">Clients</a></li>
+                    <!-- <li><a href="/demo-consulting-process">Process</a></li> -->
+                    <!-- <li><a href="demo-consulting-clients.html">Clients</a></li> -->
                     <li><a href="/demo-consulting-contact">Contact</a></li>
                 </ul>
             </div>
