@@ -44,19 +44,26 @@
     <link rel="stylesheet" href="css/responsive.css" />
     <link rel="stylesheet" href="demos/consulting/consulting.css" />
     <style>
-        /* Fix for process step alignment */
+        /* Fix for process step alignment and number positioning */
+        .process-step-style-02 {
+            position: relative;
+        }
+
         .process-step-style-02 .process-step-icon-box {
-            display: flex;
-            justify-content: center;
-            align-items: center;
             height: 120px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
         }
 
         .process-step-style-02 .progress-step-separator {
             position: absolute;
             top: 50%;
-            right: -50%;
+            left: calc(100% + 20px);
             transform: translateY(-50%);
+            width: calc(100% - 40px);
+            height: 1px;
             z-index: 1;
         }
 
@@ -67,11 +74,48 @@
         .process-step-style-02 .process-step-icon {
             position: relative;
             z-index: 2;
+            width: 80px !important;
+            height: 80px !important;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto;
+        }
+
+        /* Ensure all numbers are at the same height across the row */
+        .row-cols-lg-4 .col {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .row-cols-lg-4 .process-step-style-02 .process-step-icon-box {
+            margin-top: auto;
         }
 
         @media (max-width: 991px) {
             .process-step-style-02 .progress-step-separator {
                 display: none;
+            }
+
+            .process-step-style-02 .process-step-icon-box {
+                height: 100px;
+            }
+        }
+
+        @media (min-width: 992px) {
+
+            /* Force all step boxes to have the same height on desktop */
+            .row-cols-lg-4 .process-step-style-02 {
+                min-height: 400px;
+                display: flex;
+                flex-direction: column;
+            }
+
+            .row-cols-lg-4 .process-step-style-02 .process-step-icon-box {
+                margin-top: auto;
+                margin-bottom: 0;
             }
         }
     </style>
@@ -197,7 +241,7 @@
     </section>
     <!-- end section -->
     <!-- start section -->
-    <section class="pt-7 md-pt-50px">
+    <section class="pt-15 lg-pt-10 md-pt-8 sm-pt-50px">
         <div class="container">
             <div class="row justify-content-center mb-3">
                 <div class="col-lg-7 text-center"
