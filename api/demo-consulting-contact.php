@@ -57,6 +57,30 @@
         .page-title-big-typography[data-parallax-background-ratio]:before {
             background-position: center 60% !important;
         }
+
+        /* Honeypot field - completely hidden from users */
+        .honeypot-field {
+            position: absolute !important;
+            left: -9999px !important;
+            top: -9999px !important;
+            width: 0 !important;
+            height: 0 !important;
+            opacity: 0 !important;
+            visibility: hidden !important;
+            pointer-events: none !important;
+        }
+
+        /* Form validation styles */
+        .error-border {
+            border-color: #dc3545 !important;
+            box-shadow: 0 0 0 0.2rem rgba(220, 53, 69, 0.25) !important;
+        }
+
+        /* Button loading state */
+        .submit:disabled {
+            opacity: 0.7;
+            cursor: not-allowed;
+        }
     </style>
 </head>
 
@@ -189,6 +213,11 @@
                 <div class="col-xl-9 col-lg-11">
                     <!-- start contact form -->
                     <form action="api/contact-form" method="post" class="row contact-form-style-02">
+                        <!-- Honeypot field - completely hidden from users but visible to bots -->
+                        <div class="honeypot-field">
+                            <label for="website">Don't fill this out if you're human:</label>
+                            <input type="text" name="website" id="website" tabindex="-1" autocomplete="off" />
+                        </div>
                         <div class="col-md-6 mb-30px">
                             <input class="box-shadow-quadruple-large input-name form-control required" type="text"
                                 name="name" placeholder="Your name*" />
@@ -236,8 +265,66 @@
 
     <script type="text/javascript" src="js/main.js"></script>
     <script>
-        // Custom parallax override to maintain 60% positioning
+        // Form validation and enhancement
         $(document).ready(function () {
+            // Add form validation
+            $('.contact-form-style-02').on('submit', function (e) {
+                var isValid = true;
+                var errorMessage = '';
+
+                // Check required fields
+                $(this).find('.required').each(function () {
+                    if ($(this).val().trim() === '') {
+                        isValid = false;
+                        $(this).addClass('error-border');
+                        errorMessage = 'Please fill in all required fields.';
+                    } else {
+                        $(this).removeClass('error-border');
+                    }
+                });
+
+                // Email validation
+                var email = $('input[name="email"]').val();
+                var emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+                if (email && !emailRegex.test(email)) {
+                    isValid = false;
+                    $('input[name="email"]').addClass('error-border');
+                    errorMessage = 'Please enter a valid email address.';
+                }
+
+                // Phone validation (if provided)
+                var phone = $('input[name="phone"]').val();
+                if (phone && phone.length > 0 && phone.length < 10) {
+                    isValid = false;
+                    $('input[name="phone"]').addClass('error-border');
+                    errorMessage = 'Please enter a valid phone number.';
+                }
+
+                if (!isValid) {
+                    e.preventDefault();
+                    $('.form-results').removeClass('d-none').html(
+                        '<div class="alert alert-danger alert-dismissable">' + errorMessage + '</div>'
+                    );
+                    $('html, body').animate({
+                        scrollTop: $('.form-results').offset().top - 100
+                    }, 500);
+                    return false;
+                }
+
+                // Show loading state
+                var submitBtn = $(this).find('.submit');
+                submitBtn.prop('disabled', true).text('Sending...');
+            });
+
+            // Remove error styling on input
+            $('.contact-form-style-02 input, .contact-form-style-02 textarea').on('input', function () {
+                $(this).removeClass('error-border');
+                if ($('.contact-form-style-02 .error-border').length === 0) {
+                    $('.form-results').addClass('d-none');
+                }
+            });
+
+            // Custom parallax override to maintain 60% positioning
             // Override the parallax function for this specific section
             $('.page-title-big-typography[data-parallax-background-ratio]').each(function () {
                 var $this = $(this);
