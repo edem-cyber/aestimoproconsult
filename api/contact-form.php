@@ -1,17 +1,39 @@
 <?php
 if (!empty($_POST['email'])) {
 
+	// Honeypot protection - if the 'website' field is filled, it's likely a bot
+	if (!empty($_POST['website'])) {
+		// Silently reject bot submissions without error message
+		echo '{ "alert": "alert alert-success alert-dismissable", "message": "Your message has been sent successfully!" }';
+		exit();
+	}
+
+	// Basic rate limiting - check if IP has submitted in the last 60 seconds
+	$user_ip = $_SERVER['REMOTE_ADDR'];
+	$rate_limit_file = sys_get_temp_dir() . '/contact_form_' . md5($user_ip) . '.tmp';
+
+	if (file_exists($rate_limit_file)) {
+		$last_submission = file_get_contents($rate_limit_file);
+		if (time() - $last_submission < 60) {
+			echo '{ "alert": "alert alert-warning alert-dismissable", "message": "Please wait a moment before submitting another message." }';
+			exit();
+		}
+	}
+
 	// Enable / Disable SMTP
 	$enable_smtp = 'no'; // yes OR no
 
-	// Email Receiver Address
-	$receiver_email = 'info@domain.com';
+	// Email Receiver Addresses - Both Prince and Nathaniel
+	$receiver_emails = array(
+		'avonomanprince@gmail.com',
+		'nathaniel.yankah@gmail.com'
+	);
 
 	// Email Receiver Name for SMTP Email
-	$receiver_name = 'Your Name';
+	$receiver_name = 'Aestimo Pro Consult';
 
 	// Email Subject
-	$subject = 'Contact form details';
+	$subject = 'New Contact Form Inquiry - Aestimo Pro Consult';
 
 	// Google reCaptcha secret Key
 	$grecaptcha_secret_key = 'YOUR_SECRET_KEY';
@@ -50,11 +72,13 @@ if (!empty($_POST['email'])) {
 
 		$prefix = !empty($_POST['prefix']) ? $_POST['prefix'] : '';
 		$submits = $_POST;
-		$botpassed = false;
+
+		// Remove honeypot field from processing
+		unset($submits['website']);
 
 		$fields = array();
 		foreach ($submits as $name => $value) {
-			if (empty($value)) {
+			if (empty($value) || $name == 'redirect') {
 				continue;
 			}
 
@@ -72,30 +96,53 @@ if (!empty($_POST['email'])) {
 		foreach ($fields as $fieldname => $fieldvalue) {
 
 			$fieldname = '<tr>
-                                                            <td align="right" valign="top" style="border-top:1px solid #dfdfdf; font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#000; padding:7px 5px 7px 0;">' . $fieldname . ': </td>';
-			$fieldvalue = '<td align="left" valign="top" style="border-top:1px solid #dfdfdf; font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#000; padding:7px 0 7px 5px;">' . $fieldvalue . '</td>
-                                                    </tr>';
+                                <td align="right" valign="top" style="border-top:1px solid #e5e5e5; font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#333; padding:12px 15px 12px 0; font-weight: 600;">' . $fieldname . ': </td>';
+			$fieldvalue = '<td align="left" valign="top" style="border-top:1px solid #e5e5e5; font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#555; padding:12px 0 12px 15px;">' . $fieldvalue . '</td>
+                                </tr>';
 			$response[] = $fieldname . $fieldvalue;
 
 		}
 
-		$message = '<html>
+		$current_date = date('F j, Y \a\t g:i A');
+
+		$message = '<!DOCTYPE html>
+		<html>
 			<head>
-				<title>HTML email</title>
+				<title>New Contact Form Inquiry</title>
+				<style>
+					body { font-family: Arial, sans-serif; margin: 0; padding: 20px; background-color: #f5f5f5; }
+					.container { max-width: 600px; margin: 0 auto; background-color: #ffffff; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+					.header { background: linear-gradient(135deg, #dd6531 0%, #c55a42 100%); color: white; padding: 30px; text-align: center; }
+					.content { padding: 30px; }
+					.footer { background-color: #f8f9fa; padding: 20px; text-align: center; font-size: 12px; color: #666; }
+					table { width: 100%; border-collapse: collapse; }
+					.label { font-weight: 600; color: #333; }
+				</style>
 			</head>
 			<body>
-				<table width="50%" border="0" align="center" cellpadding="0" cellspacing="0">
-				<tr>
-				<td colspan="2" align="center" valign="top"><img style="margin-top: 15px;" src="http://www.yourdomain.com/images/logo-email.png" ></td>
-				</tr>
-				<tr>
-				<td width="50%" align="right">&nbsp;</td>
-				<td align="left">&nbsp;</td>
-				</tr>
-				' . implode('', $response) . '
-				</table>
+				<div class="container">
+					<div class="header">
+						<h2 style="margin: 0; font-size: 24px;">New Contact Form Inquiry</h2>
+						<p style="margin: 10px 0 0 0; opacity: 0.9;">Aestimo Pro Consult</p>
+					</div>
+					<div class="content">
+						<p style="margin-bottom: 25px; color: #555; font-size: 16px;">You have received a new inquiry through your website contact form.</p>
+						<table>
+							' . implode('', $response) . '
+						</table>
+						<p style="margin-top: 25px; padding-top: 20px; border-top: 1px solid #e5e5e5; color: #777; font-size: 13px;">
+							<strong>Received:</strong> ' . $current_date . '<br>
+							<strong>IP Address:</strong> ' . $_SERVER['REMOTE_ADDR'] . '
+						</p>
+					</div>
+					<div class="footer">
+						<p>This message was sent from the Aestimo Pro Consult website contact form.<br>
+						CITG Licensed (CTPF D/00013) | Dzorwulu, Accra, Ghana</p>
+					</div>
+				</div>
 			</body>
 			</html>';
+
 		if ($enable_smtp == 'no') { // Simple Email
 
 			// Always set content-type when sending HTML email
@@ -103,7 +150,21 @@ if (!empty($_POST['email'])) {
 			$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
 			// More headers
 			$headers .= 'From: ' . $fields['Name'] . ' <' . $fields['Email'] . '>' . "\r\n";
-			if (mail($receiver_email, $subject, $message, $headers)) {
+			$headers .= 'Reply-To: ' . $fields['Email'] . "\r\n";
+
+			$success_count = 0;
+			$total_emails = count($receiver_emails);
+
+			// Send to both email addresses
+			foreach ($receiver_emails as $receiver_email) {
+				if (mail($receiver_email, $subject, $message, $headers)) {
+					$success_count++;
+				}
+			}
+
+			if ($success_count > 0) {
+				// Record successful submission timestamp for rate limiting
+				file_put_contents($rate_limit_file, time());
 
 				// Redirect to success page
 				$redirect_page_url = !empty($_POST['redirect']) ? $_POST['redirect'] : '';
@@ -113,19 +174,25 @@ if (!empty($_POST['email'])) {
 				}
 
 				//Success Message
-				echo '{ "alert": "alert alert-success alert-dismissable", "message": "Your message has been sent successfully!" }';
+				if ($success_count == $total_emails) {
+					echo '{ "alert": "alert alert-success alert-dismissable", "message": "Thank you! Your message has been sent successfully to our team." }';
+				} else {
+					echo '{ "alert": "alert alert-success alert-dismissable", "message": "Your message has been sent, but there may have been an issue reaching all recipients." }';
+				}
 			} else {
 				//Fail Message
-				echo '{ "alert": "alert alert-danger alert-dismissable", "message": "Your message could not been sent!" }';
+				echo '{ "alert": "alert alert-danger alert-dismissable", "message": "Sorry, your message could not be sent. Please try again or contact us directly." }';
 			}
 
 		} else { // SMTP
 			// Email Receiver Addresses
 			$toemailaddresses = array();
-			$toemailaddresses[] = array(
-				'email' => $receiver_email, // Your Email Address
-				'name' => $receiver_name // Your Name
-			);
+			foreach ($receiver_emails as $email) {
+				$toemailaddresses[] = array(
+					'email' => $email,
+					'name' => $receiver_name
+				);
+			}
 
 			require 'phpmailer/Exception.php';
 			require 'phpmailer/PHPMailer.php';
@@ -152,6 +219,8 @@ if (!empty($_POST['email'])) {
 			$mail->Body = $message;
 
 			if ($mail->send()) {
+				// Record successful submission timestamp for rate limiting
+				file_put_contents($rate_limit_file, time());
 
 				// Redirect to success page
 				$redirect_page_url = !empty($_POST['redirect']) ? $_POST['redirect'] : '';
@@ -161,14 +230,14 @@ if (!empty($_POST['email'])) {
 				}
 
 				//Success Message
-				echo '{ "alert": "alert alert-success alert-dismissable", "message": "Your message has been sent successfully!" }';
+				echo '{ "alert": "alert alert-success alert-dismissable", "message": "Thank you! Your message has been sent successfully to our team." }';
 			} else {
 				//Fail Message
-				echo '{ "alert": "alert alert-danger alert-dismissable", "message": "Your message could not been sent!" }';
+				echo '{ "alert": "alert alert-danger alert-dismissable", "message": "Sorry, your message could not be sent. Please try again or contact us directly." }';
 			}
 		}
 	}
 } else {
 	//Empty Email Message
-	echo '{ "alert": "alert alert-danger alert-dismissable", "message": "Please add an email address!" }';
+	echo '{ "alert": "alert alert-danger alert-dismissable", "message": "Please provide your email address!" }';
 }
