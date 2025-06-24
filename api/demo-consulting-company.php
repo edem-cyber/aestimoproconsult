@@ -114,6 +114,10 @@
         .team-member-info {
             padding: 25px 20px;
             text-align: center;
+            min-height: 80px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
         }
 
         .team-member-name {
@@ -412,9 +416,6 @@
                                     View Details
                                     <i class="feather icon-feather-arrow-right"></i>
                                 </a>
-                            </div>
-                            <div class="click-indicator">
-                                <i class="feather icon-feather-plus"></i>
                             </div>
                         </div>
                         <div class="team-member-info">
