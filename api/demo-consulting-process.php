@@ -331,44 +331,68 @@
                         We are recognised as a leader by our clients.</p>
                 </div>
             </div>
-            <div class="row justify-content-center">
-                <div class="col-lg-10">
-                    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 text-center"
-                        data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 200, "easing": "easeOutQuad" }'>
-                        <!-- start vision item -->
-                        <div class="col mb-30px">
-                            <i class="line-icon-Diploma icon-double-large text-base-color mb-20px"></i>
-                            <h6 class="alt-font fw-600 text-dark-gray mb-10px">We serve our clients with quality and
-                                distinction</h6>
-                            <p class="mb-0 fs-14">Yielding a measurable and attributable solution</p>
+            <div class="row row-cols-1 row-cols-lg-2 row-cols-md-2 justify-content-center"
+                data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 200, "easing": "easeOutQuad" }'>
+                <!-- start vision item -->
+                <div class="col md-mb-50px">
+                    <div class="feature-box text-start hover-box">
+                        <div class="feature-box-icon">
+                            <i class="line-icon-Diploma icon-medium text-base-color mb-20px"></i>
                         </div>
-                        <!-- end vision item -->
-                        <!-- start vision item -->
-                        <div class="col mb-30px">
-                            <i class="line-icon-Trophy icon-double-large text-base-color mb-20px"></i>
-                            <h6 class="alt-font fw-600 text-dark-gray mb-10px">We lead the profession</h6>
-                            <p class="mb-0 fs-14">Challenging ourselves to deliver innovative ideas that reflect our
-                                unique capabilities</p>
+                        <div class="feature-box-content">
+                            <span class="d-block alt-font fw-600 text-dark-gray mb-10px fs-18">We serve our clients with
+                                quality and distinction</span>
+                            <p class="mb-0">Yielding a measurable and attributable solution that delivers exceptional
+                                value and builds lasting partnerships.</p>
                         </div>
-                        <!-- end vision item -->
-                        <!-- start vision item -->
-                        <div class="col mb-30px">
-                            <i class="line-icon-People icon-double-large text-base-color mb-20px"></i>
-                            <h6 class="alt-font fw-600 text-dark-gray mb-10px">We inspire our people to deliver value
-                            </h6>
-                            <p class="mb-0 fs-14">Mentoring and developing future leaders and colleagues</p>
-                        </div>
-                        <!-- end vision item -->
-                        <!-- start vision item -->
-                        <div class="col mb-30px">
-                            <i class="line-icon-Building icon-double-large text-base-color mb-20px"></i>
-                            <h6 class="alt-font fw-600 text-dark-gray mb-10px">We contribute to society</h6>
-                            <p class="mb-0 fs-14">Building confidence and trust, upholding integrity, supporting the
-                                community</p>
-                        </div>
-                        <!-- end vision item -->
                     </div>
                 </div>
+                <!-- end vision item -->
+                <!-- start vision item -->
+                <div class="col md-mb-50px">
+                    <div class="feature-box text-start hover-box">
+                        <div class="feature-box-icon">
+                            <i class="line-icon-Trophy icon-medium text-base-color mb-20px"></i>
+                        </div>
+                        <div class="feature-box-content">
+                            <span class="d-block alt-font fw-600 text-dark-gray mb-10px fs-18">We lead the
+                                profession</span>
+                            <p class="mb-0">Challenging ourselves to deliver innovative ideas that reflect our unique
+                                capabilities and set industry standards.</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- end vision item -->
+                <!-- start vision item -->
+                <div class="col md-mb-50px">
+                    <div class="feature-box text-start hover-box">
+                        <div class="feature-box-icon">
+                            <i class="line-icon-People icon-medium text-base-color mb-20px"></i>
+                        </div>
+                        <div class="feature-box-content">
+                            <span class="d-block alt-font fw-600 text-dark-gray mb-10px fs-18">We inspire our people to
+                                deliver value</span>
+                            <p class="mb-0">Mentoring and developing future leaders and colleagues while fostering a
+                                culture of continuous learning and growth.</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- end vision item -->
+                <!-- start vision item -->
+                <div class="col">
+                    <div class="feature-box text-start hover-box">
+                        <div class="feature-box-icon">
+                            <i class="line-icon-Building icon-medium text-base-color mb-20px"></i>
+                        </div>
+                        <div class="feature-box-content">
+                            <span class="d-block alt-font fw-600 text-dark-gray mb-10px fs-18">We contribute to
+                                society</span>
+                            <p class="mb-0">Building confidence and trust, upholding integrity, supporting the community
+                                and making a positive impact across Africa.</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- end vision item -->
             </div>
         </div>
     </section>
