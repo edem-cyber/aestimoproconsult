@@ -269,7 +269,7 @@
     <!-- start page title -->
     <section class="page-title-big-typography bg-dark-gray ipad-top-space-margin xs-py-0"
         data-parallax-background-ratio="0.5"
-        style="background-image: url(https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=1920&h=1080&fit=crop)">
+        style="background-image: url(https://images.pexels.com/photos/7706933/pexels-photo-7706933.jpeg)">
         <div class="opacity-light bg-dark-gray"></div>
         <div class="container">
             <div class="row align-items-center justify-content-center small-screen">
