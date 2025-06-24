@@ -61,7 +61,7 @@
                                 <li><a href="/demo-consulting-services-details">Training & Investigations</a></li>
                             </ul>
                         </li>
-                        <li class="nav-item"><a href="/demo-consulting-process" class="nav-link">Process</a></li>
+                        <li class="nav-item"><a href="/demo-consulting-process" class="nav-link">Our Approach</a></li>
                         <li class="nav-item"><a href="demo-consulting-clients.html" class="nav-link">Clients</a></li>
                         <li class="nav-item"><a href="/demo-consulting-contact" class="nav-link">Contact</a></li>
                     </ul>
