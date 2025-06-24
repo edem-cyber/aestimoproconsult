@@ -43,6 +43,38 @@
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/responsive.css" />
     <link rel="stylesheet" href="demos/consulting/consulting.css" />
+    <style>
+        /* Fix for process step alignment */
+        .process-step-style-02 .process-step-icon-box {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 120px;
+        }
+
+        .process-step-style-02 .progress-step-separator {
+            position: absolute;
+            top: 50%;
+            right: -50%;
+            transform: translateY(-50%);
+            z-index: 1;
+        }
+
+        .process-step-style-02:last-child .progress-step-separator {
+            display: none;
+        }
+
+        .process-step-style-02 .process-step-icon {
+            position: relative;
+            z-index: 2;
+        }
+
+        @media (max-width: 991px) {
+            .process-step-style-02 .progress-step-separator {
+                display: none;
+            }
+        }
+    </style>
 </head>
 
 <body data-mobile-nav-style="classic">
@@ -79,9 +111,8 @@
             <div class="row align-items-center justify-content-center text-center text-lg-start"
                 data-anime='{ "el": "childs", "translateX": [50, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 100, "easing": "easeOutQuad" }'>
                 <div class="col-lg-5 col-md-10 md-mb-50px xs-mb-40px">
-                    <h2 class="fw-600 text-dark-gray ls-minus-2px mb-0">Our service approach centers on fostering
-                        long-term partnerships, delivering growth-oriented solutions, and creating sustained value for
-                        clients.</h2>
+                    <h2 class="fw-600 text-dark-gray ls-minus-2px mb-0">Building long-term partnerships and delivering
+                        growth-oriented solutions that create sustained value.</h2>
                 </div>
                 <div class="col-xl-2 offset-xl-2 offset-lg-1 col-md-3 col-sm-4 text-center xs-mb-30px">
                     <span class="alt-font text-dark-gray fw-600 fs-130 ls-minus-2px text-highlight">50+<span
@@ -166,7 +197,7 @@
     </section>
     <!-- end section -->
     <!-- start section -->
-    <section class="pt-0">
+    <section class="pt-7 md-pt-50px">
         <div class="container">
             <div class="row justify-content-center mb-3">
                 <div class="col-lg-7 text-center"
@@ -238,6 +269,62 @@
                     </div>
                 </div>
                 <!-- end feature box item -->
+            </div>
+        </div>
+    </section>
+    <!-- end section -->
+    <!-- start section -->
+    <section class="pt-0">
+        <div class="container">
+            <div class="row justify-content-center text-center mb-6">
+                <div class="col-lg-8 col-md-10">
+                    <span class="fw-600 ls-1px fs-16 alt-font d-inline-block text-uppercase text-base-color mb-5px">Our
+                        Vision</span>
+                    <h3 class="alt-font fw-600 text-dark-gray ls-minus-1px mb-20px">We live to grow businesses with
+                        solutions</h3>
+                    <p class="fs-18 lh-32 mb-35px">Quality is at the heart of what we do. At Aestimo Pro Consult, we are
+                        committed to being the best, raising the bar higher and setting the pace for others to follow.
+                        We are recognised as a leader by our clients.</p>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-lg-10">
+                    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 text-center"
+                        data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 200, "easing": "easeOutQuad" }'>
+                        <!-- start vision item -->
+                        <div class="col mb-30px">
+                            <i class="line-icon-Diploma icon-double-large text-base-color mb-20px"></i>
+                            <h6 class="alt-font fw-600 text-dark-gray mb-10px">We serve our clients with quality and
+                                distinction</h6>
+                            <p class="mb-0 fs-14">Yielding a measurable and attributable solution</p>
+                        </div>
+                        <!-- end vision item -->
+                        <!-- start vision item -->
+                        <div class="col mb-30px">
+                            <i class="line-icon-Trophy icon-double-large text-base-color mb-20px"></i>
+                            <h6 class="alt-font fw-600 text-dark-gray mb-10px">We lead the profession</h6>
+                            <p class="mb-0 fs-14">Challenging ourselves to deliver innovative ideas that reflect our
+                                unique capabilities</p>
+                        </div>
+                        <!-- end vision item -->
+                        <!-- start vision item -->
+                        <div class="col mb-30px">
+                            <i class="line-icon-People icon-double-large text-base-color mb-20px"></i>
+                            <h6 class="alt-font fw-600 text-dark-gray mb-10px">We inspire our people to deliver value
+                            </h6>
+                            <p class="mb-0 fs-14">Mentoring and developing future leaders and colleagues</p>
+                        </div>
+                        <!-- end vision item -->
+                        <!-- start vision item -->
+                        <div class="col mb-30px">
+                            <i class="line-icon-Building icon-double-large text-base-color mb-20px"></i>
+                            <h6 class="alt-font fw-600 text-dark-gray mb-10px">We contribute to society</h6>
+                            <p class="mb-0 fs-14">Building confidence and trust, upholding integrity, supporting the
+                                community</p>
+                        </div>
+                        <!-- end vision item -->
+                    </div>
+                </div>
             </div>
         </div>
     </section>
