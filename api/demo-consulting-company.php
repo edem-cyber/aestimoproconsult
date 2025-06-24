@@ -80,7 +80,7 @@
             left: 0;
             right: 0;
             bottom: 0;
-            background: linear-gradient(135deg, rgba(221, 101, 49, 0.8) 0%, rgba(221, 101, 49, 0.9) 100%);
+            background: linear-gradient(135deg, rgba(64, 64, 64, 0.8) 0%, rgba(64, 64, 64, 0.9) 100%);
             opacity: 0;
             transition: opacity 0.4s ease;
             display: flex;
@@ -108,7 +108,7 @@
 
         .view-details-btn:hover {
             background: white;
-            color: #dd6531;
+            color: #404040;
         }
 
         .team-member-info {
@@ -150,7 +150,7 @@
         }
 
         .team-member-card:hover .click-indicator {
-            background: #dd6531;
+            background: #404040;
             color: white;
         }
 
@@ -240,7 +240,7 @@
         }
 
         .contact-info a {
-            color: #dd6531;
+            color: #404040;
             text-decoration: none;
             font-weight: 500;
         }
@@ -299,7 +299,7 @@
     <!-- end page title -->
 
     <!-- start section -->
-    <section id="down-section" class="pt-0">
+    <section id="down-section">
         <div class="container">
             <div class="row justify-content-center text-center mb-8">
                 <div class="col-lg-8 col-md-10">
@@ -320,7 +320,7 @@
     <!-- end section -->
 
     <!-- start team section -->
-    <section class="pt-0 pb-0">
+    <section class="pt-0">
         <div class="container">
             <div class="row justify-content-center"
                 data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 200, "easing": "easeOutQuad" }'>
