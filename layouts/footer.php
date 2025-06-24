@@ -4,9 +4,9 @@
         data-particle-options='{"particles": {"number": {"value": 5,"density": {"enable": true,"value_area": 1000}},"color":{"value":["#b7b9be", "#dd6531"]},"shape": {"type": "circle","stroke":{"width":0,"color":"#000000"}},"opacity": {"value": 0.5,"random": false,"anim": {"enable": false,"speed": 1,"sync": false}},"size": {"value": 8,"random": true,"anim": {"enable": false,"sync": true}},"move": {"enable": true,"speed":2,"direction": "right","random": false,"straight": false}},"interactivity": {"detect_on": "canvas","events": {"onhover": {"enable": false,"mode": "repulse"},"onclick": {"enable": false,"mode": "push"},"resize": true}},"retina_detect": false}'>
     </div>
     <div class="container">
-        <div class="row justify-content-center pt-7 sm-pt-50px">
+        <div class="row pt-7 sm-pt-50px">
             <!-- start footer column -->
-            <div class="col-12 col-lg-4 col-md-6 col-sm-12 text-md-center text-lg-start md-mb-30px">
+            <div class="col-12 col-lg-6 col-md-6 col-sm-12 text-md-center text-lg-start md-mb-30px">
                 <a href="/" class="footer-logo mb-15px md-mb-20px d-inline-block"><img
                         src="images/demo-consulting-logo-black.png" data-at2x="images/demo-consulting-logo-black@2x.png"
                         alt=""></a>
@@ -15,15 +15,15 @@
             </div>
             <!-- end footer column -->
             <!-- start footer column -->
-            <div class="col-6 col-lg-2 col-md-3 col-sm-6 md-mb-30px">
+            <div class="col-6 col-lg-3 col-md-3 col-sm-6 md-mb-30px">
                 <span class="alt-font d-block text-dark-gray fw-600 mb-10px fs-19">Company</span>
                 <ul>
-                    <li><a href="/">Home</a></li>
+                    <!-- <li><a href="/">Home</a></li> -->
                     <li><a href="/team">Team</a></li>
                     <li><a href="/services">Services</a></li>
                     <li><a href="/approach">Our Approach</a></li>
-                    <li><a href="demo-consulting-clients.html">Clients</a></li>
-                    <li><a href="/contact">Contact</a></li>
+                    <!-- <li><a href="demo-consulting-clients.html">Clients</a></li> -->
+                    <!-- <li><a href="/contact">Contact</a></li> -->
                 </ul>
             </div>
             <!-- end footer column -->
