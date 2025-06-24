@@ -333,9 +333,6 @@
                                     <i class="feather icon-feather-arrow-right"></i>
                                 </a>
                             </div>
-                            <div class="click-indicator">
-                                <i class="feather icon-feather-plus"></i>
-                            </div>
                         </div>
                         <div class="team-member-info">
                             <h4 class="team-member-name">Nathaniel Topp Yankah</h4>
@@ -355,9 +352,6 @@
                                     View Details
                                     <i class="feather icon-feather-arrow-right"></i>
                                 </a>
-                            </div>
-                            <div class="click-indicator">
-                                <i class="feather icon-feather-plus"></i>
                             </div>
                         </div>
                         <div class="team-member-info">
@@ -379,9 +373,6 @@
                                     <i class="feather icon-feather-arrow-right"></i>
                                 </a>
                             </div>
-                            <div class="click-indicator">
-                                <i class="feather icon-feather-plus"></i>
-                            </div>
                         </div>
                         <div class="team-member-info">
                             <h4 class="team-member-name">Emmanuel Komlan Tengue</h4>
@@ -401,9 +392,6 @@
                                     View Details
                                     <i class="feather icon-feather-arrow-right"></i>
                                 </a>
-                            </div>
-                            <div class="click-indicator">
-                                <i class="feather icon-feather-plus"></i>
                             </div>
                         </div>
                         <div class="team-member-info">
