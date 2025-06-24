@@ -12,18 +12,6 @@
                         alt=""></a>
                 <p class="mb-20px">Aestimo Pro Consult - Professional accounting, tax and business advisory services
                     across Africa. Licensed by CITG (CTPF D/00013).</p>
-                <div class="elements-social social-icon-style-02">
-                    <ul class="medium-icon dark icon-with-animation">
-                        <li><a class="facebook" href="https://www.facebook.com/" target="_blank"><i
-                                    class="fa-brands fa-facebook-f"></i></a></li>
-                        <li><a class="dribbble" href="http://www.dribbble.com" target="_blank"><i
-                                    class="fa-brands fa-dribbble"></i></a></li>
-                        <li><a class="twitter" href="http://www.twitter.com" target="_blank"><i
-                                    class="fa-brands fa-twitter"></i></a></li>
-                        <li><a class="instagram" href="http://www.instagram.com" target="_blank"><i
-                                    class="fa-brands fa-instagram"></i></a></li>
-                    </ul>
-                </div>
             </div>
             <!-- end footer column -->
             <!-- start footer column -->
@@ -49,24 +37,7 @@
                         href="mailto:avonomanprince@gmail.com">avonomanprince@gmail.com</a></p>
             </div>
             <!-- end footer column -->
-            <!-- start footer column -->
-            <div class="col-xl-3 col-lg-4 col-md-5 col-sm-6">
-                <span class="alt-font d-block text-dark-gray fw-600 mb-10px fs-19">Newsletter</span>
-                <p class="sm-mb-20px">Subscribe to get timely updates on tax, accounting and advisory matters.</p>
-                <div class="d-inline-block w-100 newsletter-style-02 position-relative">
-                    <form action="api/subscribe" method="post" class="position-relative w-100">
-                        <input class="bg-transparent border-color-extra-medium-gray w-100 form-control required"
-                            type="email" name="email" placeholder="Enter email address...">
-                        <input type="hidden" name="redirect" value="">
-                        <button class="btn submit" aria-label="submit"><i
-                                class="icon feather icon-feather-mail icon-small text-base-color"></i></button>
-                        <div
-                            class="form-results border-radius-4px pt-5px pb-5px ps-15px pe-15px fs-14 lh-22 mt-10px w-100 text-center position-absolute d-none">
-                        </div>
-                    </form>
-                </div>
-            </div>
-            <!-- end footer column -->
+
         </div>
         <div class="row justify-content-center align-items-center pt-5 sm-pt-30px">
             <!-- start divider -->
