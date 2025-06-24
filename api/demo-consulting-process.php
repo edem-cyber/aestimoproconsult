@@ -286,8 +286,7 @@
             </div>
             <div class="row justify-content-center mt-5">
                 <div class="col-12 text-center">
-                    <a href="/demo-consulting-contact"
-                        class="btn btn-large btn-dark-gray btn-box-shadow btn-round-edge">
+                    <a href="/contact" class="btn btn-large btn-dark-gray btn-box-shadow btn-round-edge">
                         Start your partnership with us
                     </a>
                 </div>

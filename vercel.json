@@ -10,23 +10,23 @@
             "dest": "/api/index.php"
         },
         {
-            "src": "/demo-consulting-company",
+            "src": "/team",
             "dest": "/api/demo-consulting-company.php"
         },
         {
-            "src": "/demo-consulting-contact",
+            "src": "/contact",
             "dest": "/api/demo-consulting-contact.php"
         },
         {
-            "src": "/demo-consulting-process",
+            "src": "/approach",
             "dest": "/api/demo-consulting-process.php"
         },
         {
-            "src": "/demo-consulting-services",
+            "src": "/services",
             "dest": "/api/demo-consulting-services.php"
         },
         {
-            "src": "/demo-consulting-services-details",
+            "src": "/services-details",
             "dest": "/api/demo-consulting-services-details.php"
         },
         {

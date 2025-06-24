@@ -6,8 +6,7 @@
         <div class="container-fluid">
             <div class="row h-45px align-items-center m-0">
                 <div class="col-md-6 text-center text-md-start">
-                    <div class="fs-14 text-dark-gray">Our accounting and tax experts waiting for you! <a
-                            href="/demo-consulting-contact"
+                    <div class="fs-14 text-dark-gray">Our accounting and tax experts waiting for you! <a href="/contact"
                             class="text-base-color fw-500 text-decoration-line-bottom">Contact now</a></div>
                 </div>
                 <div class="col-6 text-end d-none d-md-flex">
@@ -46,24 +45,24 @@
                 <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
                     <ul class="navbar-nav alt-font">
                         <li class="nav-item"><a href="/" class="nav-link">Home</a></li>
-                        <li class="nav-item"><a href="/demo-consulting-company" class="nav-link">Team</a></li>
+                        <li class="nav-item"><a href="/team" class="nav-link">Team</a></li>
                         <li class="nav-item dropdown simple-dropdown">
-                            <a href="/demo-consulting-services" class="nav-link">Services</a>
+                            <a href="/services" class="nav-link">Services</a>
                             <i class="fa-solid fa-angle-down dropdown-toggle" id="navbarDropdownMenuLink" role="button"
                                 data-bs-toggle="dropdown" aria-expanded="false"></i>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                                <li><a href="/demo-consulting-services-details">Accounting & Bookkeeping</a></li>
-                                <li><a href="/demo-consulting-services-details">Tax Compliance & Advisory</a></li>
-                                <li><a href="/demo-consulting-services-details">Valuation & Financial Modeling</a></li>
-                                <li><a href="/demo-consulting-services-details">Strategy & Operations</a></li>
-                                <li><a href="/demo-consulting-services-details">Transaction Services</a></li>
-                                <li><a href="/demo-consulting-services-details">Business Recovery</a></li>
-                                <li><a href="/demo-consulting-services-details">Training & Investigations</a></li>
+                                <li><a href="/services-details">Accounting & Bookkeeping</a></li>
+                                <li><a href="/services-details">Tax Compliance & Advisory</a></li>
+                                <li><a href="/services-details">Valuation & Financial Modeling</a></li>
+                                <li><a href="/services-details">Strategy & Operations</a></li>
+                                <li><a href="/services-details">Transaction Services</a></li>
+                                <li><a href="/services-details">Business Recovery</a></li>
+                                <li><a href="/services-details">Training & Investigations</a></li>
                             </ul>
                         </li>
-                        <li class="nav-item"><a href="/demo-consulting-process" class="nav-link">Our Approach</a></li>
+                        <li class="nav-item"><a href="/approach" class="nav-link">Our Approach</a></li>
                         <li class="nav-item"><a href="demo-consulting-clients.html" class="nav-link">Clients</a></li>
-                        <li class="nav-item"><a href="/demo-consulting-contact" class="nav-link">Contact</a></li>
+                        <li class="nav-item"><a href="/contact" class="nav-link">Contact</a></li>
                     </ul>
                 </div>
             </div>

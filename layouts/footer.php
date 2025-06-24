@@ -19,11 +19,11 @@
                 <span class="alt-font d-block text-dark-gray fw-600 mb-10px fs-19">Company</span>
                 <ul>
                     <li><a href="/">Home</a></li>
-                    <li><a href="/demo-consulting-company">Team</a></li>
-                    <li><a href="/demo-consulting-services">Services</a></li>
-                    <li><a href="/demo-consulting-process">Process</a></li>
+                    <li><a href="/team">Team</a></li>
+                    <li><a href="/services">Services</a></li>
+                    <li><a href="/approach">Our Approach</a></li>
                     <li><a href="demo-consulting-clients.html">Clients</a></li>
-                    <li><a href="/demo-consulting-contact">Contact</a></li>
+                    <li><a href="/contact">Contact</a></li>
                 </ul>
             </div>
             <!-- end footer column -->
