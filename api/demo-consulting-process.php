@@ -287,7 +287,7 @@
                 <div class="col md-mb-30px">
                     <div class="feature-box text-start">
                         <div class="feature-box-icon">
-                            <i class="line-icon-Gear-2 icon-medium text-base-color mb-20px"></i>
+                            <i class="line-icon-Puzzle icon-medium text-base-color mb-20px"></i>
                         </div>
                         <div class="feature-box-content">
                             <span class="d-block alt-font fw-600 text-dark-gray mb-10px fs-18">Exceptional Integrated
