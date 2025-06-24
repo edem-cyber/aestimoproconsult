@@ -179,7 +179,7 @@
                 <div class="col icon-with-text-style-01 mb-50px sm-mb-40px">
                     <div class="feature-box feature-box-left-icon last-paragraph-no-margin">
                         <div class="feature-box-icon">
-                            <img src="https://placehold.co/64x64" alt="" />
+                            <i class="line-icon-Calculator icon-extra-large text-base-color"></i>
                         </div>
                         <div class="feature-box-content">
                             <span class="d-inline-block alt-font text-dark-gray fw-600 mb-5px fs-20">Financial
@@ -194,7 +194,7 @@
                 <div class="col icon-with-text-style-01 mb-50px sm-mb-40px">
                     <div class="feature-box feature-box-left-icon last-paragraph-no-margin">
                         <div class="feature-box-icon">
-                            <img src="https://placehold.co/64x64" alt="" />
+                            <i class="line-icon-Receipt-2 icon-extra-large text-base-color"></i>
                         </div>
                         <div class="feature-box-content">
                             <span class="d-inline-block alt-font text-dark-gray fw-600 mb-5px fs-20">Tax
@@ -209,7 +209,7 @@
                 <div class="col icon-with-text-style-01 mb-50px sm-mb-40px">
                     <div class="feature-box feature-box-left-icon last-paragraph-no-margin">
                         <div class="feature-box-icon">
-                            <img src="https://placehold.co/64x64" alt="" />
+                            <i class="line-icon-Business-ManWoman icon-extra-large text-base-color"></i>
                         </div>
                         <div class="feature-box-content">
                             <span class="d-inline-block alt-font text-dark-gray fw-600 mb-5px fs-20">Business
