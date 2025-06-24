@@ -50,7 +50,7 @@
     <!-- start page title -->
     <section class="page-title-big-typography bg-dark-gray ipad-top-space-margin xs-py-0"
         data-parallax-background-ratio="0.5"
-        style="background-image: url(https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1925&h=1050&fit=crop)">
+        style="background-image: url(https://i.ibb.co/yBhZk21P/Chat-GPT-Image-Jun-22-2025-01-14-01-PM.png)">
         <div class="opacity-light bg-dark-gray"></div>
         <div class="container">
             <div class="row align-items-center justify-content-center small-screen">
