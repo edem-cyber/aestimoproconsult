@@ -54,16 +54,15 @@
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                 <li><a href="/demo-consulting-services-details">Accounting & Bookkeeping</a></li>
                                 <li><a href="/demo-consulting-services-details">Tax Compliance & Advisory</a></li>
-                                <li><a href="/demo-consulting-services-details">Business Advisory</a></li>
-                                <li><a href="/demo-consulting-services-details">Financial Modeling & Valuation</a>
-                                </li>
-                                <li><a href="/demo-consulting-services-details">Due Diligence</a></li>
+                                <li><a href="/demo-consulting-services-details">Valuation & Financial Modeling</a></li>
+                                <li><a href="/demo-consulting-services-details">Strategy & Operations</a></li>
+                                <li><a href="/demo-consulting-services-details">Transaction Services</a></li>
                                 <li><a href="/demo-consulting-services-details">Business Recovery</a></li>
+                                <li><a href="/demo-consulting-services-details">Training & Investigations</a></li>
                             </ul>
                         </li>
                         <li class="nav-item"><a href="/demo-consulting-process" class="nav-link">Process</a></li>
                         <li class="nav-item"><a href="demo-consulting-clients.html" class="nav-link">Clients</a></li>
-                        <li class="nav-item"><a href="demo-consulting-news.html" class="nav-link">News</a></li>
                         <li class="nav-item"><a href="/demo-consulting-contact" class="nav-link">Contact</a></li>
                     </ul>
                 </div>

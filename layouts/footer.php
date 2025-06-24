@@ -6,8 +6,8 @@
     <div class="container">
         <div class="row justify-content-center pt-7 sm-pt-50px">
             <!-- start footer column -->
-            <div class="col-7 col-lg-3 col-md-12 col-sm-6 text-md-center text-lg-start md-mb-30px">
-                <a href="demo-consulting.php" class="footer-logo mb-15px md-mb-20px d-inline-block"><img
+            <div class="col-12 col-lg-4 col-md-6 col-sm-12 text-md-center text-lg-start md-mb-30px">
+                <a href="/" class="footer-logo mb-15px md-mb-20px d-inline-block"><img
                         src="images/demo-consulting-logo-black.png" data-at2x="images/demo-consulting-logo-black@2x.png"
                         alt=""></a>
                 <p class="mb-20px">Aestimo Pro Consult - Professional accounting, tax and business advisory services
@@ -15,18 +15,20 @@
             </div>
             <!-- end footer column -->
             <!-- start footer column -->
-            <div class="col-5 col-lg-2 offset-xl-1 col-md-3 col-sm-6 md-mb-30px">
+            <div class="col-6 col-lg-2 col-md-3 col-sm-6 md-mb-30px">
                 <span class="alt-font d-block text-dark-gray fw-600 mb-10px fs-19">Company</span>
                 <ul>
-                    <li><a href="demo-consulting-company.php">Company</a></li>
-                    <li><a href="demo-consulting-services.php">Services</a></li>
-                    <li><a href="demo-consulting-process.php">Process</a></li>
-                    <li><a href="demo-consulting-contact.php">Contact</a></li>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/demo-consulting-company">Team</a></li>
+                    <li><a href="/demo-consulting-services">Services</a></li>
+                    <li><a href="/demo-consulting-process">Process</a></li>
+                    <li><a href="demo-consulting-clients.html">Clients</a></li>
+                    <li><a href="/demo-consulting-contact">Contact</a></li>
                 </ul>
             </div>
             <!-- end footer column -->
             <!-- start footer column -->
-            <div class="col-lg-3 col-md-4 col-sm-6 xs-mb-30px">
+            <div class="col-6 col-lg-3 col-md-3 col-sm-6 xs-mb-30px">
                 <span class="alt-font d-block text-dark-gray fw-600 mb-10px fs-19">Get in touch</span>
                 <p class="mb-15px w-75 lg-w-85 sm-w-100">P.O. Box 1923, Osu<br>Dzorwulu, Accra, Ghana</p>
                 <p class="m-0"><span class="fw-600"><i
