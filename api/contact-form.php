@@ -25,7 +25,7 @@ if (!empty($_POST['email'])) {
 
 	// Email Receiver Addresses - Both Prince and Nathaniel
 	$receiver_emails = array(
-		'avonomanprince@gmail.com',
+		'edem.agbakpe@gmail.com',
 		'nathaniel.yankah@gmail.com'
 	);
 
