@@ -48,6 +48,7 @@
                         <li class="nav-item"><a href="/team" class="nav-link">Team</a></li>
                         <li class="nav-item dropdown simple-dropdown">
                             <a href="/services" class="nav-link">Services</a>
+                            <!-- Commented out service subpages as requested - all services will be on main services page
                             <i class="fa-solid fa-angle-down dropdown-toggle" id="navbarDropdownMenuLink" role="button"
                                 data-bs-toggle="dropdown" aria-expanded="false"></i>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
@@ -59,6 +60,7 @@
                                 <li><a href="/services-details">Business Recovery</a></li>
                                 <li><a href="/services-details">Training & Investigations</a></li>
                             </ul>
+                            -->
                         </li>
                         <li class="nav-item"><a href="/approach" class="nav-link">Our Approach</a></li>
                         <li class="nav-item"><a href="demo-consulting-clients.html" class="nav-link">Clients</a></li>

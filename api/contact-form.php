@@ -21,7 +21,7 @@ if (!empty($_POST['email'])) {
 	}
 
 	// Enable / Disable SMTP
-	$enable_smtp = 'no'; // yes OR no
+	$enable_smtp = 'no'; // yes OR no - Change to 'yes' to use Gmail SMTP
 
 	// Email Receiver Addresses - Both Prince and Nathaniel
 	$receiver_emails = array(
@@ -126,7 +126,7 @@ if (!empty($_POST['email'])) {
 						<p style="margin: 10px 0 0 0; opacity: 0.9;">Aestimo Pro Consult</p>
 					</div>
 					<div class="content">
-						<p style="margin-bottom: 25px; color: #555; font-size: 16px;">You have received a new inquiry through your website contact form.</p>
+						<p style="margin-bottom: 25px; color: #555; font-size: 16px;">You have received a new inquiry through your website contact form from <strong>' . (isset($fields['Name']) ? $fields['Name'] : 'Unknown') . '</strong> (' . (isset($fields['Email']) ? $fields['Email'] : 'No email provided') . ').</p>
 						<table>
 							' . implode('', $response) . '
 						</table>
@@ -148,9 +148,9 @@ if (!empty($_POST['email'])) {
 			// Always set content-type when sending HTML email
 			$headers = "MIME-Version: 1.0" . "\r\n";
 			$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-			// More headers
-			$headers .= 'From: ' . $fields['Name'] . ' <' . $fields['Email'] . '>' . "\r\n";
-			$headers .= 'Reply-To: ' . $fields['Email'] . "\r\n";
+			// More headers - Use Prince's email as sender, customer email as reply-to
+			$headers .= 'From: Aestimo Pro Consult <avonomanprince@gmail.com>' . "\r\n";
+			$headers .= 'Reply-To: ' . $fields['Name'] . ' <' . $fields['Email'] . '>' . "\r\n";
 
 			$success_count = 0;
 			$total_emails = count($receiver_emails);
@@ -201,13 +201,14 @@ if (!empty($_POST['email'])) {
 			$mail = new PHPMailer\PHPMailer\PHPMailer();
 
 			$mail->isSMTP();
-			$mail->Host = 'YOUR_SMTP_HOST'; // Your SMTP Host
+			$mail->Host = 'smtp.gmail.com'; // Gmail SMTP Host
 			$mail->SMTPAuth = true;
-			$mail->Username = 'YOUR_SMTP_USERNAME'; // Your Username
-			$mail->Password = 'YOUR_SMTP_PASSWORD'; // Your Password
-			$mail->SMTPSecure = 'ssl'; // Your Secure Connection
-			$mail->Port = 465; // Your Port
-			$mail->setFrom($fields['Email'], $fields['Name']);
+			$mail->Username = 'avonomanprince@gmail.com'; // Prince's Gmail
+			$mail->Password = 'YOUR_APP_PASSWORD'; // Gmail App Password (not regular password)
+			$mail->SMTPSecure = 'tls'; // Gmail uses TLS
+			$mail->Port = 587; // Gmail TLS Port
+			$mail->setFrom('avonomanprince@gmail.com', 'Aestimo Pro Consult');
+			$mail->addReplyTo($fields['Email'], $fields['Name']);
 
 			foreach ($toemailaddresses as $toemailaddress) {
 				$mail->AddAddress($toemailaddress['email'], $toemailaddress['name']);

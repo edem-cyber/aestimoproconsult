@@ -52,7 +52,8 @@
             <div class="row align-items-center justify-content-center small-screen">
                 <div class="col-lg-6 col-md-8 position-relative text-center page-title-extra-small"
                     data-anime='{ "el": "childs", "rotateX": [90, 0], "opacity": [0,1], "staggervalue": 150, "easing": "easeOutQuad" }'>
-                    <h1 class="mb-5px alt-font text-white fw-400"><span class="opacity-6">Helping your business</span>
+                    <h1 class="mb-5px alt-font text-white fw-400"><span class="opacity-6">Professional accounting and
+                            tax services</span>
                     </h1>
                     <h2 class="mb-0 text-white alt-font ls-minus-2px text-shadow-double-large fw-500">Our services</h2>
                 </div>
@@ -68,92 +69,97 @@
         </div>
     </section>
     <!-- end page title -->
-    <!-- start section -->
+
+    <!-- start services overview section -->
     <section class="p-0 bg-very-light-gray">
         <div class="container-fluid">
             <div class="row row-cols-1 row-cols-lg-4 row-cols-sm-2 justify-content-center align-items-center border-top border-color-light-medium-gray"
                 data-anime='{ "el": "childs", "translateX": [-20, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 200, "easing": "easeOutQuad" }'>
-                <!-- start fancy text box item -->
+                <!-- start service item -->
                 <div class="col fancy-text-box-style-01 border-color-light-medium-gray p-0">
                     <div class="text-box-wrapper align-items-center d-flex">
                         <div class="position-relative text-center w-100">
                             <div class="text-box last-paragraph-no-margin p-14">
                                 <i class="line-icon-Cursor-Click2 icon-extra-large d-block mb-20px text-base-color"></i>
-                                <span
-                                    class="alt-font text-dark-gray fw-500 fs-22 lg-fs-20 ls-minus-05px">Strategies</span>
-                                <p>Lorem ipsum dolor</p>
+                                <span class="alt-font text-dark-gray fw-500 fs-22 lg-fs-20 ls-minus-05px">Accounting &
+                                    Bookkeeping</span>
+                                <p>Professional financial management</p>
                             </div>
                             <div class="text-box-hover p-16 lg-p-12 md-p-17 sm-p-12 xs-p-17">
-                                <p class="mb-15px">Lorem ipsum dolor consectetur adipiscing do eiusmod tempor.</p>
-                                <a href="#" class="btn btn-link btn-large text-base-color thin fw-600">Consulting
-                                    services</a>
+                                <p class="mb-15px">Complete accounting solutions including financial statements,
+                                    payroll, and system setup.</p>
+                                <a href="#accounting" class="btn btn-link btn-large text-base-color thin fw-600">Learn
+                                    more</a>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!-- end fancy text box item -->
-                <!-- start fancy text box item -->
+                <!-- end service item -->
+                <!-- start service item -->
                 <div class="col fancy-text-box-style-01 border-color-light-medium-gray p-0 md-border-end-0">
                     <div class="text-box-wrapper align-items-center d-flex">
                         <div class="position-relative text-center w-100">
                             <div class="text-box last-paragraph-no-margin p-14">
                                 <i class="line-icon-Money-Bag icon-extra-large d-block mb-20px text-base-color"></i>
-                                <span
-                                    class="alt-font text-dark-gray fw-500 fs-22 lg-fs-20 ls-minus-05px">Innovation</span>
-                                <p>Lorem ipsum dolor</p>
+                                <span class="alt-font text-dark-gray fw-500 fs-22 lg-fs-20 ls-minus-05px">Tax
+                                    Services</span>
+                                <p>Compliance & advisory</p>
                             </div>
                             <div class="text-box-hover p-16 lg-p-12 md-p-17 sm-p-12 xs-p-17">
-                                <p class="mb-15px">Lorem ipsum dolor consectetur adipiscing do eiusmod tempor.</p>
-                                <a href="#" class="btn btn-link btn-large text-base-color thin fw-600">Innovation
-                                    ideas</a>
+                                <p class="mb-15px">Tax compliance, planning, and advisory services with Ghana Revenue
+                                    Authority representation.</p>
+                                <a href="#tax" class="btn btn-link btn-large text-base-color thin fw-600">Learn more</a>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!-- end fancy text box item -->
-                <!-- start fancy text box item -->
+                <!-- end service item -->
+                <!-- start service item -->
                 <div class="col fancy-text-box-style-01 border-color-light-medium-gray p-0">
                     <div class="text-box-wrapper align-items-center d-flex">
                         <div class="position-relative text-center w-100">
                             <div class="text-box last-paragraph-no-margin p-14">
                                 <i class="line-icon-Like icon-extra-large d-block mb-20px text-base-color"></i>
-                                <span
-                                    class="alt-font text-dark-gray fw-500 fs-22 lg-fs-20 ls-minus-05px">Analytics</span>
-                                <p>Lorem ipsum dolor</p>
+                                <span class="alt-font text-dark-gray fw-500 fs-22 lg-fs-20 ls-minus-05px">Business
+                                    Valuation</span>
+                                <p>Financial modeling & analysis</p>
                             </div>
                             <div class="text-box-hover p-16 lg-p-12 md-p-17 sm-p-12 xs-p-17">
-                                <p class="mb-15px">Lorem ipsum dolor consectetur adipiscing do eiusmod tempor.</p>
-                                <a href="#" class="btn btn-link btn-large text-base-color thin fw-600">Good
-                                    analytics</a>
+                                <p class="mb-15px">Business valuations, financial modeling, and transaction advisory
+                                    services.</p>
+                                <a href="#valuation" class="btn btn-link btn-large text-base-color thin fw-600">Learn
+                                    more</a>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!-- end fancy text box item -->
-                <!-- start fancy text box item -->
+                <!-- end service item -->
+                <!-- start service item -->
                 <div class="col fancy-text-box-style-01 border-color-light-medium-gray p-0">
                     <div class="text-box-wrapper align-items-center d-flex">
                         <div class="position-relative text-center w-100">
                             <div class="text-box last-paragraph-no-margin p-14">
                                 <i class="line-icon-Archery-2 icon-extra-large d-block mb-20px text-base-color"></i>
-                                <span
-                                    class="alt-font text-dark-gray fw-500 fs-22 lg-fs-20 ls-minus-05px">Planning</span>
-                                <p>Lorem ipsum dolor</p>
+                                <span class="alt-font text-dark-gray fw-500 fs-22 lg-fs-20 ls-minus-05px">Strategy &
+                                    Operations</span>
+                                <p>Business growth solutions</p>
                             </div>
                             <div class="text-box-hover p-16 lg-p-12 md-p-17 sm-p-12 xs-p-17">
-                                <p class="mb-15px">Lorem ipsum dolor consectetur adipiscing do eiusmod tempor.</p>
-                                <a href="#" class="btn btn-link btn-large text-base-color thin fw-600">Strategic
-                                    planning</a>
+                                <p class="mb-15px">Strategic planning, organizational strategy, and operations
+                                    optimization.</p>
+                                <a href="#strategy" class="btn btn-link btn-large text-base-color thin fw-600">Learn
+                                    more</a>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!-- end fancy text box item -->
+                <!-- end service item -->
             </div>
         </div>
     </section>
-    <!-- end section -->
-    <!-- start section -->
+    <!-- end services overview section -->
+
+    <!-- start our approach section -->
     <section id="down-section" class="position-relative">
         <div id="particles-01" data-particle="true"
             data-particle-options='{"particles": {"number": {"value": 5,"density": {"enable": true,"value_area": 1000}},"color":{"value":["#b7b9be", "#dd6531"]},"shape": {"type": "circle","stroke":{"width":0,"color":"#000000"}},"opacity": {"value": 0.5,"random": false,"anim": {"enable": false,"speed": 1,"sync": false}},"size": {"value": 8,"random": true,"anim": {"enable": false,"sync": true}},"move": {"enable": true,"speed":2,"direction": "right","random": false,"straight": false}},"interactivity": {"detect_on": "canvas","events": {"onhover": {"enable": false,"mode": "repulse"},"onclick": {"enable": false,"mode": "push"},"resize": true}},"retina_detect": false}'
@@ -162,21 +168,21 @@
             <div class="row align-items-center justify-content-center text-center text-lg-start">
                 <div class="col-xl-5 col-lg-6 md-mb-50px"
                     data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 100, "easing": "easeOutQuad" }'>
-                    <h2 class="text-dark-gray fw-600 ls-minus-2px">We have helped business revenue.</h2>
-                    <span class="fw-600 fs-20 mb-5px text-dark-gray d-inline-block">Management and marketing</span>
-                    <p class="w-80 sm-w-100 mx-auto mx-lg-0">Lorem ipsum dolor amet conseetur adipiscing eiusmod tempor
-                        incididunt labore dolore.</p>
-                    <span class="fw-600 fs-20 mb-5px text-dark-gray d-inline-block">Business strategy and
-                        research</span>
-                    <p class="w-80 sm-w-100 mx-auto mx-lg-0">Lorem ipsum dolor amet conseetur adipiscing eiusmod tempor
-                        incididunt labore dolore.</p>
-                    <a href="demo-consulting-company.html"
-                        class="btn btn-medium btn-dark-gray btn-box-shadow btn-round-edge mt-10px">About company</a>
+                    <h2 class="text-dark-gray fw-600 ls-minus-2px">Trusted accounting and tax services</h2>
+                    <span class="fw-600 fs-20 mb-5px text-dark-gray d-inline-block">Deep local industry expertise</span>
+                    <p class="w-80 sm-w-100 mx-auto mx-lg-0">We provide trusted accounting and tax services using our
+                        deep local industry and market insight to help businesses grow.</p>
+                    <span class="fw-600 fs-20 mb-5px text-dark-gray d-inline-block">Modern technology solutions</span>
+                    <p class="w-80 sm-w-100 mx-auto mx-lg-0">Throughout our working relationship, we make extensive use
+                        of modern technology to efficiently process and deliver results.</p>
+                    <a href="/contact" class="btn btn-medium btn-dark-gray btn-box-shadow btn-round-edge mt-10px">Get
+                        started today</a>
                 </div>
                 <div class="col-lg-6 col-md-11 offset-xl-1">
                     <figure class="position-relative md-ps-40px border-radius-5px"
                         data-anime='{ "effect": "slide", "color": "#292d36", "direction":"lr", "easing": "easeOutQuad", "delay":0}'>
-                        <img src="https://placehold.co/570x561" alt="" class="border-radius-5px w-100">
+                        <img src="https://placehold.co/570x561" alt="Professional accounting services"
+                            class="border-radius-5px w-100">
                         <figcaption
                             class="position-absolute bottom-minus-20px xs-bottom-minus-60px left-minus-50px lg-left-minus-20px xs-left-minus-0px text-white text-center last-paragraph-no-margin w-60 lg-w-70 md-w-60 xs-w-280px atropos"
                             data-atropos>
@@ -187,9 +193,9 @@
                                         class="atropos-inner border-radius-5px bg-base-color text-white ps-12 pe-12 pt-60px pb-60px sm-p-20px sm-pt-30px sm-pb-30px">
                                         <div data-atropos-offset="3">
                                             <i class="line-icon-Money-Bag icon-double-large mb-25px"></i>
-                                            <span class="fs-22 sm-fs-20 mb-5px d-block">Endless possibilities</span>
-                                            <p class="opacity-7 fw-300">Lorem ipsum simply dummy print typesetting
-                                                industry.</p>
+                                            <span class="fs-22 sm-fs-20 mb-5px d-block">Professional excellence</span>
+                                            <p class="opacity-7 fw-300">Quality accounting and tax services delivered
+                                                with precision and expertise.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -239,205 +245,254 @@
             </div>
         </div>
     </section>
-    <!-- end section -->
-    <!-- start section -->
+    <!-- end our approach section -->
+
+    <!-- start detailed services section -->
     <section class="bg-very-light-gray">
         <div class="container">
-            <div class="row justify-content-center mb-4">
-                <div class="col-lg-7 text-center"
-                    data-anime='{"opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                    <span
-                        class="fw-600 ls-1px fs-16 alt-font d-inline-block text-uppercase mb-5px text-base-color">Innovative
-                        solutions</span>
-                    <h2 class="alt-font text-dark-gray fw-600 ls-minus-2px">Consulting services</h2>
+            <div class="row">
+                <div class="col-lg-12 text-center mb-6">
+                    <h2 class="text-dark-gray fw-600 ls-minus-2px">Comprehensive business solutions</h2>
+                    <p class="w-60 md-w-80 sm-w-100 mx-auto">We offer a broad range of professional services to help
+                        businesses thrive in today's competitive market.</p>
                 </div>
             </div>
-            <div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 justify-content-center"
-                data-anime='{ "el": "childs", "willchange": "transform", "scale": [0.9, 1], "opacity": [0,1], "duration": 600, "delay": 100, "staggervalue": 200, "easing": "easeOutQuad" }'>
-                <!-- start features box item -->
-                <div class="col icon-with-text-style-04 transition-inner-all mb-30px">
-                    <div
-                        class="feature-box h-100 justify-content-start border-radius-5px bg-white box-shadow-quadruple-large box-shadow-quadruple-large-hover p-18 md-p-16 last-paragraph-no-margin">
-                        <div class="feature-box-icon">
-                            <a href="demo-consulting-services-details.html"><i
-                                    class="line-icon-Address-Book2 icon-double-large text-base-color mb-25px"></i></a>
-                        </div>
-                        <div class="feature-box-content">
-                            <a href="demo-consulting-services-details.html"
-                                class="d-inline-block alt-font text-dark-gray fw-600 mb-5px fs-20">Audit assurance</a>
-                            <p>Lorem ipsum is simply dummy printing typesetting industry.</p>
-                        </div>
+
+            <!-- Accounting & Bookkeeping -->
+            <div id="accounting" class="row align-items-center mb-8">
+                <div class="col-lg-6 md-mb-50px">
+                    <div class="mb-20px">
+                        <span class="text-base-color fw-600 mb-5px text-uppercase d-block">Accounting &
+                            Bookkeeping</span>
+                        <h3 class="text-dark-gray fw-600 ls-minus-1px">Professional financial management</h3>
                     </div>
+                    <p class="mb-30px">Accounting involves preparing accurate financial statements for investor, lender,
+                        auditor or other stakeholder review. Our accounting system setup consulting helps establish or
+                        optimize financial management processes.</p>
+                    <ul class="list-style-02 mb-30px">
+                        <li class="mb-10px">Preparation of monthly cash book and financial statements</li>
+                        <li class="mb-10px">Payroll management and processing</li>
+                        <li class="mb-10px">Keeping subsidiary ledgers including fixed assets and inventory</li>
+                        <li class="mb-10px">VAT and withholding tax returns preparation</li>
+                        <li class="mb-10px">Accounting software selection, configuration and training</li>
+                        <li class="mb-10px">Statutory financial statements for audit purposes</li>
+                    </ul>
+                    <a href="/contact" class="btn btn-medium btn-dark-gray btn-box-shadow btn-round-edge">Get quote</a>
                 </div>
-                <!-- end features box item -->
-                <!-- start features box item -->
-                <div class="col icon-with-text-style-04 transition-inner-all mb-30px">
-                    <div
-                        class="feature-box h-100 justify-content-start border-radius-5px bg-white box-shadow-quadruple-large box-shadow-quadruple-large-hover p-18 md-p-16 last-paragraph-no-margin">
-                        <div class="feature-box-icon">
-                            <a href="demo-consulting-services-details.html"><i
-                                    class="line-icon-Money-Bag icon-double-large text-base-color mb-25px"></i></a>
-                        </div>
-                        <div class="feature-box-content">
-                            <a href="demo-consulting-services-details.html"
-                                class="d-inline-block alt-font text-dark-gray fw-600 mb-5px fs-20">Financial
-                                advisory</a>
-                            <p>Lorem ipsum is simply dummy printing typesetting industry.</p>
-                        </div>
-                    </div>
+                <div class="col-lg-6">
+                    <img src="https://placehold.co/570x400" alt="Accounting services" class="border-radius-5px w-100">
                 </div>
-                <!-- end features box item -->
-                <!-- start features box item -->
-                <div class="col icon-with-text-style-04 transition-inner-all mb-30px">
-                    <div
-                        class="feature-box h-100 justify-content-start border-radius-5px bg-white box-shadow-quadruple-large box-shadow-quadruple-large-hover p-18 md-p-16 last-paragraph-no-margin">
-                        <div class="feature-box-icon">
-                            <a href="demo-consulting-services-details.html"><i
-                                    class="line-icon-Pie-Chart2 icon-double-large text-base-color mb-25px"></i></a>
-                        </div>
-                        <div class="feature-box-content">
-                            <a href="demo-consulting-services-details.html"
-                                class="d-inline-block alt-font text-dark-gray fw-600 mb-5px fs-20">Business
-                                analytics</a>
-                            <p>Lorem ipsum is simply dummy printing typesetting industry.</p>
-                        </div>
-                    </div>
-                </div>
-                <!-- end features box item -->
-                <!-- start features box item -->
-                <div class="col icon-with-text-style-04 transition-inner-all md-mb-30px">
-                    <div
-                        class="feature-box h-100 justify-content-start border-radius-5px bg-white box-shadow-quadruple-large box-shadow-quadruple-large-hover p-18 md-p-16 last-paragraph-no-margin">
-                        <div class="feature-box-icon">
-                            <a href="demo-consulting-services-details.html"><i
-                                    class="line-icon-Megaphone icon-double-large text-base-color mb-25px"></i></a>
-                        </div>
-                        <div class="feature-box-content">
-                            <a href="demo-consulting-services-details.html"
-                                class="d-inline-block alt-font text-dark-gray fw-600 mb-5px fs-20">Middle marketing</a>
-                            <p>Lorem ipsum is simply dummy printing typesetting industry.</p>
-                        </div>
-                    </div>
-                </div>
-                <!-- end features box item -->
-                <!-- start features box item -->
-                <div class="col icon-with-text-style-04 transition-inner-all sm-mb-30px">
-                    <div
-                        class="feature-box h-100 justify-content-start border-radius-5px bg-white box-shadow-quadruple-large box-shadow-quadruple-large-hover p-18 md-p-16 last-paragraph-no-margin">
-                        <div class="feature-box-icon">
-                            <a href="demo-consulting-services-details.html"><i
-                                    class="line-icon-MaleFemale icon-double-large text-base-color mb-25px"></i></a>
-                        </div>
-                        <div class="feature-box-content">
-                            <a href="demo-consulting-services-details.html"
-                                class="d-inline-block alt-font text-dark-gray fw-600 mb-5px fs-20">Consumer markets</a>
-                            <p>Lorem ipsum is simply dummy printing typesetting industry.</p>
-                        </div>
-                    </div>
-                </div>
-                <!-- end features box item -->
-                <!-- start features box item -->
-                <div class="col icon-with-text-style-04 transition-inner-all">
-                    <div
-                        class="feature-box h-100 justify-content-start border-radius-5px bg-white box-shadow-quadruple-large box-shadow-quadruple-large-hover p-18 md-p-16 last-paragraph-no-margin">
-                        <div class="feature-box-icon">
-                            <a href="demo-consulting-services-details.html"><i
-                                    class="line-icon-Basket-Coins icon-double-large text-base-color mb-25px"></i></a>
-                        </div>
-                        <div class="feature-box-content">
-                            <a href="demo-consulting-services-details.html"
-                                class="d-inline-block alt-font text-dark-gray fw-600 mb-5px fs-20">Tax efficiency</a>
-                            <p>Lorem ipsum is simply dummy printing typesetting industry.</p>
-                        </div>
-                    </div>
-                </div>
-                <!-- end features box item -->
             </div>
-            <div class="row mt-6"
-                data-anime='{ "translateY": [50, 0], "opacity": [0,1], "duration": 600, "delay": 100, "staggervalue": 100, "easing": "easeOutQuad" }'>
-                <div class="col-12 text-center">
-                    <h6 class="text-dark-gray ls-minus-1px lh-inherit m-0">Our <span
-                            class="fw-600 text-decoration-line-bottom-medium">committed services</span> are ready to
-                        help!</h6>
+
+            <!-- Tax Compliance & Advisory -->
+            <div id="tax" class="row align-items-center mb-8">
+                <div class="col-lg-6 order-2 order-lg-1">
+                    <img src="https://placehold.co/570x400" alt="Tax services" class="border-radius-5px w-100">
+                </div>
+                <div class="col-lg-6 order-1 order-lg-2 md-mb-50px">
+                    <div class="mb-20px">
+                        <span class="text-base-color fw-600 mb-5px text-uppercase d-block">Tax Services</span>
+                        <h3 class="text-dark-gray fw-600 ls-minus-1px">Compliance & advisory excellence</h3>
+                    </div>
+                    <p class="mb-30px">We provide tax compliance and advisory services that clarify the tax impact of
+                        proposed business plans and financial transactions, combining clear financial reporting with
+                        deep tax expertise.</p>
+
+                    <div class="mb-25px">
+                        <span class="fw-600 fs-18 text-dark-gray d-block mb-10px">Tax Compliance Services:</span>
+                        <ul class="list-style-02">
+                            <li class="mb-5px">Income tax returns for companies and individuals</li>
+                            <li class="mb-5px">Payroll and withholding tax management</li>
+                            <li class="mb-5px">Indirect tax services and VAT compliance</li>
+                            <li class="mb-5px">Ghana Revenue Authority representation</li>
+                        </ul>
+                    </div>
+
+                    <div class="mb-30px">
+                        <span class="fw-600 fs-18 text-dark-gray d-block mb-10px">Tax Advisory Services:</span>
+                        <ul class="list-style-02">
+                            <li class="mb-5px">Tax planning and risk minimization</li>
+                            <li class="mb-5px">Tax reliefs and incentives guidance</li>
+                            <li class="mb-5px">Tax health checks and due diligence</li>
+                            <li class="mb-5px">Business restructuring tax effects</li>
+                        </ul>
+                    </div>
+
+                    <a href="/contact" class="btn btn-medium btn-dark-gray btn-box-shadow btn-round-edge">Get
+                        consultation</a>
+                </div>
+            </div>
+
+            <!-- Business Valuation & Modeling -->
+            <div id="valuation" class="row align-items-center mb-8">
+                <div class="col-lg-6 md-mb-50px">
+                    <div class="mb-20px">
+                        <span class="text-base-color fw-600 mb-5px text-uppercase d-block">Business Valuation</span>
+                        <h3 class="text-dark-gray fw-600 ls-minus-1px">Financial modeling & analysis</h3>
+                    </div>
+                    <p class="mb-30px">We solve complex business problems through comprehensive valuation and modeling
+                        services, providing first-class valuation advice to enable informed decisions.</p>
+
+                    <div class="row">
+                        <div class="col-md-6 mb-20px">
+                            <h5 class="fw-600 text-dark-gray mb-10px">Transaction Valuation</h5>
+                            <p class="mb-0">Indicative range of values for business acquisitions and disposals</p>
+                        </div>
+                        <div class="col-md-6 mb-20px">
+                            <h5 class="fw-600 text-dark-gray mb-10px">Financial Reporting</h5>
+                            <p class="mb-0">IFRS compliance valuations with auditor coordination</p>
+                        </div>
+                        <div class="col-md-6 mb-20px">
+                            <h5 class="fw-600 text-dark-gray mb-10px">Portfolio Valuation</h5>
+                            <p class="mb-0">Investment fund and private equity valuations</p>
+                        </div>
+                        <div class="col-md-6 mb-20px">
+                            <h5 class="fw-600 text-dark-gray mb-10px">Business Planning</h5>
+                            <p class="mb-0">Feasibility studies and financial viability assessments</p>
+                        </div>
+                    </div>
+
+                    <a href="/contact" class="btn btn-medium btn-dark-gray btn-box-shadow btn-round-edge">Request
+                        valuation</a>
+                </div>
+                <div class="col-lg-6">
+                    <img src="https://placehold.co/570x400" alt="Business valuation" class="border-radius-5px w-100">
+                </div>
+            </div>
+
+            <!-- Strategy & Operations -->
+            <div id="strategy" class="row align-items-center mb-8">
+                <div class="col-lg-6 order-2 order-lg-1">
+                    <img src="https://placehold.co/570x400" alt="Strategy services" class="border-radius-5px w-100">
+                </div>
+                <div class="col-lg-6 order-1 order-lg-2 md-mb-50px">
+                    <div class="mb-20px">
+                        <span class="text-base-color fw-600 mb-5px text-uppercase d-block">Strategy & Operations</span>
+                        <h3 class="text-dark-gray fw-600 ls-minus-1px">Business growth solutions</h3>
+                    </div>
+                    <p class="mb-30px">Through clear objectives, distinct business models, and innovative technologies,
+                        we help business leaders make the right choices to achieve desired growth.</p>
+
+                    <div class="row">
+                        <div class="col-md-6 mb-20px">
+                            <ul class="list-style-02">
+                                <li class="mb-5px">Strategic planning and development</li>
+                                <li class="mb-5px">Organizational strategy design</li>
+                                <li class="mb-5px">Growth strategy implementation</li>
+                                <li class="mb-5px">Financial strategy optimization</li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 mb-20px">
+                            <ul class="list-style-02">
+                                <li class="mb-5px">Business process optimization</li>
+                                <li class="mb-5px">Finance transformation</li>
+                                <li class="mb-5px">Cost reduction strategies</li>
+                                <li class="mb-5px">Performance management</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <a href="/contact" class="btn btn-medium btn-dark-gray btn-box-shadow btn-round-edge">Strategic
+                        consultation</a>
                 </div>
             </div>
         </div>
     </section>
-    <!-- end section -->
-    <!-- start section -->
-    <section class="position-relative border-bottom border-color-extra-medium-gray">
-        <div id="particles-02" data-particle="true"
-            data-particle-options='{"particles": {"number": {"value": 5,"density": {"enable": true,"value_area": 1000}},"color":{"value":["#b7b9be", "#dd6531"]},"shape": {"type": "circle","stroke":{"width":0,"color":"#000000"}},"opacity": {"value": 0.5,"random": false,"anim": {"enable": false,"speed": 1,"sync": false}},"size": {"value": 8,"random": true,"anim": {"enable": false,"sync": true}},"move": {"enable": true,"speed":2,"direction": "right","random": false,"straight": false}},"interactivity": {"detect_on": "canvas","events": {"onhover": {"enable": false,"mode": "repulse"},"onclick": {"enable": false,"mode": "push"},"resize": true}},"retina_detect": false}'
-            class="position-absolute h-100 top-0 left-0 z-index-minus-1"></div>
+    <!-- end detailed services section -->
+
+    <!-- start additional services section -->
+    <section>
         <div class="container">
-            <div class="row justify-content-center mb-2">
-                <div class="col-lg-7 text-center"
-                    data-anime='{ "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                    <span class="fw-600 ls-1px fs-16 alt-font d-inline-block text-uppercase mb-5px text-base-color">Few
-                        good reasons</span>
-                    <h2 class="alt-font text-dark-gray fw-600 ls-minus-2px">Client testimonials</h2>
+            <div class="row">
+                <div class="col-lg-12 text-center mb-6">
+                    <h2 class="text-dark-gray fw-600 ls-minus-2px">Additional professional services</h2>
+                    <p class="w-60 md-w-80 sm-w-100 mx-auto">Comprehensive business solutions tailored to your specific
+                        needs</p>
                 </div>
             </div>
-            <div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 justify-content-center"
-                data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                <!-- start testimonial item -->
-                <div class="col md-mb-30px">
-                    <div class="testimonials testimonials-style-05 last-paragraph-no-margin">
-                        <div
-                            class="testimonials-bubble border-radius-5px border border-color-extra-medium-gray bg-white pt-30px pb-30px ps-40px pe-40px lg-p-25px mb-35px">
-                            <p>Their team are easy to work with and helped me make amazing websites in a short amount
-                                time.</p>
+
+            <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 justify-content-center">
+                <!-- Transaction Services -->
+                <div class="col mb-30px">
+                    <div class="feature-box feature-box-left-icon-middle">
+                        <div class="feature-box-icon me-15px">
+                            <i class="line-icon-Handshake icon-extra-medium text-base-color"></i>
                         </div>
-                        <div class="author ps-20px pe-20px">
-                            <img class="rounded-circle w-85px me-15px" src="https://placehold.co/148x148" alt="">
-                            <div class="d-inline-block align-middle lh-20">
-                                <span class="fw-600 fs-18 text-dark-gray d-block mb-5px">Herman miller</span>
-                                <div class="fs-15">ThemeZaa</div>
-                            </div>
+                        <div class="feature-box-content">
+                            <span class="d-block fw-600 text-dark-gray mb-5px">Transaction Services</span>
+                            <p class="mb-0">Due diligence, M&A advisory, and transaction support services</p>
                         </div>
                     </div>
                 </div>
-                <!-- end testimonial item -->
-                <!-- start testimonial item -->
-                <div class="col md-mb-30px">
-                    <div class="testimonials testimonials-style-05 last-paragraph-no-margin">
-                        <div
-                            class="testimonials-bubble border-radius-5px border border-color-extra-medium-gray bg-white pt-30px pb-30px ps-40px pe-40px lg-p-25px mb-35px">
-                            <p>Trust us we looked for a very long time and wasted thousands of dollars testing other
-                                teams.</p>
+
+                <!-- Business Recovery -->
+                <div class="col mb-30px">
+                    <div class="feature-box feature-box-left-icon-middle">
+                        <div class="feature-box-icon me-15px">
+                            <i class="line-icon-Gear-2 icon-extra-medium text-base-color"></i>
                         </div>
-                        <div class="author ps-20px pe-20px">
-                            <img class="rounded-circle w-85px me-15px" src="https://placehold.co/148x148" alt="">
-                            <div class="d-inline-block align-middle lh-20">
-                                <span class="fw-600 fs-18 text-dark-gray d-block mb-5px">Matthew taylor</span>
-                                <div class="fs-15">Microsoft</div>
-                            </div>
+                        <div class="feature-box-content">
+                            <span class="d-block fw-600 text-dark-gray mb-5px">Business Recovery</span>
+                            <p class="mb-0">Restructuring, turnaround planning, and crisis management</p>
                         </div>
                     </div>
                 </div>
-                <!-- end testimonial item -->
-                <!-- start testimonial item -->
-                <div class="col">
-                    <div class="testimonials testimonials-style-05 last-paragraph-no-margin">
-                        <div
-                            class="testimonials-bubble border-radius-5px border border-color-extra-medium-gray bg-white pt-30px pb-30px ps-40px pe-40px lg-p-25px mb-35px">
-                            <p>I personally enjoyed the energy and the professional support the whole team gave to into
-                                website.</p>
+
+                <!-- Infrastructure & Projects -->
+                <div class="col mb-30px">
+                    <div class="feature-box feature-box-left-icon-middle">
+                        <div class="feature-box-icon me-15px">
+                            <i class="line-icon-Building icon-extra-medium text-base-color"></i>
                         </div>
-                        <div class="author ps-20px pe-20px">
-                            <img class="rounded-circle w-85px me-15px" src="https://placehold.co/148x148" alt="">
-                            <div class="d-inline-block align-middle lh-20">
-                                <span class="fw-600 fs-18 text-dark-gray d-block mb-5px">Leonel mooney</span>
-                                <div class="fs-15">Google</div>
-                            </div>
+                        <div class="feature-box-content">
+                            <span class="d-block fw-600 text-dark-gray mb-5px">Infrastructure & Projects</span>
+                            <p class="mb-0">Project finance advisory and capital project management</p>
                         </div>
                     </div>
                 </div>
-                <!-- end testimonial item -->
+
+                <!-- People & Change -->
+                <div class="col mb-30px">
+                    <div class="feature-box feature-box-left-icon-middle">
+                        <div class="feature-box-icon me-15px">
+                            <i class="line-icon-Business-ManWoman icon-extra-medium text-base-color"></i>
+                        </div>
+                        <div class="feature-box-content">
+                            <span class="d-block fw-600 text-dark-gray mb-5px">People & Change</span>
+                            <p class="mb-0">Organizational design, talent management, and change leadership</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Training & Investigations -->
+                <div class="col mb-30px">
+                    <div class="feature-box feature-box-left-icon-middle">
+                        <div class="feature-box-icon me-15px">
+                            <i class="line-icon-Student-Hat icon-extra-medium text-base-color"></i>
+                        </div>
+                        <div class="feature-box-content">
+                            <span class="d-block fw-600 text-dark-gray mb-5px">Training & Investigations</span>
+                            <p class="mb-0">IFRS training, tax audits, and specialized investigations</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Systems & Assurance -->
+                <div class="col mb-30px">
+                    <div class="feature-box feature-box-left-icon-middle">
+                        <div class="feature-box-icon me-15px">
+                            <i class="line-icon-Shield icon-extra-medium text-base-color"></i>
+                        </div>
+                        <div class="feature-box-content">
+                            <span class="d-block fw-600 text-dark-gray mb-5px">Systems & Assurance</span>
+                            <p class="mb-0">IT systems management, SOX compliance, and risk assessment</p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
-    <!-- end section -->
+    <!-- end additional services section -->
     <?php include dirname(__DIR__) . '/layouts/footer.php'; ?>
     <!-- javascript libraries -->
     <script type="text/javascript" src="js/jquery.js"></script>
