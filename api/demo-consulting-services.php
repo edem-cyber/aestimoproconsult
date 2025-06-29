@@ -574,94 +574,93 @@
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
-    <!-- end additional services section -->
-
-    <!-- Restructuring Services -->
-    <div id="restructuring" class="row align-items-center mb-8">
-        <div class="col-lg-6 order-2 order-lg-1">
-            <img src="https://images.pexels.com/photos/8837549/pexels-photo-8837549.jpeg" alt="Restructuring services"
-                class="border-radius-5px w-100 service-image">
-        </div>
-        <div class="col-lg-6 order-1 order-lg-2 md-mb-50px">
-            <div class="mb-20px">
-                <span class="text-base-color fw-600 mb-5px text-uppercase d-block">Restructuring Services</span>
-                <h3 class="text-dark-gray fw-600 ls-minus-1px">Turnaround & recovery expertise</h3>
-            </div>
-            <p class="mb-30px">We provide advisory services to lenders, creditors, companies and individuals
-                in troubled financial situations. Our team works across the entire breadth of the firm to
-                provide specialist situational knowledge for making the right decisions.</p>
-
-            <div class="row">
-                <div class="col-md-6 mb-20px">
-                    <ul class="list-style-02">
-                        <li class="mb-5px">Financial restructuring</li>
-                        <li class="mb-5px">Turnaround strategy</li>
-                        <li class="mb-5px">Portfolio services</li>
-                        <li class="mb-5px">Contingency planning & insolvency</li>
-                    </ul>
+            <!-- Restructuring Services -->
+            <div id="restructuring" class="row align-items-center mb-8">
+                <div class="col-lg-6 order-2 order-lg-1">
+                    <img src="https://images.pexels.com/photos/8837549/pexels-photo-8837549.jpeg"
+                        alt="Restructuring services" class="border-radius-5px w-100 service-image">
                 </div>
-                <div class="col-md-6 mb-20px">
-                    <ul class="list-style-02">
-                        <li class="mb-5px">Independent business review</li>
-                        <li class="mb-5px">Distressed M&A</li>
-                        <li class="mb-5px">Crisis management</li>
-                        <li class="mb-5px">Bankruptcy advisory</li>
-                    </ul>
-                </div>
-            </div>
+                <div class="col-lg-6 order-1 order-lg-2 md-mb-50px">
+                    <div class="mb-20px">
+                        <span class="text-base-color fw-600 mb-5px text-uppercase d-block">Restructuring Services</span>
+                        <h3 class="text-dark-gray fw-600 ls-minus-1px">Turnaround & recovery expertise</h3>
+                    </div>
+                    <p class="mb-30px">We provide advisory services to lenders, creditors, companies and individuals
+                        in troubled financial situations. Our team works across the entire breadth of the firm to
+                        provide specialist situational knowledge for making the right decisions.</p>
 
-            <a href="/contact" class="btn btn-medium btn-dark-gray btn-box-shadow btn-round-edge">Restructuring
-                consultation</a>
-        </div>
-    </div>
+                    <div class="row">
+                        <div class="col-md-6 mb-20px">
+                            <ul class="list-style-02">
+                                <li class="mb-5px">Financial restructuring</li>
+                                <li class="mb-5px">Turnaround strategy</li>
+                                <li class="mb-5px">Portfolio services</li>
+                                <li class="mb-5px">Contingency planning & insolvency</li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 mb-20px">
+                            <ul class="list-style-02">
+                                <li class="mb-5px">Independent business review</li>
+                                <li class="mb-5px">Distressed M&A</li>
+                                <li class="mb-5px">Crisis management</li>
+                                <li class="mb-5px">Bankruptcy advisory</li>
+                            </ul>
+                        </div>
+                    </div>
 
-    <!-- Corporate Finance -->
-    <div id="corporate-finance" class="row align-items-center mb-8">
-        <div class="col-lg-6 md-mb-50px">
-            <div class="mb-20px">
-                <span class="text-base-color fw-600 mb-5px text-uppercase d-block">Corporate Finance</span>
-                <h3 class="text-dark-gray fw-600 ls-minus-1px">Strategic financial advisory</h3>
-            </div>
-            <p class="mb-30px">Our corporate finance division provides comprehensive commercial, financial,
-                economic and strategic advice to companies facing significant business growth opportunities.
-                We have developed a reputation for excellent advice and high levels of independence.</p>
-
-            <div class="row">
-                <div class="col-md-6 mb-20px">
-                    <ul class="list-style-02">
-                        <li class="mb-5px">M&A advisory</li>
-                        <li class="mb-5px">Private equity advisory</li>
-                        <li class="mb-5px">Debt & capital advisory</li>
-                        <li class="mb-5px">Special situations</li>
-                    </ul>
-                </div>
-                <div class="col-md-6 mb-20px">
-                    <ul class="list-style-02">
-                        <li class="mb-5px">Management advisory</li>
-                        <li class="mb-5px">Strategic consulting</li>
-                        <li class="mb-5px">Financial planning</li>
-                        <li class="mb-5px">Capital raising</li>
-                    </ul>
+                    <a href="/contact" class="btn btn-medium btn-dark-gray btn-box-shadow btn-round-edge">Restructuring
+                        consultation</a>
                 </div>
             </div>
 
-            <a href="/contact" class="btn btn-medium btn-dark-gray btn-box-shadow btn-round-edge">Finance
-                consultation</a>
-        </div>
-        <div class="col-lg-6">
-            <img src="https://images.pexels.com/photos/8837549/pexels-photo-8837549.jpeg" alt="Corporate finance"
-                class="border-radius-5px w-100 service-image">
-        </div>
-    </div>
+            <!-- Corporate Finance -->
+            <div id="corporate-finance" class="row align-items-center mb-8">
+                <div class="col-lg-6 md-mb-50px">
+                    <div class="mb-20px">
+                        <span class="text-base-color fw-600 mb-5px text-uppercase d-block">Corporate Finance</span>
+                        <h3 class="text-dark-gray fw-600 ls-minus-1px">Strategic financial advisory</h3>
+                    </div>
+                    <p class="mb-30px">Our corporate finance division provides comprehensive commercial, financial,
+                        economic and strategic advice to companies facing significant business growth opportunities.
+                        We have developed a reputation for excellent advice and high levels of independence.</p>
 
-    </div>
+                    <div class="row">
+                        <div class="col-md-6 mb-20px">
+                            <ul class="list-style-02">
+                                <li class="mb-5px">M&A advisory</li>
+                                <li class="mb-5px">Private equity advisory</li>
+                                <li class="mb-5px">Debt & capital advisory</li>
+                                <li class="mb-5px">Special situations</li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 mb-20px">
+                            <ul class="list-style-02">
+                                <li class="mb-5px">Management advisory</li>
+                                <li class="mb-5px">Strategic consulting</li>
+                                <li class="mb-5px">Financial planning</li>
+                                <li class="mb-5px">Capital raising</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <a href="/contact" class="btn btn-medium btn-dark-gray btn-box-shadow btn-round-edge">Finance
+                        consultation</a>
+                </div>
+                <div class="col-lg-6">
+                    <img src="https://images.pexels.com/photos/8837549/pexels-photo-8837549.jpeg"
+                        alt="Corporate finance" class="border-radius-5px w-100 service-image">
+                </div>
+            </div>
+
+        </div>
     </section>
     <!-- end detailed services section -->
 
+    </section>
+    <!-- end additional services section -->
+
     <!-- start footer -->
-    <?php include '../layouts/footer.php'; ?>
+    <?php include dirname(__DIR__) . '/layouts/footer.php'; ?>
     <!-- end footer -->
 
     <!-- javascript libraries -->
