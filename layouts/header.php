@@ -111,19 +111,32 @@
                 </h4>
             </div>
             <div class="col-12">
-                <ul class="fs-20 ps-0 alt-font">
-                    <li class="pt-10px pb-10px w-100"><a class="facebook" href="https://www.facebook.com/"
-                            target="_blank"><i
-                                class="fa-brands fa-facebook-f w-30px text-start text-white"></i>Facebook</a></li>
-                    <li class="pt-10px pb-10px w-100"><a class="instagram" href="https://www.instagram.com/"
-                            target="_blank"><i
-                                class="fa-brands fa-instagram w-30px text-start text-white"></i>Instagram</a></li>
-                    <li class="pt-10px pb-10px w-100"><a class="twitter" href="https://twitter.com/" target="_blank"><i
-                                class="fa-brands fa-twitter w-30px text-start text-white"></i>Twitter</a></li>
-                    <li class="pt-10px pb-10px w-100"><a class="dribbble" href="https://www.dribbble.com/"
-                            target="_blank"><i
-                                class="fa-brands fa-dribbble w-30px text-start text-white"></i>Dribbble</a></li>
-                </ul>
+                <div class="contact-info">
+                    <div class="mb-20px">
+                        <h6 class="text-white fw-500 mb-10px">Our Partners</h6>
+                        <div class="mb-15px">
+                            <span class="fs-16 text-white fw-500 d-block">Prince Avornorkadzi</span>
+                            <span class="fs-14 text-light-gray d-block mb-5px">Partner, Tax</span>
+                            <a href="tel:+233545648343" class="fs-14 text-white"><i
+                                    class="feather icon-feather-phone w-20px text-start text-base-color me-5px"></i>+233
+                                54 564 8343</a>
+                        </div>
+                        <div class="mb-15px">
+                            <span class="fs-16 text-white fw-500 d-block">Nathaniel Topp Yankah</span>
+                            <span class="fs-14 text-light-gray d-block mb-5px">Partner, Accounting</span>
+                            <a href="tel:+233549588298" class="fs-14 text-white"><i
+                                    class="feather icon-feather-phone w-20px text-start text-base-color me-5px"></i>+233
+                                54 958 8298</a>
+                        </div>
+                    </div>
+                    <div class="office-info">
+                        <h6 class="text-white fw-500 mb-10px">Office Location</h6>
+                        <p class="fs-14 text-light-gray mb-10px"><i
+                                class="feather icon-feather-map-pin w-20px text-start text-base-color me-5px"></i>P.O.
+                            Box 1923, Osu<br>Dzorwulu, Accra, Ghana</p>
+                        <p class="fs-12 text-light-gray">CITG Licensed (CTPF D/00013)</p>
+                    </div>
+                </div>
             </div>
             <div class="border-top border-color-transparent-white-light pt-30px w-100">
                 <span class="fs-24 fw-500 text-white"><a href="tel:+233545648343">+233 54 564 8343</a></span>
