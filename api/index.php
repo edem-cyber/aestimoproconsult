@@ -54,6 +54,54 @@
         .interactive-banner-style-05 .atropos-inner {
             height: 400px;
         }
+
+        /* Fix overflow issues */
+        body {
+            overflow-x: hidden;
+        }
+
+        .swiper {
+            overflow: hidden !important;
+        }
+
+        .swiper-slide {
+            overflow: hidden !important;
+        }
+
+        /* Ensure proper containment of sections */
+        section {
+            position: relative;
+            overflow-x: hidden;
+        }
+
+        /* Fix hero slider positioning */
+        .swiper-slide .container {
+            max-width: 100%;
+            padding-left: 15px;
+            padding-right: 15px;
+        }
+
+        /* Prevent horizontal scroll on mobile */
+        @media (max-width: 767px) {
+            .col-md-10 {
+                padding-left: 10px;
+                padding-right: 10px;
+            }
+
+            .alt-font.fs-110 {
+                word-break: break-word;
+            }
+        }
+
+        /* Fix features section */
+        .icon-with-text-style-01 {
+            margin-bottom: 30px;
+        }
+
+        .feature-box-content p {
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+        }
     </style>
 </head>
 
@@ -285,8 +333,7 @@
                 <!-- start interactive banner item -->
                 <div class="col interactive-banner-style-05 lg-mb-30px position-relative z-index-1">
                     <div class="atropos" data-atropos data-atropos-perspective="1450">
-                        <div
-                            class="position-absolute z-index-1 top-0px left-0px h-100 w-100"></div>
+                        <div class="position-absolute z-index-1 top-0px left-0px h-100 w-100"></div>
                         <div class="atropos-scale">
                             <div class="atropos-rotate">
                                 <div class="atropos-inner">
@@ -321,8 +368,7 @@
                 <!-- start interactive banner item -->
                 <div class="col interactive-banner-style-05 lg-mb-30px position-relative z-index-1">
                     <div class="atropos" data-atropos data-atropos-perspective="1450">
-                        <div
-                            class="position-absolute z-index-1 top-0px left-0px h-100 w-100"></div>
+                        <div class="position-absolute z-index-1 top-0px left-0px h-100 w-100"></div>
                         <div class="atropos-scale">
                             <div class="atropos-rotate">
                                 <div class="atropos-inner">
@@ -356,8 +402,7 @@
                 <!-- start interactive banner item -->
                 <div class="col interactive-banner-style-05 sm-mb-30px position-relative z-index-1">
                     <div class="atropos" data-atropos data-atropos-perspective="1450">
-                        <div
-                            class="position-absolute z-index-1 top-0px left-0px h-100 w-100"></div>
+                        <div class="position-absolute z-index-1 top-0px left-0px h-100 w-100"></div>
                         <div class="atropos-scale">
                             <div class="atropos-rotate">
                                 <div class="atropos-inner">
@@ -391,8 +436,7 @@
                 <!-- start interactive banner item -->
                 <div class="col interactive-banner-style-05 position-relative z-index-1">
                     <div class="atropos" data-atropos data-atropos-perspective="1450">
-                        <div
-                            class="position-absolute z-index-1 top-0px left-0px h-100 w-100"></div>
+                        <div class="position-absolute z-index-1 top-0px left-0px h-100 w-100"></div>
                         <div class="atropos-scale">
                             <div class="atropos-rotate">
                                 <div class="atropos-inner">
@@ -517,45 +561,7 @@
                 </div>
             </div>
 
-            <div class="row row-cols-1 row-cols-xl-4 row-cols-md-3 row-cols-sm-2 justify-content-center align-items-center"
-                data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
-                <!-- start features box item -->
-                <div class="col icon-with-text-style-08 sm-mb-25px text-center text-sm-start">
-                    <div class="feature-box feature-box-left-icon-middle d-inline-flex align-middle">
-                        <div class="feature-box-icon me-10px">
-                            <i class="bi bi-calendar-check fs-24"></i>
-                        </div>
-                        <div class="feature-box-content">
-                            <span class="alt-font fs-18 md-fs-16 fw-600 text-dark-gray">Get 30 day free trial</span>
-                        </div>
-                    </div>
-                </div>
-                <!-- end features box item -->
-                <!-- start features box item -->
-                <div class="col icon-with-text-style-08 sm-mb-25px text-center text-sm-start">
-                    <div class="feature-box feature-box-left-icon-middle d-inline-flex align-middle">
-                        <div class="feature-box-icon me-10px">
-                            <i class="bi bi-wallet2 fs-24"></i>
-                        </div>
-                        <div class="feature-box-content">
-                            <span class="alt-font fs-18 md-fs-16 fw-600 text-dark-gray">No any hidden fees pay</span>
-                        </div>
-                    </div>
-                </div>
-                <!-- end features box item -->
-                <!-- start features box item -->
-                <div class="col icon-with-text-style-08 text-center text-sm-start">
-                    <div class="feature-box feature-box-left-icon-middle d-inline-flex align-middle">
-                        <div class="feature-box-icon me-10px">
-                            <i class="bi bi-clock fs-24"></i>
-                        </div>
-                        <div class="feature-box-content">
-                            <span class="alt-font fs-18 md-fs-16 fw-600 text-dark-gray">You can cancel anytime</span>
-                        </div>
-                    </div>
-                </div>
-                <!-- end features box item -->
-            </div>
+           
         </div>
     </section>
     <!-- end section -->
@@ -583,7 +589,7 @@
                             excellence across Africa and beyond.</h1>
                     </div>
                 </div>
-                
+
             </div>
         </div>
     </section>
