@@ -29,7 +29,7 @@
         content="Meet our expert team of chartered accountants and tax professionals at Aestimo Pro Consult. Licensed professionals with international experience and local expertise across Africa.">
     <meta name="twitter:image" content="https://aestimoproconsult.vercel.app/images/demo-consulting.jpg">
     <!-- favicon icon -->
-    <link rel="shortcut icon" href="images/favicon.png">
+    <link rel="shortcut icon" href="Aestimo SVG.No background .ico">
     <link rel="apple-touch-icon" href="images/apple-touch-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">

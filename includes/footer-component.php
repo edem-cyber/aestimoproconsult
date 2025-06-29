@@ -8,8 +8,7 @@
             <!-- start footer column -->
             <div class="col-7 col-lg-3 col-md-12 col-sm-6 text-md-center text-lg-start md-mb-30px">
                 <a href="demo-consulting.php" class="footer-logo mb-15px md-mb-20px d-inline-block"><img
-                        src="images/demo-consulting-logo-black.png" data-at2x="images/demo-consulting-logo-black@2x.png"
-                        alt="Aestimo Pro Consult"></a>
+                        src=" Aestimo SVG.svg" alt="Aestimo Pro Consult" style="max-height: 45px;"></a>
                 <p class="mb-20px">Professional accounting, tax advisory, and business consulting services in Ghana.</p>
                 <div class="elements-social social-icon-style-02">
                     <ul class="medium-icon dark icon-with-animation">

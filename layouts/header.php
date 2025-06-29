@@ -26,12 +26,10 @@
         <div class="container-fluid">
             <div class="col-auto col-lg-2 me-auto">
                 <a class="navbar-brand" href="/">
-                    <img src="images/demo-consulting-logo-white.png"
-                        data-at2x="images/demo-consulting-logo-white@2x.png" alt="" class="default-logo">
-                    <img src="images/demo-consulting-logo-black.png"
-                        data-at2x="images/demo-consulting-logo-black@2x.png" alt="" class="alt-logo">
-                    <img src="images/demo-consulting-logo-black.png"
-                        data-at2x="images/demo-consulting-logo-black@2x.png" alt="" class="mobile-logo">
+                    <img src=" Aestimo SVG.svg" alt="Aestimo Pro Consult" class="default-logo"
+                        style="max-height: 50px;">
+                    <img src=" Aestimo SVG.svg" alt="Aestimo Pro Consult" class="alt-logo" style="max-height: 50px;">
+                    <img src=" Aestimo SVG.svg" alt="Aestimo Pro Consult" class="mobile-logo" style="max-height: 50px;">
                 </a>
             </div>
             <div class="col-auto col-lg-8 menu-order position-static">
