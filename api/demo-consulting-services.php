@@ -40,6 +40,24 @@
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/responsive.css" />
     <link rel="stylesheet" href="demos/consulting/consulting.css" />
+    <style>
+        .service-image {
+            height: 400px;
+            object-fit: cover;
+        }
+
+        @media (max-width: 991px) {
+            .service-image {
+                height: 300px;
+            }
+        }
+
+        @media (max-width: 575px) {
+            .service-image {
+                height: 250px;
+            }
+        }
+    </style>
 </head>
 
 <body data-mobile-nav-style="classic">
@@ -302,14 +320,16 @@
                     <a href="/contact" class="btn btn-medium btn-dark-gray btn-box-shadow btn-round-edge">Get quote</a>
                 </div>
                 <div class="col-lg-6">
-                    <img src="https://images.pexels.com/photos/8837549/pexels-photo-8837549.jpeg" alt="Accounting services" class="border-radius-5px w-100">
+                    <img src="https://images.pexels.com/photos/8837549/pexels-photo-8837549.jpeg"
+                        alt="Accounting services" class="border-radius-5px w-100 service-image">
                 </div>
             </div>
 
             <!-- Tax Compliance & Advisory -->
             <div id="tax" class="row align-items-center mb-8">
                 <div class="col-lg-6 order-2 order-lg-1">
-                    <img src="https://placehold.co/570x400" alt="Tax services" class="border-radius-5px w-100">
+                    <img src="https://images.pexels.com/photos/8837549/pexels-photo-8837549.jpeg" alt="Tax services"
+                        class="border-radius-5px w-100 service-image">
                 </div>
                 <div class="col-lg-6 order-1 order-lg-2 md-mb-50px">
                     <div class="mb-20px">
@@ -378,14 +398,16 @@
                         valuation</a>
                 </div>
                 <div class="col-lg-6">
-                    <img src="https://placehold.co/570x400" alt="Business valuation" class="border-radius-5px w-100">
+                    <img src="https://images.pexels.com/photos/8837549/pexels-photo-8837549.jpeg"
+                        alt="Business valuation" class="border-radius-5px w-100 service-image">
                 </div>
             </div>
 
             <!-- Transaction Services -->
             <div id="transaction" class="row align-items-center mb-8">
                 <div class="col-lg-6 order-2 order-lg-1">
-                    <img src="https://placehold.co/570x400" alt="Strategy services" class="border-radius-5px w-100">
+                    <img src="https://images.pexels.com/photos/8837549/pexels-photo-8837549.jpeg"
+                        alt="Strategy services" class="border-radius-5px w-100 service-image">
                 </div>
                 <div class="col-lg-6 order-1 order-lg-2 md-mb-50px">
                     <div class="mb-20px">
@@ -453,8 +475,8 @@
                         consultation</a>
                 </div>
                 <div class="col-lg-6">
-                    <img src="https://placehold.co/570x400" alt="Infrastructure projects"
-                        class="border-radius-5px w-100">
+                    <img src="https://images.pexels.com/photos/8837549/pexels-photo-8837549.jpeg"
+                        alt="Infrastructure projects" class="border-radius-5px w-100 service-image">
                 </div>
             </div>
 
