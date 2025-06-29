@@ -388,35 +388,75 @@
                 </div>
                 <div class="col-lg-6 order-1 order-lg-2 md-mb-50px">
                     <div class="mb-20px">
-                        <span class="text-base-color fw-600 mb-5px text-uppercase d-block">Strategy & Operations</span>
-                        <h3 class="text-dark-gray fw-600 ls-minus-1px">Business growth solutions</h3>
+                        <span class="text-base-color fw-600 mb-5px text-uppercase d-block">Transaction Services</span>
+                        <h3 class="text-dark-gray fw-600 ls-minus-1px">M&A and due diligence expertise</h3>
                     </div>
-                    <p class="mb-30px">Through clear objectives, distinct business models, and innovative technologies,
-                        we help business leaders make the right choices to achieve desired growth.</p>
+                    <p class="mb-30px">Our transactions division provides comprehensive commercial, financial, and
+                        strategic advice to companies facing significant business growth opportunities through mergers,
+                        acquisitions, and strategic partnerships.</p>
 
                     <div class="row">
                         <div class="col-md-6 mb-20px">
                             <ul class="list-style-02">
-                                <li class="mb-5px">Strategic planning and development</li>
-                                <li class="mb-5px">Organizational strategy design</li>
-                                <li class="mb-5px">Growth strategy implementation</li>
-                                <li class="mb-5px">Financial strategy optimization</li>
+                                <li class="mb-5px">Acquisition due diligence</li>
+                                <li class="mb-5px">Vendor due diligence</li>
+                                <li class="mb-5px">Vendor assistance</li>
+                                <li class="mb-5px">Transaction advisory</li>
                             </ul>
                         </div>
                         <div class="col-md-6 mb-20px">
                             <ul class="list-style-02">
-                                <li class="mb-5px">Business process optimization</li>
-                                <li class="mb-5px">Finance transformation</li>
-                                <li class="mb-5px">Cost reduction strategies</li>
-                                <li class="mb-5px">Performance management</li>
+                                <li class="mb-5px">Merger integration</li>
+                                <li class="mb-5px">Sale and purchase agreement review</li>
+                                <li class="mb-5px">Business modeling</li>
+                                <li class="mb-5px">Privatization advisory</li>
                             </ul>
                         </div>
                     </div>
 
-                    <a href="/contact" class="btn btn-medium btn-dark-gray btn-box-shadow btn-round-edge">Strategic
+                    <a href="/contact" class="btn btn-medium btn-dark-gray btn-box-shadow btn-round-edge">Transaction
                         consultation</a>
                 </div>
             </div>
+
+            <!-- Infrastructure & Capital Projects -->
+            <div id="infrastructure" class="row align-items-center mb-8">
+                <div class="col-lg-6 md-mb-50px">
+                    <div class="mb-20px">
+                        <span class="text-base-color fw-600 mb-5px text-uppercase d-block">Infrastructure &
+                            Projects</span>
+                        <h3 class="text-dark-gray fw-600 ls-minus-1px">Capital project management</h3>
+                    </div>
+                    <p class="mb-30px">We provide comprehensive advisory services for complex infrastructure and capital
+                        projects, leveraging our deep expertise in project finance, procurement, and strategic
+                        development across various sectors.</p>
+
+                    <div class="row">
+                        <div class="col-md-6 mb-20px">
+                            <ul class="list-style-02">
+                                <li class="mb-5px">Project finance advisory</li>
+                                <li class="mb-5px">Financing and procurement management</li>
+                                <li class="mb-5px">Project organization and execution</li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6 mb-20px">
+                            <ul class="list-style-02">
+                                <li class="mb-5px">Construction oversight</li>
+                                <li class="mb-5px">Strategy and planning</li>
+                                <li class="mb-5px">Operations and maintenance</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <a href="/contact" class="btn btn-medium btn-dark-gray btn-box-shadow btn-round-edge">Project
+                        consultation</a>
+                </div>
+                <div class="col-lg-6">
+                    <img src="https://placehold.co/570x400" alt="Infrastructure projects"
+                        class="border-radius-5px w-100">
+                </div>
+            </div>
+
         </div>
     </section>
     <!-- end detailed services section -->
