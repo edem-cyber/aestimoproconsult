@@ -569,51 +569,21 @@
                 <div class="row justify-content-center align-items-center mb-5">
                     <div
                         class="col-xl-9 col-lg-10 text-center position-relative last-paragraph-no-margin parallax-scrolling-style-2">
-                        <a href="https://www.youtube.com/watch?v=cfXHhfNy7tU"
+                        <!-- <a href="https://www.youtube.com/watch?v=cfXHhfNy7tU"
                             class="position-relative d-inline-block text-center rounded-circle border border-3 border-color-transparent-white-very-light video-icon-box video-icon-extra-large popup-youtube mb-5">
                             <span>
                                 <span class="video-icon">
                                     <i class="fa-solid fa-play text-white"></i>
                                 </span>
                             </span>
-                        </a>
+                        </a> -->
                         <span class="opacity-6 ls-2px text-uppercase alt-font text-white d-block mb-2 fw-500">Building
                             trusted partnerships</span>
                         <h1 class="text-white fw-500 alt-font ls-minus-2px text-shadow-double-large">We deliver
                             excellence across Africa and beyond.</h1>
                     </div>
                 </div>
-                <div
-                    class="row row-cols-1 row-cols-lg-4 row-cols-sm-2 text-center justify-content-center clients-style-06 position-relative">
-                    <!-- start client item -->
-                    <div class="col md-mb-45px">
-                        <div class="client-box">
-                            <a href="#"><img src="images/logo-envato-white.svg" class="h-45px" alt=""></a>
-                        </div>
-                    </div>
-                    <!-- end client item -->
-                    <!-- start client item -->
-                    <div class="col md-mb-45px">
-                        <div class="client-box">
-                            <a href="#"><img src="images/logo-less-white.svg" class="h-45px" alt=""></a>
-                        </div>
-                    </div>
-                    <!-- end client item -->
-                    <!-- start client item -->
-                    <div class="col xs-mb-45px">
-                        <div class="client-box">
-                            <a href="#"><img src="images/logo-pingdom-white.svg" class="h-45px" alt=""></a>
-                        </div>
-                    </div>
-                    <!-- end client item -->
-                    <!-- start client item -->
-                    <div class="col">
-                        <div class="client-box">
-                            <a href="#"><img src="images/logo-google-white.svg" class="h-45px" alt=""></a>
-                        </div>
-                    </div>
-                    <!-- end client item -->
-                </div>
+                
             </div>
         </div>
     </section>

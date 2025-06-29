@@ -117,6 +117,11 @@
                 margin-top: auto;
                 margin-bottom: 0;
             }
+
+            /* Hide step numbers on desktop only */
+            .process-step-style-02 .process-step-icon .number {
+                display: none;
+            }
         }
     </style>
 </head>
