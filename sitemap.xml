@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <!-- Homepage -->
     <url>
         <loc>https://aestimoproconsult.vercel.app/</loc>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
         <lastmod>2024-12-28</lastmod>
+        <image:image>
+            <image:loc>https://aestimoproconsult.vercel.app/aestimo-logo.svg</image:loc>
+            <image:title>Aestimo Pro Consult Logo</image:title>
+            <image:caption>CITG Licensed Accounting and Tax Advisory Services Ghana</image:caption>
+        </image:image>
     </url>
 
     <!-- Services Page -->
@@ -45,6 +51,28 @@
         <loc>https://aestimoproconsult.vercel.app/demo-consulting-services-details</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
+        <lastmod>2024-12-28</lastmod>
+    </url>
+
+    <!-- Additional Service-Specific Pages -->
+    <url>
+        <loc>https://aestimoproconsult.vercel.app/demo-consulting-services#business-solutions</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2024-12-28</lastmod>
+    </url>
+
+    <url>
+        <loc>https://aestimoproconsult.vercel.app/demo-consulting-services#transaction</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2024-12-28</lastmod>
+    </url>
+
+    <url>
+        <loc>https://aestimoproconsult.vercel.app/demo-consulting-services#corporate-finance</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
         <lastmod>2024-12-28</lastmod>
     </url>
 </urlset> 

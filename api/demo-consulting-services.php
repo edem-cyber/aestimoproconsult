@@ -31,6 +31,115 @@
     <meta name="twitter:image" content="https://aestimoproconsult.vercel.app/images/demo-consulting.jpg">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://aestimoproconsult.vercel.app/demo-consulting-services">
+    <!-- Language and Region -->
+    <link rel="alternate" hreflang="en-gh" href="https://aestimoproconsult.vercel.app/demo-consulting-services">
+    <link rel="alternate" hreflang="en" href="https://aestimoproconsult.vercel.app/demo-consulting-services">
+    <!-- Breadcrumb Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://aestimoproconsult.vercel.app/"
+            },
+            {
+                "@type": "ListItem", 
+                "position": 2,
+                "name": "Services",
+                "item": "https://aestimoproconsult.vercel.app/demo-consulting-services"
+            }
+        ]
+    }
+    </script>
+    <!-- Professional Services Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "ProfessionalService",
+        "name": "Aestimo Pro Consult - Professional Accounting & Tax Services",
+        "description": "CITG licensed accounting, tax advisory, business valuation, and financial consulting services in Ghana",
+        "url": "https://aestimoproconsult.vercel.app/demo-consulting-services",
+        "provider": {
+            "@type": "Organization",
+            "name": "Aestimo Pro Consult"
+        },
+        "areaServed": [
+            {
+                "@type": "Place",
+                "name": "Ghana"
+            },
+            {
+                "@type": "Place", 
+                "name": "Accra"
+            },
+            {
+                "@type": "Place",
+                "name": "Greater Accra Region"
+            },
+            {
+                "@type": "Place",
+                "name": "West Africa"
+            }
+        ],
+        "serviceType": [
+            "Accounting Services",
+            "Tax Advisory",
+            "Business Valuation", 
+            "Financial Reporting",
+            "IFRS Training",
+            "Payroll Management",
+            "Due Diligence",
+            "M&A Advisory",
+            "Corporate Finance",
+            "Business Recovery"
+        ],
+        "hasOfferCatalog": {
+            "@type": "OfferCatalog",
+            "name": "Accounting & Tax Services Ghana",
+            "itemListElement": [
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Service",
+                        "name": "Tax Compliance Services Ghana",
+                        "description": "Complete tax compliance including income tax, withholding tax, VAT, and Ghana Revenue Authority representation"
+                    }
+                },
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Service",
+                        "name": "Financial Reporting Ghana",
+                        "description": "IFRS compliant financial statements, monthly reporting, and statutory financial statement preparation"
+                    }
+                },
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Service",
+                        "name": "Business Valuation Ghana",
+                        "description": "Portfolio valuation, financial reporting valuation, transaction valuation, and business modeling"
+                    }
+                },
+                {
+                    "@type": "Offer",
+                    "itemOffered": {
+                        "@type": "Service",
+                        "name": "Payroll Management Ghana",
+                        "description": "Complete payroll processing, SSNIT compliance, and employee tax management"
+                    }
+                }
+            ]
+        },
+        "priceRange": "$$",
+        "paymentAccepted": ["Cash", "Bank Transfer", "Mobile Money"],
+        "currenciesAccepted": "GHS"
+    }
+    </script>
     <!-- favicon icon -->
     <link rel="shortcut icon" href="../aestimo-favicon.ico">
     <link rel="apple-touch-icon" href="images/apple-touch-icon-57x57.png">

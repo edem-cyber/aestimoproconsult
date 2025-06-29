@@ -35,6 +35,60 @@
     <meta name="ICBM" content="5.614818, -0.205874">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://aestimoproconsult.vercel.app/demo-consulting-contact">
+    <!-- Contact Organization Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "ContactPage",
+        "name": "Contact Aestimo Pro Consult - CITG Licensed Accountants Ghana",
+        "description": "Get in touch with our CITG licensed accounting and tax professionals in Accra, Ghana",
+        "url": "https://aestimoproconsult.vercel.app/demo-consulting-contact",
+        "mainEntity": {
+            "@type": "Organization",
+            "name": "Aestimo Pro Consult",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "P.O. Box 1923, Osu",
+                "addressLocality": "Dzorwulu", 
+                "addressRegion": "Greater Accra",
+                "addressCountry": "Ghana"
+            },
+            "contactPoint": [
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+233-54-564-8343",
+                    "contactType": "Tax Advisory",
+                    "name": "Prince Avornorkadzi",
+                    "email": "avonomanprince@gmail.com",
+                    "availableLanguage": "English",
+                    "hoursAvailable": {
+                        "@type": "OpeningHoursSpecification",
+                        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+                        "opens": "08:00",
+                        "closes": "17:00"
+                    }
+                },
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+233-54-958-8298", 
+                    "contactType": "Accounting Services",
+                    "name": "Nathaniel Topp Yankah",
+                    "email": "nathaniel.yankah@gmail.com",
+                    "availableLanguage": "English",
+                    "hoursAvailable": {
+                        "@type": "OpeningHoursSpecification",
+                        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+                        "opens": "08:00",
+                        "closes": "17:00"
+                    }
+                }
+            ]
+        }
+    }
+    </script>
+    <!-- Language and Region -->
+    <link rel="alternate" hreflang="en-gh" href="https://aestimoproconsult.vercel.app/demo-consulting-contact">
+    <link rel="alternate" hreflang="en" href="https://aestimoproconsult.vercel.app/demo-consulting-contact">
     <!-- favicon icon -->
     <link rel="shortcut icon" href="../aestimo-favicon.ico">
     <link rel="apple-touch-icon" href="images/apple-touch-icon-57x57.png">

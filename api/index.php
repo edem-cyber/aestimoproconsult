@@ -10,7 +10,7 @@
     <meta name="description"
         content="Leading CITG licensed (CTPF D/00013) accounting & tax advisory firm in Accra, Ghana. Expert chartered accountants providing financial reporting, tax compliance, business valuation, payroll management, IFRS training & M&A advisory services. Serving Dzorwulu, Accra & across Ghana with 50+ years combined experience.">
     <meta name="keywords"
-        content="CITG licensed accountants Ghana, chartered accountants Accra, tax advisory Ghana, accounting services Ghana, financial reporting Ghana, business valuation Ghana, tax compliance Ghana, payroll management Ghana, IFRS training Ghana, due diligence Ghana, M&A advisory Ghana, Ghana Revenue Authority, CTPF D/00013, Dzorwulu accounting firm, Accra tax consultants, corporate finance Ghana, business recovery services Ghana, transaction advisory Ghana, chartered tax professionals Ghana, Prince Avornorkadzi, Nathaniel Yankah">
+        content="CITG licensed accountants Ghana, chartered accountants Accra, tax advisory Ghana, accounting services Ghana, financial reporting Ghana, business valuation Ghana, tax compliance Ghana, payroll management Ghana, IFRS training Ghana, due diligence Ghana, M&A advisory Ghana, Ghana Revenue Authority, CTPF D/00013, Dzorwulu accounting firm, Accra tax consultants, corporate finance Ghana, business recovery services Ghana, transaction advisory Ghana, chartered tax professionals Ghana, Prince Avornorkadzi, Nathaniel Yankah, best accountants in Ghana, top tax consultants Ghana, ACCA Ghana, ICAG members Ghana, professional accounting firms Accra, tax planning Ghana, bookkeeping services Ghana, audit support Ghana, financial advisory Ghana, startup accounting Ghana, SME accounting services, VAT registration Ghana, withholding tax Ghana, company registration accounting, quarterly tax returns Ghana, annual tax filing Ghana, expatriate tax Ghana, business registration Ghana, accounting software training Ghana, QuickBooks training Ghana, management accounting Ghana, cost accounting Ghana, budgeting and forecasting Ghana, cash flow management Ghana">
     <meta property="og:title" content="CITG Licensed Accounting & Tax Advisory Services Ghana | Aestimo Pro Consult">
     <meta property="og:description"
         content="Leading CITG licensed (CTPF D/00013) accounting & tax advisory firm in Ghana. Expert chartered accountants & tax professionals providing comprehensive financial services, tax compliance, business valuation & consulting solutions in Accra with 50+ years combined experience.">
@@ -33,6 +33,43 @@
     <meta name="ICBM" content="5.614818, -0.205874">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://aestimoproconsult.vercel.app/">
+    <!-- Language and Region -->
+    <link rel="alternate" hreflang="en-gh" href="https://aestimoproconsult.vercel.app/">
+    <link rel="alternate" hreflang="en" href="https://aestimoproconsult.vercel.app/">
+    <link rel="alternate" hreflang="x-default" href="https://aestimoproconsult.vercel.app/">
+    <!-- Performance & Mobile Optimization -->
+    <meta name="theme-color" content="#66b0df">
+    <meta name="msapplication-TileColor" content="#66b0df">
+    <meta name="application-name" content="Aestimo Pro Consult">
+    <meta name="apple-mobile-web-app-title" content="Aestimo Pro Consult">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="format-detection" content="telephone=yes">
+    <meta name="format-detection" content="email=yes">
+    <!-- Language & Region -->
+    <meta name="language" content="English">
+    <meta name="content-language" content="en-GH">
+    <meta http-equiv="content-language" content="en-GH">
+    <!-- Business Information -->
+    <meta name="rating" content="general">
+    <meta name="distribution" content="global">
+    <meta name="revisit-after" content="7 days">
+    <meta name="expires" content="never">
+    <!-- Contact & Business -->
+    <meta name="contact" content="avonomanprince@gmail.com">
+    <meta name="reply-to" content="avonomanprince@gmail.com">
+    <meta name="owner" content="Prince Avornorkadzi, Nathaniel Topp Yankah">
+    <meta name="designer" content="Aestimo Pro Consult">
+    <meta name="copyright" content="Aestimo Pro Consult 2024">
+    <!-- Additional SEO Meta -->
+    <meta name="rating" content="safe for kids">
+    <meta name="audience" content="businesses, entrepreneurs, startups, corporations">
+    <meta name="target" content="businesses seeking accounting and tax services in Ghana">
+    <!-- DNS Prefetch for Performance -->
+    <link rel="dns-prefetch" href="//fonts.googleapis.com">
+    <link rel="dns-prefetch" href="//fonts.gstatic.com">
+    <link rel="dns-prefetch" href="//images.unsplash.com">
+    <link rel="dns-prefetch" href="//images.pexels.com">
     <!-- favicon icon -->
     <link rel="shortcut icon" href="../aestimo-favicon.ico">
     <link rel="apple-touch-icon" href="images/apple-touch-icon-57x57.png">
@@ -117,6 +154,185 @@
             "Business Recovery",
             "Transaction Advisory"
         ]
+    }
+    </script>
+    <!-- Organization Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Aestimo Pro Consult",
+        "url": "https://aestimoproconsult.vercel.app",
+        "logo": "https://aestimoproconsult.vercel.app/aestimo-logo.svg",
+        "description": "Leading CITG licensed accounting & tax advisory firm in Ghana",
+        "foundingDate": "2020",
+        "numberOfEmployees": "5-10",
+        "legalName": "Aestimo Pro Consult",
+        "alternateName": ["Aestimo Pro Consult Ghana", "APC Ghana"],
+        "slogan": "We live to grow businesses with solutions",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "P.O. Box 1923, Osu",
+            "addressLocality": "Dzorwulu",
+            "addressRegion": "Greater Accra",
+            "addressCountry": "Ghana",
+            "postalCode": ""
+        },
+        "contactPoint": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+233-54-564-8343",
+                "contactType": "Tax Advisory",
+                "areaServed": "Ghana",
+                "availableLanguage": "English"
+            },
+            {
+                "@type": "ContactPoint", 
+                "telephone": "+233-54-958-8298",
+                "contactType": "Accounting Services",
+                "areaServed": "Ghana",
+                "availableLanguage": "English"
+            }
+        ],
+        "sameAs": [
+            "https://aestimoproconsult.vercel.app"
+        ],
+        "hasCredential": [
+            {
+                "@type": "EducationalOccupationalCredential",
+                "name": "CITG Professional License",
+                "credentialCategory": "Professional License",
+                "recognizedBy": {
+                    "@type": "Organization",
+                    "name": "Chartered Institute of Taxation Ghana"
+                },
+                "identifier": "CTPF D/00013"
+            }
+        ],
+        "memberOf": [
+            {
+                "@type": "Organization",
+                "name": "Chartered Institute of Taxation Ghana",
+                "acronym": "CITG"
+            },
+            {
+                "@type": "Organization",
+                "name": "Institute of Chartered Accountants Ghana",
+                "acronym": "ICAG"
+            },
+            {
+                "@type": "Organization",
+                "name": "Association of Chartered Certified Accountants",
+                "acronym": "ACCA"
+            }
+        ],
+        "award": [
+            "CITG Licensed Professional Firm",
+            "50+ Years Combined Experience"
+        ],
+        "serviceArea": {
+            "@type": "Place",
+            "name": "Ghana",
+            "geo": {
+                "@type": "GeoCircle",
+                "geoMidpoint": {
+                    "@type": "GeoCoordinates",
+                    "latitude": "7.9465",
+                    "longitude": "-1.0232"
+                },
+                "geoRadius": "500000"
+            }
+        }
+    }
+    </script>
+    <!-- Individual Services Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Accounting and Tax Services Ghana",
+        "itemListElement": [
+            {
+                "@type": "Service",
+                "name": "Tax Advisory Services Ghana",
+                "description": "Comprehensive tax compliance, planning, and advisory services for Ghana businesses and individuals",
+                "provider": {
+                    "@type": "Organization",
+                    "name": "Aestimo Pro Consult"
+                },
+                "areaServed": "Ghana",
+                "serviceType": "Tax Advisory"
+            },
+            {
+                "@type": "Service", 
+                "name": "Accounting Services Ghana",
+                "description": "Professional bookkeeping, financial reporting, and accounting system setup for Ghana businesses",
+                "provider": {
+                    "@type": "Organization",
+                    "name": "Aestimo Pro Consult"
+                },
+                "areaServed": "Ghana",
+                "serviceType": "Accounting"
+            },
+            {
+                "@type": "Service",
+                "name": "Business Valuation Ghana", 
+                "description": "Expert business valuation, portfolio valuation, and financial modeling services",
+                "provider": {
+                    "@type": "Organization",
+                    "name": "Aestimo Pro Consult"
+                },
+                "areaServed": "Ghana",
+                "serviceType": "Business Valuation"
+            },
+            {
+                "@type": "Service",
+                "name": "IFRS Training Ghana",
+                "description": "International Financial Reporting Standards training and conversion services",
+                "provider": {
+                    "@type": "Organization", 
+                    "name": "Aestimo Pro Consult"
+                },
+                "areaServed": "Ghana",
+                "serviceType": "Training"
+            },
+            {
+                "@type": "Service",
+                "name": "Due Diligence Ghana",
+                "description": "Financial due diligence, transaction advisory, and M&A support services",
+                "provider": {
+                    "@type": "Organization",
+                    "name": "Aestimo Pro Consult"
+                },
+                "areaServed": "Ghana", 
+                "serviceType": "Advisory"
+            }
+        ]
+    }
+    </script>
+    <!-- Website Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Aestimo Pro Consult",
+        "url": "https://aestimoproconsult.vercel.app",
+        "description": "Leading CITG licensed accounting & tax advisory firm in Ghana",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Aestimo Pro Consult"
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://aestimoproconsult.vercel.app/demo-consulting-services?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        },
+        "inLanguage": "en-GH",
+        "copyrightYear": "2024",
+        "copyrightHolder": {
+            "@type": "Organization",
+            "name": "Aestimo Pro Consult"
+        }
     }
     </script>
     <!-- FAQ Structured Data -->

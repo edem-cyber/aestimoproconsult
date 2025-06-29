@@ -21,7 +21,8 @@
     <meta property="og:image" content="https://aestimoproconsult.vercel.app/images/demo-consulting.jpg">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
-    <meta property="og:image:alt" content="Aestimo Pro Consult - CITG Licensed Chartered Accountants & Tax Professionals Ghana">
+    <meta property="og:image:alt"
+        content="Aestimo Pro Consult - CITG Licensed Chartered Accountants & Tax Professionals Ghana">
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:url" content="https://aestimoproconsult.vercel.app/demo-consulting-company">
@@ -32,6 +33,146 @@
     <meta name="twitter:image" content="https://aestimoproconsult.vercel.app/images/demo-consulting.jpg">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://aestimoproconsult.vercel.app/demo-consulting-company">
+    <!-- Team Members Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Aestimo Pro Consult Team Members",
+        "itemListElement": [
+            {
+                "@type": "Person",
+                "name": "Prince Avornorkadzi",
+                "jobTitle": "Partner, Tax",
+                "description": "Chartered Accountant and Chartered Tax Professional with 8+ years experience in accounting, tax, and assurance services",
+                "email": "avonomanprince@gmail.com",
+                "telephone": "+233-54-564-8343",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Aestimo Pro Consult"
+                },
+                "hasCredential": [
+                    {
+                        "@type": "EducationalOccupationalCredential",
+                        "name": "Chartered Accountant",
+                        "credentialCategory": "Professional Certification",
+                        "recognizedBy": {
+                            "@type": "Organization",
+                            "name": "Institute of Chartered Accountants Ghana",
+                            "acronym": "ICAG"
+                        }
+                    },
+                    {
+                        "@type": "EducationalOccupationalCredential",
+                        "name": "Chartered Tax Professional",
+                        "credentialCategory": "Professional Certification",
+                        "recognizedBy": {
+                            "@type": "Organization",
+                            "name": "Chartered Institute of Taxation Ghana",
+                            "acronym": "CITG"
+                        }
+                    },
+                    {
+                        "@type": "EducationalOccupationalCredential",
+                        "name": "MBA",
+                        "credentialCategory": "Degree",
+                        "recognizedBy": {
+                            "@type": "Organization",
+                            "name": "University of East London, UK"
+                        }
+                    },
+                    {
+                        "@type": "EducationalOccupationalCredential",
+                        "name": "Bachelor's Degree in Administration (Accounting)",
+                        "credentialCategory": "Degree",
+                        "recognizedBy": {
+                            "@type": "Organization",
+                            "name": "University of Ghana Business School"
+                        }
+                    }
+                ],
+                "knowsAbout": [
+                    "Tax Advisory",
+                    "Financial Due Diligence",
+                    "Business Valuation",
+                    "Internal Control Reviews",
+                    "Assurance Services",
+                    "Manufacturing Industry",
+                    "Real Estate",
+                    "Tourism Industry"
+                ],
+                "alumniOf": [
+                    {
+                        "@type": "Organization",
+                        "name": "University of Ghana Business School"
+                    },
+                    {
+                        "@type": "Organization",
+                        "name": "University of East London, UK"
+                    }
+                ]
+            },
+            {
+                "@type": "Person",
+                "name": "Nathaniel Topp Yankah",
+                "jobTitle": "Partner, Accounting",
+                "description": "ACCA member with extensive experience in bookkeeping, financial reporting, tax planning and management accounting",
+                "email": "nathaniel.yankah@gmail.com",
+                "telephone": "+233-54-958-8298",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Aestimo Pro Consult"
+                },
+                "hasCredential": [
+                    {
+                        "@type": "EducationalOccupationalCredential",
+                        "name": "Association of Chartered Certified Accountants",
+                        "credentialCategory": "Professional Certification",
+                        "recognizedBy": {
+                            "@type": "Organization",
+                            "name": "Association of Chartered Certified Accountants",
+                            "acronym": "ACCA"
+                        }
+                    },
+                    {
+                        "@type": "EducationalOccupationalCredential",
+                        "name": "Institute of Chartered Tax Accountants Ghana",
+                        "credentialCategory": "Professional Certification",
+                        "recognizedBy": {
+                            "@type": "Organization",
+                            "name": "Institute of Chartered Tax Accountants Ghana"
+                        }
+                    },
+                    {
+                        "@type": "EducationalOccupationalCredential",
+                        "name": "BSc Administration (Accounting)",
+                        "credentialCategory": "Degree",
+                        "recognizedBy": {
+                            "@type": "Organization",
+                            "name": "University of Ghana Business School"
+                        }
+                    }
+                ],
+                "knowsAbout": [
+                    "Bookkeeping",
+                    "Financial Reporting", 
+                    "Tax Planning",
+                    "Management Accounting",
+                    "Accounting Software Migration",
+                    "Training",
+                    "Healthcare Industry",
+                    "Non-profit Organizations"
+                ],
+                "alumniOf": [
+                    {
+                        "@type": "Organization",
+                        "name": "University of Ghana Business School"
+                    }
+                ]
+            }
+        ]
+    }
+    </script>
     <!-- favicon icon -->
     <link rel="shortcut icon" href="../aestimo-favicon.ico">
     <link rel="apple-touch-icon" href="images/apple-touch-icon-57x57.png">
