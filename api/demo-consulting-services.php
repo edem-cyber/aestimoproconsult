@@ -591,7 +591,7 @@
                     <div class="mb-20px">
                         <span class="text-base-color fw-600 mb-5px text-uppercase d-block">Restructuring Services</span>
                         <h3 class="text-dark-gray fw-600 ls-minus-1px">Turnaround & recovery expertise</h3>
-                    </div>
+            </div>
                     <p class="mb-30px">We provide advisory services to lenders, creditors, companies and individuals
                         in troubled financial situations. Our team works across the entire breadth of the firm to
                         provide specialist situational knowledge for making the right decisions.</p>
@@ -618,7 +618,7 @@
                     <a href="/contact" class="btn btn-medium btn-dark-gray btn-box-shadow btn-round-edge">Restructuring
                         consultation</a>
                 </div>
-            </div>
+                        </div>
 
             <!-- Corporate Finance -->
             <div id="corporate-finance" class="row align-items-center mb-8">
