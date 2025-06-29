@@ -86,7 +86,7 @@ if (!empty($_POST['email'])) {
 			<body>
 				<table width="50%" border="0" align="center" cellpadding="0" cellspacing="0">
 				<tr>
-				<td colspan="2" align="center" valign="top"><img style="margin-top: 15px; max-height: 60px;" src="https://aestimoproconsult.vercel.app/ Aestimo SVG.svg" ></td>
+				                        <td colspan="2" align="center" valign="top"><img style="margin-top: 15px; max-height: 60px;" src="https://aestimoproconsult.vercel.app/aestimo-logo.svg" ></td>
 				</tr>
 				<tr>
 				<td width="50%" align="right">&nbsp;</td>

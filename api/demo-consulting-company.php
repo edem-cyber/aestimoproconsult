@@ -29,7 +29,7 @@
         content="Meet our expert team of chartered accountants and tax professionals at Aestimo Pro Consult. Licensed professionals with international experience and local expertise across Africa.">
     <meta name="twitter:image" content="https://aestimoproconsult.vercel.app/images/demo-consulting.jpg">
     <!-- favicon icon -->
-    <link rel="shortcut icon" href="Aestimo SVG.No background .ico">
+    <link rel="shortcut icon" href="../aestimo-favicon.ico">
     <link rel="apple-touch-icon" href="images/apple-touch-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
@@ -165,6 +165,8 @@
             height: 100%;
             background-color: rgba(0, 0, 0, 0.8);
             backdrop-filter: blur(5px);
+            -webkit-backdrop-filter: blur(5px);
+            overscroll-behavior: contain;
         }
 
         .team-modal-content {
@@ -198,6 +200,19 @@
             padding: 30px;
             border-radius: 15px 15px 0 0;
             position: relative;
+        }
+
+        .modal-header::before {
+            content: '';
+            position: absolute;
+            top: 8px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 40px;
+            height: 4px;
+            background: rgba(255, 255, 255, 0.3);
+            border-radius: 2px;
+            display: none;
         }
 
         .modal-body {
@@ -256,13 +271,166 @@
             }
 
             .team-modal-content {
-                margin: 5% auto;
-                width: 95%;
+                margin: 2% auto;
+                width: 96%;
+                max-height: 96vh;
+                border-radius: 10px;
+                -webkit-overflow-scrolling: touch;
+                scroll-behavior: smooth;
             }
 
-            .modal-header,
+            .modal-header {
+                padding: 25px 20px;
+                border-radius: 10px 10px 0 0;
+            }
+
+            .modal-header::before {
+                display: block;
+                top: 12px;
+            }
+
             .modal-body {
-                padding: 20px;
+                padding: 25px 20px;
+            }
+
+            .modal-team-image {
+                width: 100px;
+                height: 100px;
+                margin-bottom: 15px;
+            }
+
+            .modal-header h3 {
+                font-size: 22px;
+                margin-bottom: 8px;
+            }
+
+            .modal-header p {
+                font-size: 16px;
+            }
+
+            .modal-body p {
+                font-size: 15px;
+                line-height: 1.6;
+                margin-bottom: 20px;
+            }
+
+            .modal-body h5 {
+                font-size: 16px;
+                margin-bottom: 12px;
+            }
+
+            .modal-body ul li {
+                font-size: 14px;
+                line-height: 1.5;
+                margin-bottom: 8px;
+            }
+
+            .expertise-tag {
+                font-size: 12px;
+                padding: 6px 12px;
+                margin: 3px;
+            }
+
+            .contact-info {
+                display: flex;
+                flex-direction: column;
+                gap: 10px;
+                margin-bottom: 20px;
+            }
+
+            .contact-info a {
+                font-size: 14px;
+                word-break: break-all;
+            }
+
+            .close-modal {
+                top: 15px;
+                right: 15px;
+                font-size: 28px;
+                background: rgba(255, 255, 255, 0.2);
+                width: 35px;
+                height: 35px;
+                border-radius: 50%;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                line-height: 1;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .team-modal-content {
+                margin: 1% auto;
+                width: 98%;
+                max-height: 98vh;
+                border-radius: 8px;
+                -webkit-overflow-scrolling: touch;
+                scroll-behavior: smooth;
+            }
+
+            .modal-header {
+                padding: 20px 15px;
+                border-radius: 8px 8px 0 0;
+            }
+
+            .modal-body {
+                padding: 20px 15px;
+            }
+
+            .modal-team-image {
+                width: 80px;
+                height: 80px;
+                margin-bottom: 12px;
+            }
+
+            .modal-header h3 {
+                font-size: 20px;
+                margin-bottom: 6px;
+            }
+
+            .modal-header p {
+                font-size: 14px;
+            }
+
+            .modal-body p {
+                font-size: 14px;
+                line-height: 1.5;
+                margin-bottom: 18px;
+            }
+
+            .modal-body h5 {
+                font-size: 15px;
+                margin-bottom: 10px;
+            }
+
+            .modal-body ul li {
+                font-size: 13px;
+                line-height: 1.4;
+                margin-bottom: 6px;
+            }
+
+            .expertise-tag {
+                font-size: 11px;
+                padding: 5px 10px;
+                margin: 2px;
+            }
+
+            .contact-info a {
+                font-size: 13px;
+            }
+
+            .close-modal {
+                top: 12px;
+                right: 12px;
+                font-size: 24px;
+                background: rgba(255, 255, 255, 0.2);
+                width: 32px;
+                height: 32px;
+                border-radius: 50%;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                line-height: 1;
             }
         }
     </style>

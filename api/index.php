@@ -26,7 +26,7 @@
         content="Professional accounting, tax advisory and business consulting services in Ghana. Licensed by CITG (CTPF D/00013).">
     <meta name="twitter:image" content="https://aestimoproconsult.vercel.app/images/demo-consulting.jpg">>
     <!-- favicon icon -->
-    <link rel="shortcut icon" href="Aestimo SVG.No background .ico">
+    <link rel="shortcut icon" href="../aestimo-favicon.ico">
     <link rel="apple-touch-icon" href="images/apple-touch-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">

@@ -27,7 +27,7 @@
         content="Comprehensive accounting, tax advisory, business consulting & financial services in Ghana. Licensed by CITG (CTPF D/00013). Expert chartered accountants serving businesses across Africa.">
     <meta name="twitter:image" content="https://aestimoproconsult.vercel.app/images/demo-consulting.jpg">
     <!-- favicon icon -->
-    <link rel="shortcut icon" href="Aestimo SVG.No background .ico">
+    <link rel="shortcut icon" href="../aestimo-favicon.ico">
     <link rel="apple-touch-icon" href="images/apple-touch-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
@@ -46,7 +46,8 @@
     <?php include dirname(__DIR__) . '/layouts/header.php'; ?>
     <!-- start page title -->
     <section class="page-title-big-typography bg-dark-gray ipad-top-space-margin xs-py-0"
-        data-parallax-background-ratio="0.5" style="background-image: url(https://images.pexels.com/photos/5060803/pexels-photo-5060803.jpeg); background-size: cover; background-position: center 60%; background-repeat: no-repeat;">
+        data-parallax-background-ratio="0.5"
+        style="background-image: url(https://images.pexels.com/photos/5060803/pexels-photo-5060803.jpeg); background-size: cover; background-position: center 60%; background-repeat: no-repeat;">
         <div class="opacity-light bg-dark-gray"></div>
         <div class="container">
             <div class="row align-items-center justify-content-center small-screen">
@@ -202,7 +203,7 @@
                 <div class="col-lg-6 col-md-11 offset-xl-1">
                     <figure class="position-relative md-ps-40px border-radius-5px"
                         data-anime='{ "effect": "slide", "color": "#292d36", "direction":"lr", "easing": "easeOutQuad", "delay":0}'>
-                        <img src="https://placehold.co/570x561" alt="Professional accounting services"
+                        <img src="https://images.pexels.com/photos/955389/pexels-photo-955389.jpeg" alt="Professional accounting services"
                             class="border-radius-5px w-100">
                         <figcaption
                             class="position-absolute bottom-minus-20px xs-bottom-minus-60px left-minus-50px lg-left-minus-20px xs-left-minus-0px text-white text-center last-paragraph-no-margin w-60 lg-w-70 md-w-60 xs-w-280px atropos"
