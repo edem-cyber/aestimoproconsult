@@ -6,7 +6,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap');
 /* variable */
 :root {     
-    --base-color: #dd6531;
+    --base-color: #66b0df;
     --dark-gray: #292d36;
     --medium-gray: #808291;
     --primary-font: 'Kumbh Sans', sans-serif;
@@ -21,11 +21,11 @@ a {
     color: #808291;
 }
 /* bg gradient color */
-.bg-gradient-black-dark-orange {
-    background-image: linear-gradient(to right top, #353332, #312b28, #15110f, #4a3229, #5a2611);
+.bg-gradient-black-dark-blue {
+    background-image: linear-gradient(to right top, #2c3847, #384861, #455a7b, #4a6c96, #66b0df);
 }
-.bg-gradient-dark-orange-transparent { 
-    background-image: linear-gradient(to right top, rgba(212, 110, 66,.8), rgba(197, 105, 66,.8), rgba(184, 101, 66,.8), rgba(158, 93, 67,.8), rgba(111, 80, 70,.8));
+.bg-gradient-dark-blue-transparent { 
+    background-image: linear-gradient(to right top, rgba(102, 176, 223, .8), rgba(113, 181, 225, .8), rgba(124, 186, 227, .8), rgba(135, 191, 229, .8), rgba(146, 196, 231, .8));
 }
 /* header */
 .header-icon .icon > a {

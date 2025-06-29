@@ -129,7 +129,7 @@
 
         .team-member-role {
             font-size: 14px;
-            color: #dd6531;
+            color: #66b0df;
             font-weight: 500;
             text-transform: uppercase;
             letter-spacing: 0.5px;
@@ -195,7 +195,7 @@
         }
 
         .modal-header {
-            background: linear-gradient(135deg, #dd6531 0%, #c55a42 100%);
+            background: linear-gradient(135deg, #66b0df 0%, #4a90c2 100%);
             color: white;
             padding: 30px;
             border-radius: 15px 15px 0 0;

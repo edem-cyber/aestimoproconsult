@@ -202,7 +202,7 @@
     <!-- start our approach section -->
     <section id="down-section" class="position-relative">
         <div id="particles-01" data-particle="true"
-            data-particle-options='{"particles": {"number": {"value": 5,"density": {"enable": true,"value_area": 1000}},"color":{"value":["#b7b9be", "#dd6531"]},"shape": {"type": "circle","stroke":{"width":0,"color":"#000000"}},"opacity": {"value": 0.5,"random": false,"anim": {"enable": false,"speed": 1,"sync": false}},"size": {"value": 8,"random": true,"anim": {"enable": false,"sync": true}},"move": {"enable": true,"speed":2,"direction": "right","random": false,"straight": false}},"interactivity": {"detect_on": "canvas","events": {"onhover": {"enable": false,"mode": "repulse"},"onclick": {"enable": false,"mode": "push"},"resize": true}},"retina_detect": false}'
+            data-particle-options='{"particles": {"number": {"value": 5,"density": {"enable": true,"value_area": 1000}},"color":{"value":["#b7b9be", "#66b0df"]},"shape": {"type": "circle","stroke":{"width":0,"color":"#000000"}},"opacity": {"value": 0.5,"random": false,"anim": {"enable": false,"speed": 1,"sync": false}},"size": {"value": 8,"random": true,"anim": {"enable": false,"sync": true}},"move": {"enable": true,"speed":2,"direction": "right","random": false,"straight": false}},"interactivity": {"detect_on": "canvas","events": {"onhover": {"enable": false,"mode": "repulse"},"onclick": {"enable": false,"mode": "push"},"resize": true}},"retina_detect": false}'
             class="position-absolute h-100 top-0 left-0 z-index-minus-1"></div>
         <div class="container">
             <div class="row align-items-center justify-content-center text-center text-lg-start">
@@ -227,7 +227,7 @@
                             class="position-absolute bottom-minus-20px xs-bottom-minus-60px left-minus-50px lg-left-minus-20px xs-left-minus-0px text-white text-center last-paragraph-no-margin w-60 lg-w-70 md-w-60 xs-w-280px atropos"
                             data-atropos>
                             <div class="atropos-scale overflow-hidden border-radius-5px"
-                                data-anime='{ "effect": "slide", "color": "#dd6531", "direction":"lr", "easing": "easeOutQuad", "delay":500}'>
+                                data-anime='{ "effect": "slide", "color": "#66b0df", "direction":"lr", "easing": "easeOutQuad", "delay":500}'>
                                 <div class="atropos-rotate">
                                     <div
                                         class="atropos-inner border-radius-5px bg-base-color text-white ps-12 pe-12 pt-60px pb-60px sm-p-20px sm-pt-30px sm-pb-30px">
@@ -591,7 +591,7 @@
                     <div class="mb-20px">
                         <span class="text-base-color fw-600 mb-5px text-uppercase d-block">Restructuring Services</span>
                         <h3 class="text-dark-gray fw-600 ls-minus-1px">Turnaround & recovery expertise</h3>
-            </div>
+                    </div>
                     <p class="mb-30px">We provide advisory services to lenders, creditors, companies and individuals
                         in troubled financial situations. Our team works across the entire breadth of the firm to
                         provide specialist situational knowledge for making the right decisions.</p>
@@ -618,7 +618,7 @@
                     <a href="/contact" class="btn btn-medium btn-dark-gray btn-box-shadow btn-round-edge">Restructuring
                         consultation</a>
                 </div>
-                        </div>
+            </div>
 
             <!-- Corporate Finance -->
             <div id="corporate-finance" class="row align-items-center mb-8">

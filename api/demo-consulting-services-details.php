@@ -57,7 +57,7 @@
             <div class="row align-items-center justify-content-center">
                 <div class="col-lg-6 col-md-9 md-mb-50px">
                     <figure class="position-relative m-0 border-radius-5px overflow-hidden"
-                        data-anime='{ "effect": "slide", "direction": "lr", "color": "#dd6531", "duration": 1000, "delay": 0 }'>
+                        data-anime='{ "effect": "slide", "direction": "lr", "color": "#66b0df", "duration": 1000, "delay": 0 }'>
                         <img src="https://placehold.co/600x590" alt="" class="w-100">
                         <figcaption
                             class="position-absolute bottom-25px left-25px w-250px border-radius-4px bg-white d-flex align-items-center pt-20px pb-20px ps-25px pe-25px"

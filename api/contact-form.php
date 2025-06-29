@@ -83,7 +83,7 @@ if (!empty($_POST['email'])) {
 				<style>
 					body { font-family: Arial, sans-serif; margin: 0; padding: 20px; background-color: #f5f5f5; }
 					.container { max-width: 600px; margin: 0 auto; background-color: #ffffff; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
-					.header { background: linear-gradient(135deg, #dd6531 0%, #c55a42 100%); color: white; padding: 30px; text-align: center; }
+					.header { background: linear-gradient(135deg, #66b0df 0%, #4a90c2 100%); color: white; padding: 30px; text-align: center; }
 					.content { padding: 30px; }
 					.footer { background-color: #f8f9fa; padding: 20px; text-align: center; font-size: 12px; color: #666; }
 					table { width: 100%; border-collapse: collapse; }

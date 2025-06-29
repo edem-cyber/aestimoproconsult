@@ -218,7 +218,7 @@
     <!-- start section -->
     <section class="position-relative overflow-hidden">
         <div id="particles-01" data-particle="true"
-            data-particle-options='{"particles": {"number": {"value": 5,"density": {"enable": true,"value_area": 1000}},"color":{"value":["#b7b9be", "#dd6531"]},"shape": {"type": "circle","stroke":{"width":0,"color":"#000000"}},"opacity": {"value": 0.5,"random": false,"anim": {"enable": false,"speed": 1,"sync": false}},"size": {"value": 8,"random": true,"anim": {"enable": false,"sync": true}},"move": {"enable": true,"speed":2,"direction": "right","random": false,"straight": false}},"interactivity": {"detect_on": "canvas","events": {"onhover": {"enable": false,"mode": "repulse"},"onclick": {"enable": false,"mode": "push"},"resize": true}},"retina_detect": false}'
+            data-particle-options='{"particles": {"number": {"value": 5,"density": {"enable": true,"value_area": 1000}},"color":{"value":["#b7b9be", "#66b0df"]},"shape": {"type": "circle","stroke":{"width":0,"color":"#000000"}},"opacity": {"value": 0.5,"random": false,"anim": {"enable": false,"speed": 1,"sync": false}},"size": {"value": 8,"random": true,"anim": {"enable": false,"sync": true}},"move": {"enable": true,"speed":2,"direction": "right","random": false,"straight": false}},"interactivity": {"detect_on": "canvas","events": {"onhover": {"enable": false,"mode": "repulse"},"onclick": {"enable": false,"mode": "push"},"resize": true}},"retina_detect": false}'
             class="position-absolute h-100 top-0 left-0 z-index-minus-1"></div>
         <div class="container">
             <div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 justify-content-center"
@@ -272,7 +272,7 @@
             <div class="row align-items-center mt-4 lg-mt-2 mb-50px lg-mb-0">
                 <div class="col-lg-6 position-relative md-mb-70px">
                     <div class="w-75 overflow-hidden position-relative xs-w-80 border-radius-4px"
-                        data-anime='{ "effect": "slide", "direction": "lr", "color": "#dd6531", "duration": 1000, "delay": 0 }'>
+                        data-anime='{ "effect": "slide", "direction": "lr", "color": "#66b0df", "duration": 1000, "delay": 0 }'>
                         <img class="w-100" src="https://images.pexels.com/photos/9489076/pexels-photo-9489076.jpeg"
                             alt="">
                     </div>
@@ -474,7 +474,7 @@
     <!-- start section -->
     <section class="pt-0 position-relative">
         <div id="particles-02" data-particle="true"
-            data-particle-options='{"particles": {"number": {"value": 5,"density": {"enable": true,"value_area": 1000}},"color":{"value":["#b7b9be", "#dd6531"]},"shape": {"type": "circle","stroke":{"width":0,"color":"#000000"}},"opacity": {"value": 0.5,"random": false,"anim": {"enable": false,"speed": 1,"sync": false}},"size": {"value": 8,"random": true,"anim": {"enable": false,"sync": true}},"move": {"enable": true,"speed":2,"direction": "right","random": false,"straight": false}},"interactivity": {"detect_on": "canvas","events": {"onhover": {"enable": false,"mode": "repulse"},"onclick": {"enable": false,"mode": "push"},"resize": true}},"retina_detect": false}'
+            data-particle-options='{"particles": {"number": {"value": 5,"density": {"enable": true,"value_area": 1000}},"color":{"value":["#b7b9be", "#66b0df"]},"shape": {"type": "circle","stroke":{"width":0,"color":"#000000"}},"opacity": {"value": 0.5,"random": false,"anim": {"enable": false,"speed": 1,"sync": false}},"size": {"value": 8,"random": true,"anim": {"enable": false,"sync": true}},"move": {"enable": true,"speed":2,"direction": "right","random": false,"straight": false}},"interactivity": {"detect_on": "canvas","events": {"onhover": {"enable": false,"mode": "repulse"},"onclick": {"enable": false,"mode": "push"},"resize": true}},"retina_detect": false}'
             class="position-absolute h-100 top-0 left-0 z-index-minus-1"></div>
         <div class="container">
             <div class="row">
@@ -570,7 +570,7 @@
         <div class="skrollr-parallax mx-auto pt-7 pb-7 md-pt-12 md-pb-12" data-bottom-top="width: 63%"
             data-center-top="width: 100%;" data-parallax-background-ratio="0.5"
             style="background-image: url('https://images.pexels.com/photos/955395/pexels-photo-955395.jpeg')">
-            <div class="opacity-extra-medium bg-gradient-black-dark-orange"></div>
+            <div class="opacity-extra-medium bg-gradient-black-dark-blue"></div>
             <div class="container">
                 <div class="row justify-content-center align-items-center mb-5">
                     <div
@@ -597,7 +597,7 @@
     <!-- start section -->
     <section class="position-relative">
         <div id="particles-03" data-particle="true"
-            data-particle-options='{"particles": {"number": {"value": 5,"density": {"enable": true,"value_area": 1000}},"color":{"value":["#b7b9be", "#dd6531"]},"shape": {"type": "circle","stroke":{"width":0,"color":"#000000"}},"opacity": {"value": 0.5,"random": false,"anim": {"enable": false,"speed": 1,"sync": false}},"size": {"value": 8,"random": true,"anim": {"enable": false,"sync": true}},"move": {"enable": true,"speed":2,"direction": "right","random": false,"straight": false}},"interactivity": {"detect_on": "canvas","events": {"onhover": {"enable": false,"mode": "repulse"},"onclick": {"enable": false,"mode": "push"},"resize": true}},"retina_detect": false}'
+            data-particle-options='{"particles": {"number": {"value": 5,"density": {"enable": true,"value_area": 1000}},"color":{"value":["#b7b9be", "#66b0df"]},"shape": {"type": "circle","stroke":{"width":0,"color":"#000000"}},"opacity": {"value": 0.5,"random": false,"anim": {"enable": false,"speed": 1,"sync": false}},"size": {"value": 8,"random": true,"anim": {"enable": false,"sync": true}},"move": {"enable": true,"speed":2,"direction": "right","random": false,"straight": false}},"interactivity": {"detect_on": "canvas","events": {"onhover": {"enable": false,"mode": "repulse"},"onclick": {"enable": false,"mode": "push"},"resize": true}},"retina_detect": false}'
             class="position-absolute h-100 top-0 left-0 z-index-minus-1"></div>
         <div class="container">
             <div class="row justify-content-center mb-3">
@@ -616,7 +616,7 @@
                         <img src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=600&h=756&fit=crop&crop=face"
                             alt="Nathaniel Topp Yankah" />
                         <div
-                            class="w-100 h-100 d-flex flex-column justify-content-center align-items-center p-40px lg-p-30px team-content bg-gradient-dark-orange-transparent">
+                            class="w-100 h-100 d-flex flex-column justify-content-center align-items-center p-40px lg-p-30px team-content bg-gradient-dark-blue-transparent">
                             <div class="social-icon fs-20">
                                 <a href="https://www.facebook.com/" target="_blank" class="text-white"><i
                                         class="fa-brands fa-facebook-f"></i></a>
@@ -637,7 +637,7 @@
                         <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=756&fit=crop&crop=face"
                             alt="Prince Avornorkadzi" />
                         <div
-                            class="w-100 h-100 d-flex flex-column justify-content-center align-items-center p-40px team-content bg-gradient-dark-orange-transparent">
+                            class="w-100 h-100 d-flex flex-column justify-content-center align-items-center p-40px team-content bg-gradient-dark-blue-transparent">
                             <div class="social-icon fs-20">
                                 <a href="https://www.facebook.com/" target="_blank" class="text-white"><i
                                         class="fa-brands fa-facebook-f"></i></a>
@@ -658,7 +658,7 @@
                         <img src="https://images.unsplash.com/photo-1560250097-0b93528c311a?w=600&h=756&fit=crop&crop=face"
                             alt="Emmanuel Komlan Tengue" />
                         <div
-                            class="w-100 h-100 d-flex flex-column justify-content-center align-items-center p-40px team-content bg-gradient-dark-orange-transparent">
+                            class="w-100 h-100 d-flex flex-column justify-content-center align-items-center p-40px team-content bg-gradient-dark-blue-transparent">
                             <div class="social-icon fs-20">
                                 <a href="https://www.facebook.com/" target="_blank" class="text-white"><i
                                         class="fa-brands fa-facebook-f"></i></a>
@@ -679,7 +679,7 @@
                         <img src="https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=600&h=756&fit=crop&crop=face"
                             alt="Evans Kofi Adanya" />
                         <div
-                            class="w-100 h-100 d-flex flex-column justify-content-center align-items-center p-40px team-content bg-gradient-dark-orange-transparent">
+                            class="w-100 h-100 d-flex flex-column justify-content-center align-items-center p-40px team-content bg-gradient-dark-blue-transparent">
                             <div class="social-icon fs-20">
                                 <a href="https://www.facebook.com/" target="_blank" class="text-white"><i
                                         class="fa-brands fa-facebook-f"></i></a>
@@ -700,7 +700,7 @@
                         <img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=600&h=756&fit=crop&crop=face"
                             alt="Joshua Yanzu Peterkin" />
                         <div
-                            class="w-100 h-100 d-flex flex-column justify-content-center align-items-center p-40px team-content bg-gradient-dark-orange-transparent">
+                            class="w-100 h-100 d-flex flex-column justify-content-center align-items-center p-40px team-content bg-gradient-dark-blue-transparent">
                             <div class="social-icon fs-20">
                                 <a href="https://www.facebook.com/" target="_blank" class="text-white"><i
                                         class="fa-brands fa-facebook-f"></i></a>
@@ -722,7 +722,7 @@
     <!-- start section -->
     <section class="pt-4 pb-4"
         style="background-image:url('https://i.ibb.co/yBhZk21P/Chat-GPT-Image-Jun-22-2025-01-14-01-PM.png'); background-position: center 40%; background-size: cover; background-repeat: no-repeat; background-attachment: fixed;">
-        <div class="opacity-extra-medium bg-gradient-black-dark-orange"></div>
+        <div class="opacity-extra-medium bg-gradient-black-dark-blue"></div>
         <div class="container position-relative">
             <div class="row align-items-center justify-content-center text-start text-sm-center text-lg-start">
                 <div class="col-xl-5 col-lg-6 col-md-7 md-mb-25px">
