@@ -73,7 +73,7 @@
     <!-- start services overview section -->
     <section class="p-0 bg-very-light-gray">
         <div class="container-fluid">
-            <div class="row row-cols-1 row-cols-lg-4 row-cols-sm-2 justify-content-center align-items-center border-top border-color-light-medium-gray"
+            <div class="row row-cols-1 row-cols-lg-5 row-cols-sm-2 justify-content-center align-items-center border-top border-color-light-medium-gray"
                 data-anime='{ "el": "childs", "translateX": [-20, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 200, "easing": "easeOutQuad" }'>
                 <!-- start service item -->
                 <div class="col fancy-text-box-style-01 border-color-light-medium-gray p-0">
@@ -81,14 +81,34 @@
                         <div class="position-relative text-center w-100">
                             <div class="text-box last-paragraph-no-margin p-14">
                                 <i class="line-icon-Cursor-Click2 icon-extra-large d-block mb-20px text-base-color"></i>
-                                <span class="alt-font text-dark-gray fw-500 fs-22 lg-fs-20 ls-minus-05px">Accounting &
-                                    Bookkeeping</span>
-                                <p>Professional financial management</p>
+                                <span class="alt-font text-dark-gray fw-500 fs-22 lg-fs-20 ls-minus-05px">Business
+                                    Solutions</span>
+                                <p>Valuation & modeling</p>
                             </div>
                             <div class="text-box-hover p-16 lg-p-12 md-p-17 sm-p-12 xs-p-17">
-                                <p class="mb-15px">Complete accounting solutions including financial statements,
-                                    payroll, and system setup.</p>
-                                <a href="#accounting" class="btn btn-link btn-large text-base-color thin fw-600">Learn
+                                <p class="mb-15px">Portfolio valuation, financial reporting, restructuring modeling, and
+                                    business planning.</p>
+                                <a href="#business-solutions"
+                                    class="btn btn-link btn-large text-base-color thin fw-600">Learn more</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end service item -->
+                <!-- start service item -->
+                <div class="col fancy-text-box-style-01 border-color-light-medium-gray p-0">
+                    <div class="text-box-wrapper align-items-center d-flex">
+                        <div class="position-relative text-center w-100">
+                            <div class="text-box last-paragraph-no-margin p-14">
+                                <i class="line-icon-Handshake icon-extra-large d-block mb-20px text-base-color"></i>
+                                <span class="alt-font text-dark-gray fw-500 fs-22 lg-fs-20 ls-minus-05px">Transaction
+                                    Services</span>
+                                <p>M&A and due diligence</p>
+                            </div>
+                            <div class="text-box-hover p-16 lg-p-12 md-p-17 sm-p-12 xs-p-17">
+                                <p class="mb-15px">Acquisition due diligence, vendor assistance, merger integration, and
+                                    transaction advisory.</p>
+                                <a href="#transaction" class="btn btn-link btn-large text-base-color thin fw-600">Learn
                                     more</a>
                             </div>
                         </div>
@@ -96,59 +116,60 @@
                 </div>
                 <!-- end service item -->
                 <!-- start service item -->
-                <div class="col fancy-text-box-style-01 border-color-light-medium-gray p-0 md-border-end-0">
+                <div class="col fancy-text-box-style-01 border-color-light-medium-gray p-0">
+                    <div class="text-box-wrapper align-items-center d-flex">
+                        <div class="position-relative text-center w-100">
+                            <div class="text-box last-paragraph-no-margin p-14">
+                                <i class="line-icon-Gear-2 icon-extra-large d-block mb-20px text-base-color"></i>
+                                <span class="alt-font text-dark-gray fw-500 fs-22 lg-fs-20 ls-minus-05px">Restructuring
+                                    Services</span>
+                                <p>Turnaround & recovery</p>
+                            </div>
+                            <div class="text-box-hover p-16 lg-p-12 md-p-17 sm-p-12 xs-p-17">
+                                <p class="mb-15px">Financial restructuring, turnaround strategy, insolvency planning,
+                                    and business reviews.</p>
+                                <a href="#restructuring"
+                                    class="btn btn-link btn-large text-base-color thin fw-600">Learn more</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end service item -->
+                <!-- start service item -->
+                <div class="col fancy-text-box-style-01 border-color-light-medium-gray p-0">
+                    <div class="text-box-wrapper align-items-center d-flex">
+                        <div class="position-relative text-center w-100">
+                            <div class="text-box last-paragraph-no-margin p-14">
+                                <i class="line-icon-Building icon-extra-large d-block mb-20px text-base-color"></i>
+                                <span class="alt-font text-dark-gray fw-500 fs-22 lg-fs-20 ls-minus-05px">Infrastructure
+                                    & Projects</span>
+                                <p>Capital project management</p>
+                            </div>
+                            <div class="text-box-hover p-16 lg-p-12 md-p-17 sm-p-12 xs-p-17">
+                                <p class="mb-15px">Project finance advisory, procurement management, and infrastructure
+                                    development.</p>
+                                <a href="#infrastructure"
+                                    class="btn btn-link btn-large text-base-color thin fw-600">Learn more</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end service item -->
+                <!-- start service item -->
+                <div class="col fancy-text-box-style-01 border-color-light-medium-gray p-0">
                     <div class="text-box-wrapper align-items-center d-flex">
                         <div class="position-relative text-center w-100">
                             <div class="text-box last-paragraph-no-margin p-14">
                                 <i class="line-icon-Money-Bag icon-extra-large d-block mb-20px text-base-color"></i>
-                                <span class="alt-font text-dark-gray fw-500 fs-22 lg-fs-20 ls-minus-05px">Tax
-                                    Services</span>
-                                <p>Compliance & advisory</p>
+                                <span class="alt-font text-dark-gray fw-500 fs-22 lg-fs-20 ls-minus-05px">Corporate
+                                    Finance</span>
+                                <p>Strategic financial advisory</p>
                             </div>
                             <div class="text-box-hover p-16 lg-p-12 md-p-17 sm-p-12 xs-p-17">
-                                <p class="mb-15px">Tax compliance, planning, and advisory services with Ghana Revenue
-                                    Authority representation.</p>
-                                <a href="#tax" class="btn btn-link btn-large text-base-color thin fw-600">Learn more</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- end service item -->
-                <!-- start service item -->
-                <div class="col fancy-text-box-style-01 border-color-light-medium-gray p-0">
-                    <div class="text-box-wrapper align-items-center d-flex">
-                        <div class="position-relative text-center w-100">
-                            <div class="text-box last-paragraph-no-margin p-14">
-                                <i class="line-icon-Like icon-extra-large d-block mb-20px text-base-color"></i>
-                                <span class="alt-font text-dark-gray fw-500 fs-22 lg-fs-20 ls-minus-05px">Business
-                                    Valuation</span>
-                                <p>Financial modeling & analysis</p>
-                            </div>
-                            <div class="text-box-hover p-16 lg-p-12 md-p-17 sm-p-12 xs-p-17">
-                                <p class="mb-15px">Business valuations, financial modeling, and transaction advisory
-                                    services.</p>
-                                <a href="#valuation" class="btn btn-link btn-large text-base-color thin fw-600">Learn
-                                    more</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- end service item -->
-                <!-- start service item -->
-                <div class="col fancy-text-box-style-01 border-color-light-medium-gray p-0">
-                    <div class="text-box-wrapper align-items-center d-flex">
-                        <div class="position-relative text-center w-100">
-                            <div class="text-box last-paragraph-no-margin p-14">
-                                <i class="line-icon-Archery-2 icon-extra-large d-block mb-20px text-base-color"></i>
-                                <span class="alt-font text-dark-gray fw-500 fs-22 lg-fs-20 ls-minus-05px">Strategy &
-                                    Operations</span>
-                                <p>Business growth solutions</p>
-                            </div>
-                            <div class="text-box-hover p-16 lg-p-12 md-p-17 sm-p-12 xs-p-17">
-                                <p class="mb-15px">Strategic planning, organizational strategy, and operations
-                                    optimization.</p>
-                                <a href="#strategy" class="btn btn-link btn-large text-base-color thin fw-600">Learn
-                                    more</a>
+                                <p class="mb-15px">M&A advisory, private equity support, debt advisory, and management
+                                    consulting.</p>
+                                <a href="#corporate-finance"
+                                    class="btn btn-link btn-large text-base-color thin fw-600">Learn more</a>
                             </div>
                         </div>
                     </div>
@@ -493,7 +514,97 @@
         </div>
     </section>
     <!-- end additional services section -->
-    <?php include dirname(__DIR__) . '/layouts/footer.php'; ?>
+
+    <!-- start restructuring services section -->
+    <section id="restructuring" class="pt-0">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 pe-5 lg-pe-3 md-pe-15px">
+                    <div class="outside-box-right-25 lg-outside-box-right-10 md-outside-box-right-0">
+                        <img src="https://via.placeholder.com/600x450" alt="Restructuring Services" class="w-100"
+                            data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 800, "delay": 200, "staggervalue": 300, "easing": "easeOutQuad" }'>
+                    </div>
+                </div>
+                <div class="col-lg-6 ps-5 lg-ps-3 md-ps-15px">
+                    <div class="ps-15px lg-ps-0"
+                        data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
+                        <h3 class="alt-font text-dark-gray fw-700 ls-minus-1px mb-20px">Restructuring Services</h3>
+                        <p class="mb-30px">We provide advisory services to lenders, creditors, companies and individuals in troubled financial situations. Our team works across the entire breadth of the firm to provide specialist situational knowledge for making the right decisions.</p>
+                        
+                        <div class="row">
+                            <div class="col-12">
+                                <ul class="p-0 list-style-02 mb-30px">
+                                    <li class="border-color-extra-medium-gray pb-10px mb-10px"><span class="fw-600 text-dark-gray">Financial Restructuring</span> - Comprehensive restructuring and reorganization planning</li>
+                                    <li class="border-color-extra-medium-gray pb-10px mb-10px"><span class="fw-600 text-dark-gray">Turnaround Strategy</span> - Operating and financial efficiency during crisis situations</li>
+                                    <li class="border-color-extra-medium-gray pb-10px mb-10px"><span class="fw-600 text-dark-gray">Portfolio Services</span> - Distressed M&A and financing solutions</li>
+                                    <li class="border-color-extra-medium-gray pb-10px mb-10px"><span class="fw-600 text-dark-gray">Contingency Planning & Insolvency</span> - Bankruptcy and insolvency advisory</li>
+                                    <li class="pb-10px mb-10px"><span class="fw-600 text-dark-gray">Independent Business Review</span> - Comprehensive business assessments for troubled companies</li>
+                                </ul>
+                            </div>
+                        </div>
+                        
+                        <div class="d-flex align-items-center">
+                            <div class="feature-box-icon">
+                                <i class="bi bi-telephone-outbound icon-small text-base-color me-10px"></i>
+                            </div>
+                            <div class="feature-box-content">
+                                <span class="alt-font text-dark-gray fw-600">Get expert restructuring advice</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- end restructuring services section -->
+
+    <!-- start corporate finance section -->
+    <section id="corporate-finance" class="pt-0 bg-very-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 order-2 order-lg-1 ps-5 lg-ps-3 md-ps-15px">
+                    <div class="pe-15px lg-pe-0"
+                        data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
+                        <h3 class="alt-font text-dark-gray fw-700 ls-minus-1px mb-20px">Corporate Finance</h3>
+                        <p class="mb-30px">Our corporate finance division provides comprehensive commercial, financial, economic and strategic advice to companies facing significant business growth opportunities. We have developed a reputation for excellent advice and high levels of independence.</p>
+                        
+                        <div class="row">
+                            <div class="col-12">
+                                <ul class="p-0 list-style-02 mb-30px">
+                                    <li class="border-color-extra-medium-gray pb-10px mb-10px"><span class="fw-600 text-dark-gray">M&A Advisory</span> - Comprehensive merger and acquisition advisory services</li>
+                                    <li class="border-color-extra-medium-gray pb-10px mb-10px"><span class="fw-600 text-dark-gray">Private Equity Advisory</span> - Strategic support for private equity transactions</li>
+                                    <li class="border-color-extra-medium-gray pb-10px mb-10px"><span class="fw-600 text-dark-gray">Debt & Capital Advisory</span> - Debt structuring and capital raising solutions</li>
+                                    <li class="border-color-extra-medium-gray pb-10px mb-10px"><span class="fw-600 text-dark-gray">Special Situations</span> - Advisory for complex financial situations</li>
+                                    <li class="pb-10px mb-10px"><span class="fw-600 text-dark-gray">Management Advisory</span> - Strategic management consulting and guidance</li>
+                                </ul>
+                            </div>
+                        </div>
+                        
+                        <div class="d-flex align-items-center">
+                            <div class="feature-box-icon">
+                                <i class="bi bi-arrow-up-circle icon-small text-base-color me-10px"></i>
+                            </div>
+                            <div class="feature-box-content">
+                                <span class="alt-font text-dark-gray fw-600">Accelerate your business growth</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 order-1 order-lg-2 pe-5 lg-pe-3 md-pe-15px">
+                    <div class="outside-box-left-25 lg-outside-box-left-10 md-outside-box-left-0">
+                        <img src="https://via.placeholder.com/600x450" alt="Corporate Finance" class="w-100"
+                            data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 800, "delay": 200, "staggervalue": 300, "easing": "easeOutQuad" }'>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- end corporate finance section -->
+
+    <!-- start footer -->
+    <?php include '../layouts/footer.php'; ?>
+    <!-- end footer -->
+
     <!-- javascript libraries -->
     <script type="text/javascript" src="js/jquery.js"></script>
     <script type="text/javascript" src="js/vendors.min.js"></script>
