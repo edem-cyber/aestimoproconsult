@@ -1,3 +1,7 @@
+<?php
+// Include security protection system
+require_once '../includes/security.php';
+?>
 <!doctype html>
 <html class="no-js" lang="en">
 
@@ -103,6 +107,8 @@
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/responsive.css" />
     <link rel="stylesheet" href="demos/consulting/consulting.css" />
+    <!-- Security Protection Script -->
+    <script src="../js/security-protection.js" defer></script>
     <style>
         /* Override parallax to maintain 60% positioning */
         .page-title-big-typography[data-parallax-background-ratio] {
@@ -268,12 +274,14 @@
                 data-anime='{ "translateY": [100, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 100, "easing": "easeOutQuad" }'>
                 <div class="col-xl-9 col-lg-11">
                     <!-- start contact form -->
-                    <form action="api/contact-form" method="post" class="row contact-form-style-02">
+                    <form action="contact-form.php" method="post" class="row contact-form-style-02">
                         <!-- Honeypot field - completely hidden from users but visible to bots -->
                         <div class="honeypot-field">
                             <label for="website">Don't fill this out if you're human:</label>
                             <input type="text" name="website" id="website" tabindex="-1" autocomplete="off" />
                         </div>
+                        <!-- Security token field -->
+                        <input type="hidden" name="security_token" value="<?php echo get_security_token(); ?>" />
                         <div class="col-md-6 mb-30px">
                             <input class="box-shadow-quadruple-large input-name form-control required" type="text"
                                 name="name" placeholder="Your name*" />

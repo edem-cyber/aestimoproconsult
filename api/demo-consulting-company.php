@@ -1,3 +1,7 @@
+<?php
+// Include security protection system
+require_once '../includes/security.php';
+?>
 <!doctype html>
 <html class="no-js" lang="en">
 
@@ -187,6 +191,8 @@
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/responsive.css" />
     <link rel="stylesheet" href="demos/consulting/consulting.css" />
+    <!-- Security Protection Script -->
+    <script src="../js/security-protection.js" defer></script>
     <style>
         .team-member-card {
             transition: all 0.4s ease;

@@ -1,5 +1,14 @@
 <?php
+// Include security protection system
+require_once '../includes/security.php';
+
 if (!empty($_POST['email'])) {
+
+	// Validate security token
+	if (!isset($_POST['security_token']) || !validate_security_token($_POST['security_token'])) {
+		echo '{ "alert": "alert alert-danger alert-dismissable", "message": "Security validation failed. Please refresh the page and try again." }';
+		exit();
+	}
 
 	// Honeypot protection - if the 'website' field is filled, it's likely a bot
 	if (!empty($_POST['website'])) {
