@@ -381,8 +381,8 @@
                 </div>
             </div>
 
-            <!-- Strategy & Operations -->
-            <div id="strategy" class="row align-items-center mb-8">
+            <!-- Transaction Services -->
+            <div id="transaction" class="row align-items-center mb-8">
                 <div class="col-lg-6 order-2 order-lg-1">
                     <img src="https://placehold.co/570x400" alt="Strategy services" class="border-radius-5px w-100">
                 </div>
