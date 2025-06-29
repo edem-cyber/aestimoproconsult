@@ -8,7 +8,7 @@
             <!-- start footer column -->
             <div class="col-12 col-lg-6 col-md-6 col-sm-12 text-md-center text-lg-start md-mb-30px">
                 <a href="/" class="footer-logo mb-15px md-mb-20px d-inline-block"><img src="../aestimo-logo.svg"
-                        alt="Aestimo Pro Consult" style="max-height: 45px;"></a>
+                        alt="Aestimo Pro Consult" style="max-height: 55px;"></a>
                 <p class="mb-20px">Aestimo Pro Consult - Professional accounting, tax and business advisory services
                     across Africa. Licensed by CITG (CTPF D/00013).</p>
             </div>
