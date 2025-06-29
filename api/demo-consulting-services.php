@@ -279,8 +279,8 @@
                 </div>
             </div>
 
-            <!-- Accounting & Bookkeeping -->
-            <div id="accounting" class="row align-items-center mb-8">
+            <!-- Business Solutions -->
+            <div id="business-solutions" class="row align-items-center mb-8">
                 <div class="col-lg-6 md-mb-50px">
                     <div class="mb-20px">
                         <span class="text-base-color fw-600 mb-5px text-uppercase d-block">Accounting &
@@ -529,20 +529,32 @@
                     <div class="ps-15px lg-ps-0"
                         data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                         <h3 class="alt-font text-dark-gray fw-700 ls-minus-1px mb-20px">Restructuring Services</h3>
-                        <p class="mb-30px">We provide advisory services to lenders, creditors, companies and individuals in troubled financial situations. Our team works across the entire breadth of the firm to provide specialist situational knowledge for making the right decisions.</p>
-                        
+                        <p class="mb-30px">We provide advisory services to lenders, creditors, companies and individuals
+                            in troubled financial situations. Our team works across the entire breadth of the firm to
+                            provide specialist situational knowledge for making the right decisions.</p>
+
                         <div class="row">
                             <div class="col-12">
                                 <ul class="p-0 list-style-02 mb-30px">
-                                    <li class="border-color-extra-medium-gray pb-10px mb-10px"><span class="fw-600 text-dark-gray">Financial Restructuring</span> - Comprehensive restructuring and reorganization planning</li>
-                                    <li class="border-color-extra-medium-gray pb-10px mb-10px"><span class="fw-600 text-dark-gray">Turnaround Strategy</span> - Operating and financial efficiency during crisis situations</li>
-                                    <li class="border-color-extra-medium-gray pb-10px mb-10px"><span class="fw-600 text-dark-gray">Portfolio Services</span> - Distressed M&A and financing solutions</li>
-                                    <li class="border-color-extra-medium-gray pb-10px mb-10px"><span class="fw-600 text-dark-gray">Contingency Planning & Insolvency</span> - Bankruptcy and insolvency advisory</li>
-                                    <li class="pb-10px mb-10px"><span class="fw-600 text-dark-gray">Independent Business Review</span> - Comprehensive business assessments for troubled companies</li>
+                                    <li class="border-color-extra-medium-gray pb-10px mb-10px"><span
+                                            class="fw-600 text-dark-gray">Financial Restructuring</span> - Comprehensive
+                                        restructuring and reorganization planning</li>
+                                    <li class="border-color-extra-medium-gray pb-10px mb-10px"><span
+                                            class="fw-600 text-dark-gray">Turnaround Strategy</span> - Operating and
+                                        financial efficiency during crisis situations</li>
+                                    <li class="border-color-extra-medium-gray pb-10px mb-10px"><span
+                                            class="fw-600 text-dark-gray">Portfolio Services</span> - Distressed M&A and
+                                        financing solutions</li>
+                                    <li class="border-color-extra-medium-gray pb-10px mb-10px"><span
+                                            class="fw-600 text-dark-gray">Contingency Planning & Insolvency</span> -
+                                        Bankruptcy and insolvency advisory</li>
+                                    <li class="pb-10px mb-10px"><span class="fw-600 text-dark-gray">Independent Business
+                                            Review</span> - Comprehensive business assessments for troubled companies
+                                    </li>
                                 </ul>
                             </div>
                         </div>
-                        
+
                         <div class="d-flex align-items-center">
                             <div class="feature-box-icon">
                                 <i class="bi bi-telephone-outbound icon-small text-base-color me-10px"></i>
@@ -566,20 +578,31 @@
                     <div class="pe-15px lg-pe-0"
                         data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                         <h3 class="alt-font text-dark-gray fw-700 ls-minus-1px mb-20px">Corporate Finance</h3>
-                        <p class="mb-30px">Our corporate finance division provides comprehensive commercial, financial, economic and strategic advice to companies facing significant business growth opportunities. We have developed a reputation for excellent advice and high levels of independence.</p>
-                        
+                        <p class="mb-30px">Our corporate finance division provides comprehensive commercial, financial,
+                            economic and strategic advice to companies facing significant business growth opportunities.
+                            We have developed a reputation for excellent advice and high levels of independence.</p>
+
                         <div class="row">
                             <div class="col-12">
                                 <ul class="p-0 list-style-02 mb-30px">
-                                    <li class="border-color-extra-medium-gray pb-10px mb-10px"><span class="fw-600 text-dark-gray">M&A Advisory</span> - Comprehensive merger and acquisition advisory services</li>
-                                    <li class="border-color-extra-medium-gray pb-10px mb-10px"><span class="fw-600 text-dark-gray">Private Equity Advisory</span> - Strategic support for private equity transactions</li>
-                                    <li class="border-color-extra-medium-gray pb-10px mb-10px"><span class="fw-600 text-dark-gray">Debt & Capital Advisory</span> - Debt structuring and capital raising solutions</li>
-                                    <li class="border-color-extra-medium-gray pb-10px mb-10px"><span class="fw-600 text-dark-gray">Special Situations</span> - Advisory for complex financial situations</li>
-                                    <li class="pb-10px mb-10px"><span class="fw-600 text-dark-gray">Management Advisory</span> - Strategic management consulting and guidance</li>
+                                    <li class="border-color-extra-medium-gray pb-10px mb-10px"><span
+                                            class="fw-600 text-dark-gray">M&A Advisory</span> - Comprehensive merger and
+                                        acquisition advisory services</li>
+                                    <li class="border-color-extra-medium-gray pb-10px mb-10px"><span
+                                            class="fw-600 text-dark-gray">Private Equity Advisory</span> - Strategic
+                                        support for private equity transactions</li>
+                                    <li class="border-color-extra-medium-gray pb-10px mb-10px"><span
+                                            class="fw-600 text-dark-gray">Debt & Capital Advisory</span> - Debt
+                                        structuring and capital raising solutions</li>
+                                    <li class="border-color-extra-medium-gray pb-10px mb-10px"><span
+                                            class="fw-600 text-dark-gray">Special Situations</span> - Advisory for
+                                        complex financial situations</li>
+                                    <li class="pb-10px mb-10px"><span class="fw-600 text-dark-gray">Management
+                                            Advisory</span> - Strategic management consulting and guidance</li>
                                 </ul>
                             </div>
                         </div>
-                        
+
                         <div class="d-flex align-items-center">
                             <div class="feature-box-icon">
                                 <i class="bi bi-arrow-up-circle icon-small text-base-color me-10px"></i>
