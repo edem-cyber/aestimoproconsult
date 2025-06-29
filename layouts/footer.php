@@ -57,7 +57,7 @@
                 <ul class="footer-navbar md-lh-normal">
                     <li class="nav-item"><a href="#" class="nav-link">Privacy policy</a></li>
                     <li class="nav-item"><a href="#" class="nav-link">Terms and conditions</a></li>
-                    <li class="nav-item"><a href="#" class="nav-link">Copyright</a></li>
+                    <!-- <li class="nav-item"><a href="#" class="nav-link">Copyright</a></li> -->
                 </ul>
             </div>
             <!-- end footer menu -->
