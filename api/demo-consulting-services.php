@@ -328,7 +328,7 @@
             <!-- Tax Compliance & Advisory -->
             <div id="tax" class="row align-items-center mb-8">
                 <div class="col-lg-6 order-2 order-lg-1">
-                    <img src="https://images.pexels.com/photos/8837549/pexels-photo-8837549.jpeg" alt="Tax services"
+                    <img src="https://images.pexels.com/photos/29457610/pexels-photo-29457610.jpeg" alt="Tax services"
                         class="border-radius-5px w-100 service-image">
                 </div>
                 <div class="col-lg-6 order-1 order-lg-2 md-mb-50px">
@@ -398,7 +398,7 @@
                         valuation</a>
                 </div>
                 <div class="col-lg-6">
-                    <img src="https://images.pexels.com/photos/8837549/pexels-photo-8837549.jpeg"
+                    <img src="https://images.pexels.com/photos/28914932/pexels-photo-28914932.jpeg"
                         alt="Business valuation" class="border-radius-5px w-100 service-image">
                 </div>
             </div>
