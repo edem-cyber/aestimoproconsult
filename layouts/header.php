@@ -27,10 +27,10 @@
             <div class="col-auto col-lg-2 me-auto">
                 <a class="navbar-brand" href="/">
                     <img src="../aestimo-logo.svg" alt="Aestimo Pro Consult" class="default-logo"
-                        style="max-height: 65px;">
-                    <img src="../aestimo-logo.svg" alt="Aestimo Pro Consult" class="alt-logo" style="max-height: 65px;">
+                        style="max-height: 95px;">
+                    <img src="../aestimo-logo.svg" alt="Aestimo Pro Consult" class="alt-logo" style="max-height: 95px;">
                     <img src="../aestimo-logo.svg" alt="Aestimo Pro Consult" class="mobile-logo"
-                        style="max-height: 60px;">
+                        style="max-height: 90px;">
                 </a>
             </div>
             <div class="col-auto col-lg-8 menu-order position-static">
