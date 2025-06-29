@@ -203,8 +203,8 @@
                 <div class="col-lg-6 col-md-11 offset-xl-1">
                     <figure class="position-relative md-ps-40px border-radius-5px"
                         data-anime='{ "effect": "slide", "color": "#292d36", "direction":"lr", "easing": "easeOutQuad", "delay":0}'>
-                        <img src="https://images.pexels.com/photos/955389/pexels-photo-955389.jpeg" alt="Professional accounting services"
-                            class="border-radius-5px w-100">
+                        <img src="https://images.pexels.com/photos/955389/pexels-photo-955389.jpeg"
+                            alt="Professional accounting services" class="border-radius-5px w-100">
                         <figcaption
                             class="position-absolute bottom-minus-20px xs-bottom-minus-60px left-minus-50px lg-left-minus-20px xs-left-minus-0px text-white text-center last-paragraph-no-margin w-60 lg-w-70 md-w-60 xs-w-280px atropos"
                             data-atropos>
@@ -302,7 +302,7 @@
                     <a href="/contact" class="btn btn-medium btn-dark-gray btn-box-shadow btn-round-edge">Get quote</a>
                 </div>
                 <div class="col-lg-6">
-                    <img src="https://placehold.co/570x400" alt="Accounting services" class="border-radius-5px w-100">
+                    <img src="https://images.pexels.com/photos/8837549/pexels-photo-8837549.jpeg" alt="Accounting services" class="border-radius-5px w-100">
                 </div>
             </div>
 
