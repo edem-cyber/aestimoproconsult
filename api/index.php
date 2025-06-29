@@ -285,8 +285,8 @@
                 <!-- start interactive banner item -->
                 <div class="col interactive-banner-style-05 lg-mb-30px position-relative z-index-1">
                     <div class="atropos" data-atropos data-atropos-perspective="1450">
-                        <a href="demo-consulting-services-details.html"
-                            class="position-absolute z-index-1 top-0px left-0px h-100 w-100"></a>
+                        <div
+                            class="position-absolute z-index-1 top-0px left-0px h-100 w-100"></div>
                         <div class="atropos-scale">
                             <div class="atropos-rotate">
                                 <div class="atropos-inner">
@@ -321,8 +321,8 @@
                 <!-- start interactive banner item -->
                 <div class="col interactive-banner-style-05 lg-mb-30px position-relative z-index-1">
                     <div class="atropos" data-atropos data-atropos-perspective="1450">
-                        <a href="demo-consulting-services-details.html"
-                            class="position-absolute z-index-1 top-0px left-0px h-100 w-100"></a>
+                        <div
+                            class="position-absolute z-index-1 top-0px left-0px h-100 w-100"></div>
                         <div class="atropos-scale">
                             <div class="atropos-rotate">
                                 <div class="atropos-inner">
@@ -356,8 +356,8 @@
                 <!-- start interactive banner item -->
                 <div class="col interactive-banner-style-05 sm-mb-30px position-relative z-index-1">
                     <div class="atropos" data-atropos data-atropos-perspective="1450">
-                        <a href="demo-consulting-services-details.html"
-                            class="position-absolute z-index-1 top-0px left-0px h-100 w-100"></a>
+                        <div
+                            class="position-absolute z-index-1 top-0px left-0px h-100 w-100"></div>
                         <div class="atropos-scale">
                             <div class="atropos-rotate">
                                 <div class="atropos-inner">
@@ -391,8 +391,8 @@
                 <!-- start interactive banner item -->
                 <div class="col interactive-banner-style-05 position-relative z-index-1">
                     <div class="atropos" data-atropos data-atropos-perspective="1450">
-                        <a href="demo-consulting-services-details.html"
-                            class="position-absolute z-index-1 top-0px left-0px h-100 w-100"></a>
+                        <div
+                            class="position-absolute z-index-1 top-0px left-0px h-100 w-100"></div>
                         <div class="atropos-scale">
                             <div class="atropos-rotate">
                                 <div class="atropos-inner">
