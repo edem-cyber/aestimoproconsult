@@ -21,7 +21,7 @@ if (!empty($_POST['email'])) {
 	}
 
 	// Enable / Disable SMTP
-	$enable_smtp = 'no'; // yes OR no - Change to 'yes' to use Gmail SMTP
+	$enable_smtp = 'yes'; // yes OR no - Change to 'yes' to use Gmail SMTP
 
 	// Email Receiver Addresses - Both Prince and Nathaniel
 	$receiver_emails = array(
@@ -35,38 +35,9 @@ if (!empty($_POST['email'])) {
 	// Email Subject
 	$subject = 'New Contact Form Inquiry - Aestimo Pro Consult';
 
-	// Google reCaptcha secret Key
-	$grecaptcha_secret_key = 'YOUR_SECRET_KEY';
-
+	// reCAPTCHA disabled for now
 	$from = $_POST['email'];
 	$name = isset($_POST['name']) ? $_POST['name'] : '';
-
-	if (!empty($grecaptcha_secret_key) && !empty($_POST['g-recaptcha-response'])) {
-
-		$token = $_POST['g-recaptcha-response'];
-
-		// call curl to POST request
-		$ch = curl_init();
-		curl_setopt($ch, CURLOPT_URL, "https://www.google.com/recaptcha/api/siteverify");
-		curl_setopt($ch, CURLOPT_POST, 1);
-		curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query(array('secret' => $grecaptcha_secret_key, 'response' => $token)));
-		curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-		$response = curl_exec($ch);
-		curl_close($ch);
-		$arrResponse = json_decode($response, true);
-
-		// verify the response
-		if (isset($_POST['action']) && !(isset($arrResponse['success']) && $arrResponse['success'] == '1' && $arrResponse['action'] == $_POST['action'] && $arrResponse['score'] = 0.5)) {
-
-			echo '{ "alert": "alert-danger", "message": "Your message could not been sent due to invalid reCaptcha!" }';
-			die;
-
-		} else if (!isset($_POST['action']) && !(isset($arrResponse['success']) && $arrResponse['success'] == '1')) {
-
-			echo '{ "alert": "alert-danger", "message": "Your message could not been sent due to invalid reCaptcha!" }';
-			die;
-		}
-	}
 
 	if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
@@ -122,6 +93,7 @@ if (!empty($_POST['email'])) {
 			<body>
 				<div class="container">
 					<div class="header">
+						<img src="https://aestimoproconsult.vercel.app/aestimo-logo.svg" alt="Aestimo Pro Consult" style="max-height: 60px; margin-bottom: 15px;">
 						<h2 style="margin: 0; font-size: 24px;">New Contact Form Inquiry</h2>
 						<p style="margin: 10px 0 0 0; opacity: 0.9;">Aestimo Pro Consult</p>
 					</div>
@@ -194,9 +166,9 @@ if (!empty($_POST['email'])) {
 				);
 			}
 
-			require 'phpmailer/Exception.php';
-			require 'phpmailer/PHPMailer.php';
-			require 'phpmailer/SMTP.php';
+			require '../email-templates/phpmailer/Exception.php';
+			require '../email-templates/phpmailer/PHPMailer.php';
+			require '../email-templates/phpmailer/SMTP.php';
 
 			$mail = new PHPMailer\PHPMailer\PHPMailer();
 
