@@ -574,6 +574,13 @@
                     </div>
                 </div>
             </div>
+        </div>
+    </section>
+    <!-- end additional services section -->
+
+    <!-- start extended services section -->
+    <section class="bg-very-light-gray">
+        <div class="container">
             <!-- Restructuring Services -->
             <div id="restructuring" class="row align-items-center mb-8">
                 <div class="col-lg-6 order-2 order-lg-1">
@@ -654,10 +661,7 @@
 
         </div>
     </section>
-    <!-- end detailed services section -->
-
-    </section>
-    <!-- end additional services section -->
+    <!-- end extended services section -->
 
     <!-- start footer -->
     <?php include dirname(__DIR__) . '/layouts/footer.php'; ?>
