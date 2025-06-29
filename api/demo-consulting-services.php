@@ -46,7 +46,7 @@
     <?php include dirname(__DIR__) . '/layouts/header.php'; ?>
     <!-- start page title -->
     <section class="page-title-big-typography bg-dark-gray ipad-top-space-margin xs-py-0"
-        data-parallax-background-ratio="0.5" style="background-image: url(https://placehold.co/1925x1050)">
+        data-parallax-background-ratio="0.5" style="background-image: url(https://images.pexels.com/photos/5060803/pexels-photo-5060803.jpeg); background-size: cover; background-position: center 60%; background-repeat: no-repeat;">
         <div class="opacity-light bg-dark-gray"></div>
         <div class="container">
             <div class="row align-items-center justify-content-center small-screen">
