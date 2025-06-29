@@ -33,6 +33,8 @@
     <meta name="geo.placename" content="Accra, Ghana">
     <meta name="geo.position" content="5.614818;-0.205874">
     <meta name="ICBM" content="5.614818, -0.205874">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://aestimoproconsult.vercel.app/demo-consulting-contact">
     <!-- favicon icon -->
     <link rel="shortcut icon" href="../aestimo-favicon.ico">
     <link rel="apple-touch-icon" href="images/apple-touch-icon-57x57.png">

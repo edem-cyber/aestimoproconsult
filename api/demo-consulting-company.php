@@ -2,32 +2,36 @@
 <html class="no-js" lang="en">
 
 <head>
-    <title>Our Expert Team - Aestimo Pro Consult | Chartered Accountants & Tax Professionals</title>
+    <title>CITG Licensed Team | Prince Avornorkadzi & Nathaniel Yankah | Chartered Accountants Ghana</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="author" content="Aestimo Pro Consult">
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta name="description"
-        content="Meet our expert team of chartered accountants and tax professionals at Aestimo Pro Consult. Licensed professionals with international experience and local expertise across Africa.">
+        content="Meet our CITG licensed (CTPF D/00013) team of chartered accountants & tax professionals in Ghana. Prince Avornorkadzi (Tax Partner) & Nathaniel Topp Yankah (Accounting Partner) with 50+ years combined experience. ACCA, ICAG, MBA qualified professionals from UK institutions with extensive Africa & international expertise.">
+    <meta name="keywords"
+        content="Prince Avornorkadzi chartered accountant, Nathaniel Yankah ACCA, CITG licensed professionals Ghana, chartered accountants team Ghana, ICAG members, ACCA Ghana, MBA University Ghana, UK qualified accountants Ghana, tax professionals Ghana, accounting partners Ghana, Emmanuel Tengue ACCA, Evans Adanya Stanford MBA, chartered tax practitioners Ghana">
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://aestimoproconsult.vercel.app/demo-consulting-company">
     <meta property="og:title"
-        content="Our Expert Team - Aestimo Pro Consult | Chartered Accountants & Tax Professionals">
+        content="CITG Licensed Team | Prince Avornorkadzi & Nathaniel Yankah | Chartered Accountants Ghana">
     <meta property="og:description"
-        content="Meet our expert team of chartered accountants and tax professionals at Aestimo Pro Consult. Licensed professionals with international experience and local expertise across Africa.">
+        content="Meet our CITG licensed (CTPF D/00013) team of chartered accountants & tax professionals in Ghana. Prince Avornorkadzi (Tax Partner) & Nathaniel Topp Yankah (Accounting Partner) with 50+ years combined experience from leading UK institutions.">
     <meta property="og:image" content="https://aestimoproconsult.vercel.app/images/demo-consulting.jpg">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
-    <meta property="og:image:alt" content="Aestimo Pro Consult - Professional Accounting & Tax Services Team">
+    <meta property="og:image:alt" content="Aestimo Pro Consult - CITG Licensed Chartered Accountants & Tax Professionals Ghana">
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:url" content="https://aestimoproconsult.vercel.app/demo-consulting-company">
     <meta name="twitter:title"
-        content="Our Expert Team - Aestimo Pro Consult | Chartered Accountants & Tax Professionals">
+        content="CITG Licensed Team | Prince Avornorkadzi & Nathaniel Yankah | Chartered Accountants Ghana">
     <meta name="twitter:description"
-        content="Meet our expert team of chartered accountants and tax professionals at Aestimo Pro Consult. Licensed professionals with international experience and local expertise across Africa.">
+        content="Meet our CITG licensed (CTPF D/00013) team of chartered accountants & tax professionals in Ghana. Prince Avornorkadzi (Tax Partner) & Nathaniel Topp Yankah (Accounting Partner) with 50+ years combined experience.">
     <meta name="twitter:image" content="https://aestimoproconsult.vercel.app/images/demo-consulting.jpg">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://aestimoproconsult.vercel.app/demo-consulting-company">
     <!-- favicon icon -->
     <link rel="shortcut icon" href="../aestimo-favicon.ico">
     <link rel="apple-touch-icon" href="images/apple-touch-icon-57x57.png">

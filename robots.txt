@@ -1,0 +1,36 @@
+User-agent: *
+Allow: /
+
+# Priority pages for indexing
+Allow: /api/
+Allow: /demo-consulting-services
+Allow: /demo-consulting-company
+Allow: /demo-consulting-process
+Allow: /demo-consulting-contact
+
+# Block irrelevant directories
+Disallow: /css/
+Disallow: /js/
+Disallow: /fonts/
+Disallow: /sass/
+Disallow: /revolution/
+Disallow: /email-templates/
+Disallow: /includes/
+Disallow: /layouts/
+Disallow: *.pdf
+
+# Sitemap location
+Sitemap: https://aestimoproconsult.vercel.app/sitemap.xml
+
+# Crawl delay (be respectful to server resources)
+Crawl-delay: 1
+
+# Popular search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: / 

@@ -2,33 +2,35 @@
 <html class="no-js" lang="en">
 
 <head>
-    <title>Our Approach - Values & Excellence in Professional Services | Aestimo Pro Consult Ghana</title>
+    <title>Four Pillars: Passion, Diligence, Excellence & Quality | CITG Licensed Approach | Aestimo Pro Consult</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="author" content="Aestimo Pro Consult">
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta name="description"
-        content="Discover The Aestimo Pro Consult Advantage: Our Four Pillars of Passion, Diligence, Excellence & Quality. Core values of Diversity, Innovation, Integrated Approach & Objective Advice driving professional services.">
+        content="Our proven methodology: Four Pillars of Passion, Diligence, Excellence & Quality. CITG licensed (CTPF D/00013) approach with 50+ years combined experience. Core values: Diversity is Strength, Relentless Innovation, Integrated Approach & Independent Objective Advice. Long-term partnerships treating every engagement as mission-critical in Ghana.">
     <meta name="keywords"
-        content="accounting values Ghana, professional excellence, long-term partnerships accounting, chartered accountants Ghana, tax professionals values, business advisory approach">
+        content="accounting methodology Ghana, professional values Ghana, four pillars approach, passion diligence excellence quality, CITG licensed approach, long-term partnerships accounting, diversity strength innovation, integrated approach Ghana, objective advice, mission-critical engagement, professional excellence Ghana, accounting core values, business advisory methodology">
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://aestimoproconsult.vercel.app/demo-consulting-process">
-    <meta property="og:title" content="Our Approach - Values & Excellence in Professional Services">
+    <meta property="og:title" content="Four Pillars: Passion, Diligence, Excellence & Quality | CITG Licensed Approach">
     <meta property="og:description"
-        content="Learn about our core values, Four Pillars of excellence, and long-term partnership approach that makes Aestimo Pro Consult exceptional.">
+        content="Our proven methodology: Four Pillars of Passion, Diligence, Excellence & Quality. CITG licensed (CTPF D/00013) approach with 50+ years combined experience treating every engagement as mission-critical.">
     <meta property="og:image" content="https://aestimoproconsult.vercel.app/images/demo-consulting.jpg">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
-    <meta property="og:image:alt" content="Aestimo Pro Consult - Our Approach to Professional Excellence">
+    <meta property="og:image:alt" content="Aestimo Pro Consult - Four Pillars Professional Excellence Approach Ghana">
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:url" content="https://aestimoproconsult.vercel.app/demo-consulting-process">
-    <meta name="twitter:title" content="Our Approach - Values & Excellence in Professional Services">
+    <meta name="twitter:title"
+        content="Four Pillars: Passion, Diligence, Excellence & Quality | CITG Licensed Approach">
     <meta name="twitter:description"
-        content="Learn about our core values, Four Pillars of excellence, and long-term partnership approach that makes Aestimo Pro Consult exceptional.">
+        content="Our proven methodology: Four Pillars of Passion, Diligence, Excellence & Quality. CITG licensed (CTPF D/00013) approach with 50+ years combined experience treating every engagement as mission-critical.">
     <meta name="twitter:image" content="https://aestimoproconsult.vercel.app/images/demo-consulting.jpg">
     <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://aestimoproconsult.vercel.app/demo-consulting-process">
     <!-- favicon icon -->
     <link rel="shortcut icon" href="../aestimo-favicon.ico">
     <link rel="apple-touch-icon" href="images/apple-touch-icon-57x57.png">

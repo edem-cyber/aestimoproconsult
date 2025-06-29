@@ -2,30 +2,35 @@
 <html class="no-js" lang="en">
 
 <head>
-    <title>Professional Accounting & Tax Services | Aestimo Pro Consult Ghana</title>
+    <title>Accounting Services, Tax Advisory & Business Valuation Ghana | CITG Licensed | Aestimo Pro Consult</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="author" content="Aestimo Pro Consult">
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <meta name="description"
-        content="Comprehensive accounting, tax advisory, business consulting & financial services in Ghana. Licensed by CITG (CTPF D/00013). Expert chartered accountants serving businesses across Africa.">
+        content="CITG licensed (CTPF D/00013) accounting services, tax advisory, business valuation, financial reporting, IFRS training, payroll management, due diligence & M&A advisory in Ghana. Expert chartered accountants serving Accra, Dzorwulu & across Ghana with transaction services, corporate finance & business recovery solutions.">
+    <meta name="keywords"
+        content="accounting services Ghana, tax advisory Ghana, business valuation Ghana, CITG licensed services, financial reporting Ghana, IFRS training Ghana, payroll management Ghana, due diligence Ghana, M&A advisory Ghana, transaction services Ghana, corporate finance Ghana, business recovery Ghana, chartered accountants Accra, tax compliance Ghana, Ghana Revenue Authority services, restructuring services Ghana, portfolio valuation Ghana, project finance advisory Ghana">
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://aestimoproconsult.vercel.app/demo-consulting-services">
-    <meta property="og:title" content="Professional Accounting & Tax Services | Aestimo Pro Consult Ghana">
+    <meta property="og:title" content="Accounting Services, Tax Advisory & Business Valuation Ghana | CITG Licensed">
     <meta property="og:description"
-        content="Comprehensive accounting, tax advisory, business consulting & financial services in Ghana. Licensed by CITG (CTPF D/00013). Expert chartered accountants serving businesses across Africa.">
+        content="CITG licensed (CTPF D/00013) accounting services, tax advisory, business valuation, financial reporting, IFRS training & M&A advisory in Ghana. Expert chartered accountants providing comprehensive business solutions.">
     <meta property="og:image" content="https://aestimoproconsult.vercel.app/images/demo-consulting.jpg">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
-    <meta property="og:image:alt" content="Aestimo Pro Consult - Professional Accounting & Tax Services in Ghana">
+    <meta property="og:image:alt"
+        content="Aestimo Pro Consult - CITG Licensed Accounting & Tax Advisory Services Ghana">
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:url" content="https://aestimoproconsult.vercel.app/demo-consulting-services">
-    <meta name="twitter:title" content="Professional Accounting & Tax Services | Aestimo Pro Consult Ghana">
+    <meta name="twitter:title" content="Accounting Services, Tax Advisory & Business Valuation Ghana | CITG Licensed">
     <meta name="twitter:description"
-        content="Comprehensive accounting, tax advisory, business consulting & financial services in Ghana. Licensed by CITG (CTPF D/00013). Expert chartered accountants serving businesses across Africa.">
+        content="CITG licensed (CTPF D/00013) accounting services, tax advisory, business valuation, financial reporting, IFRS training & M&A advisory in Ghana. Expert chartered accountants providing comprehensive business solutions.">
     <meta name="twitter:image" content="https://aestimoproconsult.vercel.app/images/demo-consulting.jpg">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://aestimoproconsult.vercel.app/demo-consulting-services">
     <!-- favicon icon -->
     <link rel="shortcut icon" href="../aestimo-favicon.ico">
     <link rel="apple-touch-icon" href="images/apple-touch-icon-57x57.png">
